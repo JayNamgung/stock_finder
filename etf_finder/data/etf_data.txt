@@ -1,0 +1,170 @@
+Symbol: FTXL
+Short Name: First Trust Nasdaq Semiconducto
+Long Name: First Trust Nasdaq Semiconductor ETF
+Category: Technology
+
+Description:
+The fund invests at least 90% of its net assets (including investment borrowings) in the securities that comprise the index. The index is designed to provide exposure to U.S. companies comprising the semiconductor sector that have been selected based upon their liquidity and ranking. It is non-diversified.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 10.94%
+- Qualcomm Inc (QCOM): 8.85%
+- Broadcom Inc (AVGO): 8.65%
+- Applied Materials Inc (AMAT): 8.20%
+- Intel Corp (INTC): 5.04%
+
+==================================================
+
+Symbol: PSI
+Short Name: Invesco Semiconductors ETF
+Long Name: Invesco Semiconductors ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of common stocks of U.S. semiconductor companies. These companies are engaged principally in the manufacture of semiconductors. The fund is non-diversified.
+
+Top 5 Holdings:
+- Broadcom Inc (AVGO): 5.47%
+- Lam Research Corp (LRCX): 5.28%
+- NVIDIA Corp (NVDA): 5.21%
+- Applied Materials Inc (AMAT): 5.13%
+- Micron Technology Inc (MU): 4.77%
+
+==================================================
+
+Symbol: SOXX
+Short Name: iShares Semiconductor ETF
+Long Name: iShares Semiconductor ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The fund is non-diversified.
+
+Top 5 Holdings:
+- Broadcom Inc (AVGO): 9.17%
+- NVIDIA Corp (NVDA): 8.55%
+- Advanced Micro Devices Inc (AMD): 7.37%
+- Applied Materials Inc (AMAT): 6.59%
+- Qualcomm Inc (QCOM): 5.86%
+
+==================================================
+
+Symbol: XSD
+Short Name: SPDR S&P Semiconductor ETF
+Long Name: SPDR S&P Semiconductor ETF
+Category: Technology
+
+Description:
+In seeking to track the performance of the S&P Semiconductor Select Industry Index (the "index"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the semiconductors segment of the S&P Total Market Index ("S&P TMI").
+
+Top 5 Holdings:
+- Credo Technology Group Holding Ltd (CRDO): 3.46%
+- MACOM Technology Solutions Holdings Inc (MTSI): 3.35%
+- Impinj Inc (PI): 3.27%
+- Universal Display Corp (OLED): 3.27%
+- Cirrus Logic Inc (CRUS): 3.26%
+
+==================================================
+
+Symbol: SMH
+Short Name: VanEck Semiconductor ETF
+Long Name: VanEck Semiconductor ETF
+Category: Technology
+
+Description:
+The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the semiconductor industry. Such companies may include medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 19.95%
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 13.03%
+- Broadcom Inc (AVGO): 7.78%
+- Advanced Micro Devices Inc (AMD): 5.12%
+- ASML Holding NV ADR (ASML): 4.84%
+
+==================================================
+
+Symbol: PTF
+Short Name: Invesco Dorsey Wright Technolog
+Long Name: Invesco Dorsey Wright Technology Momentum ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the technology sector that have powerful relative strength or "momentum" characteristics.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 5.99%
+- KLA Corp (KLAC): 4.56%
+- Broadcom Inc (AVGO): 4.55%
+- Arista Networks Inc (ANET): 4.46%
+- AppLovin Corp Ordinary Shares - Class A (APP): 4.37%
+
+==================================================
+
+Symbol: QLD
+Short Name: ProShares Ultra QQQ
+Long Name: ProShares Ultra QQQ
+Category: Trading--Leveraged Equity
+
+Description:
+The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target. The index includes 100 of the largest domestic and international non-financial companies listed on The Nasdaq Stock Market based on market capitalization. The fund is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 6.12%
+- Apple Inc (AAPL): 5.95%
+- NVIDIA Corp (NVDA): 5.60%
+- Amazon.com Inc (AMZN): 3.70%
+- Broadcom Inc (AVGO): 3.54%
+
+==================================================
+
+Symbol: AIRR
+Short Name: First Trust RBA American Indust
+Long Name: First Trust RBA American Industrial RenaissanceTM ETF
+Category: Industrials
+
+Description:
+The fund will normally invest at least 90% of its net assets (including investment borrowings) in the equity securities that comprise the index. The index is designed to measure the performance of small and mid cap U.S. companies in the industrial and community banking sectors.
+
+Top 5 Holdings:
+- MasTec Inc (MTZ): 4.49%
+- Dycom Industries Inc (DY): 4.44%
+- Clean Harbors Inc (CLH): 4.25%
+- Sterling Infrastructure Inc (STRL): 4.20%
+- SPX Technologies Inc (SPXC): 4.15%
+
+==================================================
+
+Symbol: PSCT
+Short Name: Invesco S&P SmallCap Informatio
+Long Name: Invesco S&P SmallCap Information Technology ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 90% of its total assets in the securities that comprise the index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices, LLC compiles, maintains and calculates the index, which is designed to measure the performance of securities of small-capitalization U.S. companies in the information technology sector, as defined by the Global Industry Classification Standard.
+
+Top 5 Holdings:
+- Fabrinet (FN): 5.78%
+- SPS Commerce Inc (SPSC): 4.55%
+- Insight Enterprises Inc (NSIT): 3.59%
+- Badger Meter Inc (BMI): 3.58%
+- Marathon Digital Holdings Inc (MARA): 3.54%
+
+==================================================
+
+Symbol: XLK
+Short Name: SPDR Select Sector Fund - Techn
+Long Name: The Technology Select Sector SPDR Fund
+Category: Technology
+
+Description:
+In seeking to track the performance of the index, the fund employs a replication strategy, which means that the fund typically invests in substantially all of the securities represented in the index in approximately the same proportions as the index. It generally invests substantially all, but at least 95%, of its total assets in the securities comprising the index. The fund is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 22.17%
+- NVIDIA Corp (NVDA): 20.28%
+- Apple Inc (AAPL): 4.48%
+- Broadcom Inc (AVGO): 4.18%
+- Advanced Micro Devices Inc (AMD): 2.67%
+
+==================================================
+

@@ -6,7 +6,10 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-def get_us_etf_list(limit=5):
+# 사용자가 원하는 ETF 개수를 지정할 수 있는 전역 변수
+ETF_COUNT = 10
+
+def get_us_etf_list(limit):
     base_url = "https://finance.yahoo.com/etfs"
     etfs = []
     
@@ -27,46 +30,7 @@ def get_us_etf_list(limit=5):
             cols = row.find_all('td')
             if len(cols) >= 6:  # Ensure we have enough columns
                 symbol = cols[0].text.strip()
-                etfs.append((symbol, 'US'))
-    
-    return etfs
-
-def get_kr_etf_list(limit=5):
-    base_url = "https://finance.yahoo.com/lookup"
-    etfs = []
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    }
-
-    kr_etf_providers = ['KODEX', 'TIGER', 'ARIRANG', 'RISE', 'HANARO']
-    
-    for provider in kr_etf_providers:
-        params = {
-            's': provider,
-            't': 'E',      # ETFs
-            'm': 'KR',     # Market: Korea
-            'f': '0',      # All ETFs
-        }
-
-        response = requests.get(base_url, headers=headers, params=params)
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        table = soup.find('table', {'class': 'W(100%)'})
-        
-        if table:
-            rows = table.find_all('tr')[1:]  # Skip header row
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) >= 1:
-                    symbol = cols[0].text.strip()
-                    etfs.append((symbol, 'KR'))
-                    
-                    if len(etfs) >= limit:
-                        return etfs
-        
-        time.sleep(1)  # 요청 사이에 잠시 대기
+                etfs.append(symbol)
     
     return etfs
 
@@ -82,10 +46,11 @@ def get_top_holdings(symbol):
         if isinstance(holdings_data, pd.DataFrame) and not holdings_data.empty:
             holdings = []
             for _, row in holdings_data.iterrows():
+                holding_percent = row.get('holdingPercent', 0) * 100  # 100을 곱하여 실제 퍼센트 값으로 변환
                 holding_info = {
                     'name': row.get('holdingName', 'N/A'),
                     'symbol': row.get('symbol', 'N/A'),
-                    'percent': f"{row.get('holdingPercent', 'N/A')}%"
+                    'percent': f"{holding_percent:.2f}%"  # 소수점 둘째 자리까지 포맷팅
                 }
                 holdings.append(holding_info)
                 print(f"Added holding: {holding_info}")
@@ -99,7 +64,7 @@ def get_top_holdings(symbol):
         print(f"Error type: {type(e).__name__}")
         return []
 
-def get_etf_data(symbol, country):
+def get_etf_data(symbol):
     try:
         etf = yf.Ticker(symbol)
         
@@ -114,11 +79,7 @@ def get_etf_data(symbol, country):
         }
         
         # Top 5 보유 종목
-        if country == 'US':
-            top_holdings = get_top_holdings(symbol)
-        else:
-            print(f"Holdings data not available for {country} ETFs")
-            top_holdings = []
+        top_holdings = get_top_holdings(symbol)
         
         return {
             "info": required_info,
@@ -143,21 +104,15 @@ def save_all_text(data, filename):
             f.write('\n' + '='*50 + '\n\n')
 
 def main():
-    print("Fetching 5 US ETFs...")
-    us_etfs = get_us_etf_list(5)
+    print(f"Fetching {ETF_COUNT} US ETFs...")
+    us_etfs = get_us_etf_list(ETF_COUNT)
     print(f"Found {len(us_etfs)} US ETFs")
-    
-    print("Fetching 5 Korean ETFs...")
-    kr_etfs = get_kr_etf_list(5)
-    print(f"Found {len(kr_etfs)} Korean ETFs")
-    
-    all_etfs = us_etfs + kr_etfs
     
     all_etf_data = []
     
-    for symbol, country in all_etfs:
+    for symbol in us_etfs:
         print(f"Fetching data for {symbol}...")
-        data = get_etf_data(symbol, country)
+        data = get_etf_data(symbol)
         
         if data:
             all_etf_data.append(data)
@@ -168,7 +123,7 @@ def main():
         time.sleep(2)
     
     # ETF 정보와 top 5 보유 종목을 텍스트 파일로 저장
-    text_filename = "data/etf_data_test.txt"
+    text_filename = "data/etf_data.txt"
     os.makedirs(os.path.dirname(text_filename), exist_ok=True)
     save_all_text(all_etf_data, text_filename)
     print(f"Saved ETF data to text file: {text_filename}")
