@@ -15,6 +15,23 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: PSCT
+Short Name: Invesco S&P SmallCap Informatio
+Long Name: Invesco S&P SmallCap Information Technology ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 90% of its total assets in the securities that comprise the index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices, LLC compiles, maintains and calculates the index, which is designed to measure the performance of securities of small-capitalization U.S. companies in the information technology sector, as defined by the Global Industry Classification Standard.
+
+Top 5 Holdings:
+- Fabrinet (FN): 5.78%
+- SPS Commerce Inc (SPSC): 4.55%
+- Insight Enterprises Inc (NSIT): 3.59%
+- Badger Meter Inc (BMI): 3.58%
+- Marathon Digital Holdings Inc (MARA): 3.54%
+
+==================================================
+
 Symbol: PSI
 Short Name: Invesco Semiconductors ETF
 Long Name: Invesco Semiconductors ETF
@@ -29,91 +46,6 @@ Top 5 Holdings:
 - NVIDIA Corp (NVDA): 5.21%
 - Applied Materials Inc (AMAT): 5.13%
 - Micron Technology Inc (MU): 4.77%
-
-==================================================
-
-Symbol: SOXX
-Short Name: iShares Semiconductor ETF
-Long Name: iShares Semiconductor ETF
-Category: Technology
-
-Description:
-The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The fund is non-diversified.
-
-Top 5 Holdings:
-- Broadcom Inc (AVGO): 9.17%
-- NVIDIA Corp (NVDA): 8.55%
-- Advanced Micro Devices Inc (AMD): 7.37%
-- Applied Materials Inc (AMAT): 6.59%
-- Qualcomm Inc (QCOM): 5.86%
-
-==================================================
-
-Symbol: XSD
-Short Name: SPDR S&P Semiconductor ETF
-Long Name: SPDR S&P Semiconductor ETF
-Category: Technology
-
-Description:
-In seeking to track the performance of the S&P Semiconductor Select Industry Index (the "index"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the semiconductors segment of the S&P Total Market Index ("S&P TMI").
-
-Top 5 Holdings:
-- Credo Technology Group Holding Ltd (CRDO): 3.46%
-- MACOM Technology Solutions Holdings Inc (MTSI): 3.35%
-- Impinj Inc (PI): 3.27%
-- Universal Display Corp (OLED): 3.27%
-- Cirrus Logic Inc (CRUS): 3.26%
-
-==================================================
-
-Symbol: SMH
-Short Name: VanEck Semiconductor ETF
-Long Name: VanEck Semiconductor ETF
-Category: Technology
-
-Description:
-The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the semiconductor industry. Such companies may include medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified.
-
-Top 5 Holdings:
-- NVIDIA Corp (NVDA): 19.95%
-- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 13.03%
-- Broadcom Inc (AVGO): 7.78%
-- Advanced Micro Devices Inc (AMD): 5.12%
-- ASML Holding NV ADR (ASML): 4.84%
-
-==================================================
-
-Symbol: PTF
-Short Name: Invesco Dorsey Wright Technolog
-Long Name: Invesco Dorsey Wright Technology Momentum ETF
-Category: Technology
-
-Description:
-The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the technology sector that have powerful relative strength or "momentum" characteristics.
-
-Top 5 Holdings:
-- NVIDIA Corp (NVDA): 5.99%
-- KLA Corp (KLAC): 4.56%
-- Broadcom Inc (AVGO): 4.55%
-- Arista Networks Inc (ANET): 4.46%
-- AppLovin Corp Ordinary Shares - Class A (APP): 4.37%
-
-==================================================
-
-Symbol: QLD
-Short Name: ProShares Ultra QQQ
-Long Name: ProShares Ultra QQQ
-Category: Trading--Leveraged Equity
-
-Description:
-The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target. The index includes 100 of the largest domestic and international non-financial companies listed on The Nasdaq Stock Market based on market capitalization. The fund is non-diversified.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 6.12%
-- Apple Inc (AAPL): 5.95%
-- NVIDIA Corp (NVDA): 5.60%
-- Amazon.com Inc (AMZN): 3.70%
-- Broadcom Inc (AVGO): 3.54%
 
 ==================================================
 
@@ -134,20 +66,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: PSCT
-Short Name: Invesco S&P SmallCap Informatio
-Long Name: Invesco S&P SmallCap Information Technology ETF
+Symbol: PTF
+Short Name: Invesco Dorsey Wright Technolog
+Long Name: Invesco Dorsey Wright Technology Momentum ETF
 Category: Technology
 
 Description:
-The fund generally will invest at least 90% of its total assets in the securities that comprise the index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices, LLC compiles, maintains and calculates the index, which is designed to measure the performance of securities of small-capitalization U.S. companies in the information technology sector, as defined by the Global Industry Classification Standard.
+The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the technology sector that have powerful relative strength or "momentum" characteristics.
 
 Top 5 Holdings:
-- Fabrinet (FN): 5.78%
-- SPS Commerce Inc (SPSC): 4.55%
-- Insight Enterprises Inc (NSIT): 3.59%
-- Badger Meter Inc (BMI): 3.58%
-- Marathon Digital Holdings Inc (MARA): 3.54%
+- NVIDIA Corp (NVDA): 5.99%
+- KLA Corp (KLAC): 4.56%
+- Broadcom Inc (AVGO): 4.55%
+- Arista Networks Inc (ANET): 4.46%
+- AppLovin Corp Ordinary Shares - Class A (APP): 4.37%
 
 ==================================================
 
@@ -168,6 +100,74 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: SMH
+Short Name: VanEck Semiconductor ETF
+Long Name: VanEck Semiconductor ETF
+Category: Technology
+
+Description:
+The fund normally invests at least 80% of its total assets in securities that comprise the fund's benchmark index. The index includes common stocks and depositary receipts of U.S. exchange-listed companies in the semiconductor industry. Such companies may include medium-capitalization companies and foreign companies that are listed on a U.S. exchange. The fund is non-diversified.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 19.95%
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 13.03%
+- Broadcom Inc (AVGO): 7.78%
+- Advanced Micro Devices Inc (AMD): 5.12%
+- ASML Holding NV ADR (ASML): 4.84%
+
+==================================================
+
+Symbol: QLD
+Short Name: ProShares Ultra QQQ
+Long Name: ProShares Ultra QQQ
+Category: Trading--Leveraged Equity
+
+Description:
+The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target. The index includes 100 of the largest domestic and international non-financial companies listed on The Nasdaq Stock Market based on market capitalization. The fund is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 6.12%
+- Apple Inc (AAPL): 5.95%
+- NVIDIA Corp (NVDA): 5.60%
+- Amazon.com Inc (AMZN): 3.70%
+- Broadcom Inc (AVGO): 3.54%
+
+==================================================
+
+Symbol: XSD
+Short Name: SPDR S&P Semiconductor ETF
+Long Name: SPDR S&P Semiconductor ETF
+Category: Technology
+
+Description:
+In seeking to track the performance of the S&P Semiconductor Select Industry Index (the "index"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the semiconductors segment of the S&P Total Market Index ("S&P TMI").
+
+Top 5 Holdings:
+- Credo Technology Group Holding Ltd (CRDO): 3.46%
+- MACOM Technology Solutions Holdings Inc (MTSI): 3.35%
+- Impinj Inc (PI): 3.27%
+- Universal Display Corp (OLED): 3.27%
+- Cirrus Logic Inc (CRUS): 3.26%
+
+==================================================
+
+Symbol: SOXX
+Short Name: iShares Semiconductor ETF
+Long Name: iShares Semiconductor ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. The fund is non-diversified.
+
+Top 5 Holdings:
+- Broadcom Inc (AVGO): 9.17%
+- NVIDIA Corp (NVDA): 8.55%
+- Advanced Micro Devices Inc (AMD): 7.37%
+- Applied Materials Inc (AMAT): 6.59%
+- Qualcomm Inc (QCOM): 5.86%
+
+==================================================
+
 Symbol: DWAS
 Short Name: Invesco Dorsey Wright SmallCap 
 Long Name: Invesco DWA SmallCap Momentum ETF
@@ -182,23 +182,6 @@ Top 5 Holdings:
 - Abercrombie & Fitch Co Class A (ANF): 1.60%
 - Sterling Infrastructure Inc (STRL): 1.60%
 - ADMA Biologics Inc (ADMA): 1.56%
-
-==================================================
-
-Symbol: FDM
-Short Name: First Trust DJ Select MicroCap 
-Long Name: First Trust Dow Jones Select MicroCap Index Fund
-Category: Small Value
-
-Description:
-The fund will normally invest at least 90% of its net assets (including investment borrowings) in the securities that comprise the index. The index is designed to measure the performance of micro-cap stocks issued by U.S. companies that are comparatively liquid and have strong fundamentals relative to the micro-cap segment as a whole.
-
-Top 5 Holdings:
-- VSE Corp (VSEC): 2.26%
-- Powell Industries Inc (POWL): 2.17%
-- Crescent Energy Co Class A (CRGY): 2.01%
-- CRA International Inc (CRAI): 1.95%
-- ACM Research Inc Class A (ACMR): 1.81%
 
 ==================================================
 
@@ -219,6 +202,23 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: DALI
+Short Name: DALI,0P0001CRY7,3209
+Long Name: First Trust Dorsey Wright DALI 1 ETF
+Category: Tactical Allocation
+
+Description:
+Under normal conditions, the fund will invest at least 90% of its net assets (including investment borrowings) in the securities that comprise the index. The index has been designed based upon the principle that the asset class exhibiting the highest levels of "relative strength," based on current prices, will be the asset class with the best performance over the near term.
+
+Top 5 Holdings:
+- First Trust Large Cap Gr AlphaDEX® ETF (FTC): 17.37%
+- First Trust Small Cap Gr AlphaDEX® ETF (FYC): 17.22%
+- First Trust Nasdaq Semiconductor ETF (FTXL): 14.70%
+- First Trust NASDAQ-100-Tech Sector ETF (QTEC): 13.71%
+- First Trust Dow Jones Internet ETF (FDN): 12.77%
+
+==================================================
+
 Symbol: NULG
 Short Name: Nuveen ESG Large-Cap Growth ETF
 Long Name: Nuveen ESG Large-Cap Growth ETF
@@ -236,37 +236,37 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: PRN
-Short Name: Invesco Dorsey Wright Industria
-Long Name: Invesco Dorsey Wright Industrials Momentum ETF
-Category: Industrials
+Symbol: FDM
+Short Name: First Trust DJ Select MicroCap 
+Long Name: First Trust Dow Jones Select MicroCap Index Fund
+Category: Small Value
 
 Description:
-The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the industrials sector that have powerful relative strength or "momentum" characteristics.
+The fund will normally invest at least 90% of its net assets (including investment borrowings) in the securities that comprise the index. The index is designed to measure the performance of micro-cap stocks issued by U.S. companies that are comparatively liquid and have strong fundamentals relative to the micro-cap segment as a whole.
 
 Top 5 Holdings:
-- Heico Corp (HEI): 4.31%
-- Cintas Corp (CTAS): 4.27%
-- Vertiv Holdings Co Class A (VRT): 3.72%
-- Trane Technologies PLC Class A (TT): 3.57%
-- Comfort Systems USA Inc (FIX): 3.55%
+- VSE Corp (VSEC): 2.26%
+- Powell Industries Inc (POWL): 2.17%
+- Crescent Energy Co Class A (CRGY): 2.01%
+- CRA International Inc (CRAI): 1.95%
+- ACM Research Inc Class A (ACMR): 1.81%
 
 ==================================================
 
-Symbol: DALI
-Short Name: DALI,0P0001CRY7,3209
-Long Name: First Trust Dorsey Wright DALI 1 ETF
-Category: Tactical Allocation
+Symbol: PSCI
+Short Name: Invesco S&P SmallCap Industrial
+Long Name: Invesco S&P SmallCap Industrials ETF
+Category: Industrials
 
 Description:
-Under normal conditions, the fund will invest at least 90% of its net assets (including investment borrowings) in the securities that comprise the index. The index has been designed based upon the principle that the asset class exhibiting the highest levels of "relative strength," based on current prices, will be the asset class with the best performance over the near term.
+The fund generally will invest at least 90% of its total assets in the securities that comprise the index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices, LLC compiles, maintains and calculates the index, which is designed to measure the performance of securities of small-capitalization U.S. companies in the industrials sector, as defined by the Global Industry Classification Standard.
 
 Top 5 Holdings:
-- First Trust Large Cap Gr AlphaDEX® ETF (FTC): 17.37%
-- First Trust Small Cap Gr AlphaDEX® ETF (FYC): 17.22%
-- First Trust Nasdaq Semiconductor ETF (FTXL): 14.70%
-- First Trust NASDAQ-100-Tech Sector ETF (QTEC): 13.71%
-- First Trust Dow Jones Internet ETF (FDN): 12.77%
+- Robert Half Inc (RHI): 3.18%
+- SPX Technologies Inc (SPXC): 3.16%
+- Mueller Industries Inc (MLI): 3.11%
+- Alaska Air Group Inc (ALK): 2.46%
+- Federal Signal Corp (FSS): 2.46%
 
 ==================================================
 
@@ -304,20 +304,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: PSCI
-Short Name: Invesco S&P SmallCap Industrial
-Long Name: Invesco S&P SmallCap Industrials ETF
+Symbol: PRN
+Short Name: Invesco Dorsey Wright Industria
+Long Name: Invesco Dorsey Wright Industrials Momentum ETF
 Category: Industrials
 
 Description:
-The fund generally will invest at least 90% of its total assets in the securities that comprise the index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices, LLC compiles, maintains and calculates the index, which is designed to measure the performance of securities of small-capitalization U.S. companies in the industrials sector, as defined by the Global Industry Classification Standard.
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the industrials sector that have powerful relative strength or "momentum" characteristics.
 
 Top 5 Holdings:
-- Robert Half Inc (RHI): 3.18%
-- SPX Technologies Inc (SPXC): 3.16%
-- Mueller Industries Inc (MLI): 3.11%
-- Alaska Air Group Inc (ALK): 2.46%
-- Federal Signal Corp (FSS): 2.46%
+- Heico Corp (HEI): 4.31%
+- Cintas Corp (CTAS): 4.27%
+- Vertiv Holdings Co Class A (VRT): 3.72%
+- Trane Technologies PLC Class A (TT): 3.57%
+- Comfort Systems USA Inc (FIX): 3.55%
 
 ==================================================
 
@@ -372,23 +372,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: IGM
-Short Name: iShares Expanded Tech Sector ET
-Long Name: iShares Expanded Tech Sector ETF
-Category: Technology
-
-Description:
-The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. A significant portion of the underlying index is represented by securities of companies in the technology industry or sector. It is non-diversified.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 8.51%
-- Meta Platforms Inc Class A (META): 8.41%
-- Apple Inc (AAPL): 8.27%
-- NVIDIA Corp (NVDA): 8.02%
-- Alphabet Inc Class A (GOOGL): 4.75%
-
-==================================================
-
 Symbol: XSMO
 Short Name: Invesco S&P SmallCap Momentum E
 Long Name: Invesco S&P SmallCap Momentum ETF
@@ -423,6 +406,23 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: IGM
+Short Name: iShares Expanded Tech Sector ET
+Long Name: iShares Expanded Tech Sector ETF
+Category: Technology
+
+Description:
+The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. A significant portion of the underlying index is represented by securities of companies in the technology industry or sector. It is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 8.51%
+- Meta Platforms Inc Class A (META): 8.41%
+- Apple Inc (AAPL): 8.27%
+- NVIDIA Corp (NVDA): 8.02%
+- Alphabet Inc Class A (GOOGL): 4.75%
+
+==================================================
+
 Symbol: GSSC
 Short Name: GS ActiveBeta U.S. Small Cap Eq
 Long Name: Goldman Sachs ActiveBeta U.S. Small Cap Equity ETF
@@ -437,23 +437,6 @@ Top 5 Holdings:
 - Abercrombie & Fitch Co Class A (ANF): 0.47%
 - Sprouts Farmers Market Inc (SFM): 0.41%
 - Comfort Systems USA Inc (FIX): 0.40%
-
-==================================================
-
-Symbol: SPHB
-Short Name: Invesco S&P 500 High Beta ETF
-Long Name: Invesco S&P 500 High Beta ETF
-Category: Mid-Cap Blend
-
-Description:
-The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices LLC compiles, maintains and calculates the index, which is designed to measure the performance of the 100 constituents of the S&P 500® Index that have the highest sensitivity to market returns, or “beta,” over the past 12 months as determined by the index provider.
-
-Top 5 Holdings:
-- Super Micro Computer Inc (SMCI): 2.15%
-- NVIDIA Corp (NVDA): 2.09%
-- Carnival Corp (CCL): 1.67%
-- Monolithic Power Systems Inc (MPWR): 1.66%
-- Teradyne Inc (TER): 1.56%
 
 ==================================================
 
@@ -474,20 +457,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: EES
-Short Name: WisdomTree U.S. SmallCap Fund
-Long Name: WisdomTree U.S. SmallCap Earnings Fund
-Category: Small Value
+Symbol: SPHB
+Short Name: Invesco S&P 500 High Beta ETF
+Long Name: Invesco S&P 500 High Beta ETF
+Category: Mid-Cap Blend
 
 Description:
-Under normal circumstances, at least 95% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a fundamentally weighted index that is comprised of earnings-generating companies within the small-capitalization segment of the U.S. stock market. The fund is non-diversified.
+The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, S&P Dow Jones Indices LLC compiles, maintains and calculates the index, which is designed to measure the performance of the 100 constituents of the S&P 500® Index that have the highest sensitivity to market returns, or “beta,” over the past 12 months as determined by the index provider.
 
 Top 5 Holdings:
-- Cal-Maine Foods Inc (CALM): 0.82%
-- TPG Inc Ordinary Shares - Class A (TPG): 0.72%
-- Bread Financial Holdings Inc (BFH): 0.66%
-- Levi Strauss & Co Class A (LEVI): 0.63%
-- BGC Group Inc Ordinary Shares Class A (BGC): 0.57%
+- Super Micro Computer Inc (SMCI): 2.15%
+- NVIDIA Corp (NVDA): 2.09%
+- Carnival Corp (CCL): 1.67%
+- Monolithic Power Systems Inc (MPWR): 1.66%
+- Teradyne Inc (TER): 1.56%
 
 ==================================================
 
@@ -508,6 +491,23 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: EES
+Short Name: WisdomTree U.S. SmallCap Fund
+Long Name: WisdomTree U.S. SmallCap Earnings Fund
+Category: Small Value
+
+Description:
+Under normal circumstances, at least 95% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a fundamentally weighted index that is comprised of earnings-generating companies within the small-capitalization segment of the U.S. stock market. The fund is non-diversified.
+
+Top 5 Holdings:
+- Cal-Maine Foods Inc (CALM): 0.82%
+- TPG Inc Ordinary Shares - Class A (TPG): 0.72%
+- Bread Financial Holdings Inc (BFH): 0.66%
+- Levi Strauss & Co Class A (LEVI): 0.63%
+- BGC Group Inc Ordinary Shares Class A (BGC): 0.57%
+
+==================================================
+
 Symbol: SQLV
 Short Name: Royce Quant Small-Cap Quality V
 Long Name: Royce Quant Small-Cap Quality Value ETF
@@ -522,6 +522,57 @@ Top 5 Holdings:
 - Consensus Cloud Solutions Inc Ordinary Shares (CCSI): 0.77%
 - DXC Technology Co Registered Shs When Issued (DXC): 0.75%
 - International Seaways Inc (INSW): 0.73%
+
+==================================================
+
+Symbol: EWW
+Short Name: iShares Inc iShares MSCI Mexico
+Long Name: iShares MSCI Mexico ETF
+Category: Miscellaneous Region
+
+Description:
+The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is a free float-adjusted market capitalization-weighted index that is designed to measure the performance of the large-, mid- and small- capitalization segments of the equity market in Mexico. The fund is non-diversified.
+
+Top 5 Holdings:
+- Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D- (FEMSAUBD): 10.05%
+- Grupo Financiero Banorte SAB de CV Class O (GFNORTEO.MX): 9.93%
+- Wal - Mart de Mexico SAB de CV (WALMEX.MX): 8.51%
+- America Movil SAB de CV Ordinary Shares - Class B (AMXB.MX): 7.41%
+- Grupo Mexico SAB de CV Class B (GMEXICOB.MX): 7.40%
+
+==================================================
+
+Symbol: XHB
+Short Name: SPDR Series Trust SPDR Homebuil
+Long Name: SPDR S&P Homebuilders ETF
+Category: Consumer Cyclical
+
+Description:
+In seeking to track the performance of the S&P Homebuilders Select Industry Index (the "index"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the homebuilders segment of the S&P Total Market Index ("S&P TMI").
+
+Top 5 Holdings:
+- KB Home (KBH): 3.41%
+- Allegion PLC (ALLE): 3.37%
+- Lennox International Inc (LII): 3.33%
+- Carlisle Companies Inc (CSL): 3.32%
+- Taylor Morrison Home Corp (TMHC): 3.32%
+
+==================================================
+
+Symbol: HEDJ
+Short Name: WisdomTree Europe Hedged Equity
+Long Name: WisdomTree Europe Hedged Equity Fund
+Category: Europe Stock
+
+Description:
+The fund invests at least 95% of its total assets in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a dividend weighted index designed to provides exposure to European equity securities, particularly shares of European exporters, while at the same time neutralizing exposure to fluctuations between the value of the U.S. dollar and the euro. The fund is non-diversified.
+
+Top 5 Holdings:
+- Stellantis NV (STLAM.MI): 7.30%
+- Banco Bilbao Vizcaya Argentaria SA (BBVA.MC): 7.18%
+- ASML Holding NV (ASML.AS): 5.60%
+- Siemens AG (SIE.DE): 4.07%
+- Deutsche Telekom AG (DTE.DE): 3.41%
 
 ==================================================
 
@@ -559,54 +610,17 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: XHB
-Short Name: SPDR Series Trust SPDR Homebuil
-Long Name: SPDR S&P Homebuilders ETF
-Category: Consumer Cyclical
-
-Description:
-In seeking to track the performance of the S&P Homebuilders Select Industry Index (the "index"), the fund employs a sampling strategy. It generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index. The index represents the homebuilders segment of the S&P Total Market Index ("S&P TMI").
-
-Top 5 Holdings:
-- KB Home (KBH): 3.41%
-- Allegion PLC (ALLE): 3.37%
-- Lennox International Inc (LII): 3.33%
-- Carlisle Companies Inc (CSL): 3.32%
-- Taylor Morrison Home Corp (TMHC): 3.32%
-
-==================================================
-
-Symbol: EWW
-Short Name: iShares Inc iShares MSCI Mexico
-Long Name: iShares MSCI Mexico ETF
-Category: Miscellaneous Region
-
-Description:
-The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is a free float-adjusted market capitalization-weighted index that is designed to measure the performance of the large-, mid- and small- capitalization segments of the equity market in Mexico. The fund is non-diversified.
-
-Top 5 Holdings:
-- Fomento Economico Mexicano SAB de CV Units Cons. Of 1 Shs-B- And 4 Shs-D- (FEMSAUBD): 10.05%
-- Grupo Financiero Banorte SAB de CV Class O (GFNORTEO.MX): 9.93%
-- Wal - Mart de Mexico SAB de CV (WALMEX.MX): 8.51%
-- America Movil SAB de CV Ordinary Shares - Class B (AMXB.MX): 7.41%
-- Grupo Mexico SAB de CV Class B (GMEXICOB.MX): 7.40%
-
-==================================================
-
-Symbol: HEDJ
-Short Name: WisdomTree Europe Hedged Equity
-Long Name: WisdomTree Europe Hedged Equity Fund
+Symbol: HEZU
+Short Name: iShares Currency Hedged MSCI Eu
+Long Name: iShares Currency Hedged MSCI Eurozone ETF
 Category: Europe Stock
 
 Description:
-The fund invests at least 95% of its total assets in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a dividend weighted index designed to provides exposure to European equity securities, particularly shares of European exporters, while at the same time neutralizing exposure to fluctuations between the value of the U.S. dollar and the euro. The fund is non-diversified.
+The fund generally will invest at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents.
 
 Top 5 Holdings:
-- Stellantis NV (STLAM.MI): 7.30%
-- Banco Bilbao Vizcaya Argentaria SA (BBVA.MC): 7.18%
-- ASML Holding NV (ASML.AS): 5.60%
-- Siemens AG (SIE.DE): 4.07%
-- Deutsche Telekom AG (DTE.DE): 3.41%
+- iShares MSCI Eurozone ETF (EZU): 99.94%
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 0.03%
 
 ==================================================
 
@@ -627,20 +641,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: HEZU
-Short Name: iShares Currency Hedged MSCI Eu
-Long Name: iShares Currency Hedged MSCI Eurozone ETF
-Category: Europe Stock
-
-Description:
-The fund generally will invest at least 80% of its assets in the component securities of the index and in investments that have economic characteristics that are substantially identical to the component securities of the index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents.
-
-Top 5 Holdings:
-- iShares MSCI Eurozone ETF (EZU): 99.94%
-- BlackRock Cash Funds Treasury SL Agency (XTSLA): 0.03%
-
-==================================================
-
 Symbol: DBEZ
 Short Name: Xtrackers MSCI Eurozone Hedged 
 Long Name: Xtrackers MSCI Eurozone Hedged Equity ETF
@@ -658,20 +658,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: CQQQ
-Short Name: Invesco China Technology ETF
-Long Name: Invesco China Technology ETF
-Category: China Region
+Symbol: PTH
+Short Name: Invesco Dorsey Wright Healthcar
+Long Name: Invesco Dorsey Wright Healthcare Momentum ETF
+Category: Health
 
 Description:
-The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index, as well as ADRs and GDRs that represent securities in the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains, and calculates the underlying index. The underlying index may include China A-Shares, B Shares, H Shares, N Shares, Red Chips, P Chips and S Chips. The fund is non-diversified.
+The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the healthcare sector that have powerful relative strength or "momentum" characteristics.
 
 Top 5 Holdings:
-- Tencent Holdings Ltd (0700.HK): 10.28%
-- PDD Holdings Inc ADR (PDD): 8.41%
-- Meituan Class B (3690.HK): 8.12%
-- Baidu Inc (9888.HK): 6.83%
-- Kuaishou Technology Ordinary Shares - Class B (1024.HK): 5.70%
+- Eli Lilly and Co (LLY): 5.97%
+- Medpace Holdings Inc (MEDP): 4.59%
+- IDEXX Laboratories Inc (IDXX): 4.42%
+- Tenet Healthcare Corp (THC): 4.06%
+- Avidity Biosciences Inc Ordinary Shares (RNA): 4.01%
 
 ==================================================
 
@@ -692,20 +692,37 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: PTH
-Short Name: Invesco Dorsey Wright Healthcar
-Long Name: Invesco Dorsey Wright Healthcare Momentum ETF
-Category: Health
+Symbol: CQQQ
+Short Name: Invesco China Technology ETF
+Long Name: Invesco China Technology ETF
+Category: China Region
 
 Description:
-The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index. The underlying index is composed of at least 30 securities of companies in the healthcare sector that have powerful relative strength or "momentum" characteristics.
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index, as well as ADRs and GDRs that represent securities in the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains, and calculates the underlying index. The underlying index may include China A-Shares, B Shares, H Shares, N Shares, Red Chips, P Chips and S Chips. The fund is non-diversified.
 
 Top 5 Holdings:
-- Eli Lilly and Co (LLY): 5.97%
-- Medpace Holdings Inc (MEDP): 4.59%
-- IDEXX Laboratories Inc (IDXX): 4.42%
-- Tenet Healthcare Corp (THC): 4.06%
-- Avidity Biosciences Inc Ordinary Shares (RNA): 4.01%
+- Tencent Holdings Ltd (0700.HK): 10.28%
+- PDD Holdings Inc ADR (PDD): 8.41%
+- Meituan Class B (3690.HK): 8.12%
+- Baidu Inc (9888.HK): 6.83%
+- Kuaishou Technology Ordinary Shares - Class B (1024.HK): 5.70%
+
+==================================================
+
+Symbol: DSI
+Short Name: iShares MSCI KLD 400 Social ETF
+Long Name: iShares MSCI KLD 400 Social ETF
+Category: Large Blend
+
+Description:
+The fund generally invests at least 90% of its assets in securities of the underlying index and in depositary receipts representing securities of the underlying index. The underlying index is a free float-adjusted market capitalization index designed to provide exposure to U.S. companies that have positive environmental, social and governance ("ESG") characteristics.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 12.34%
+- NVIDIA Corp (NVDA): 12.08%
+- Alphabet Inc Class A (GOOGL): 4.20%
+- Alphabet Inc Class C (GOOG): 3.66%
+- Tesla Inc (TSLA): 2.22%
 
 ==================================================
 
@@ -740,23 +757,6 @@ Top 5 Holdings:
 - Agios Pharmaceuticals Inc (AGIO): 0.30%
 - Blue Bird Corp (BLBD): 0.29%
 - Cirrus Logic Inc (CRUS): 0.28%
-
-==================================================
-
-Symbol: DSI
-Short Name: iShares MSCI KLD 400 Social ETF
-Long Name: iShares MSCI KLD 400 Social ETF
-Category: Large Blend
-
-Description:
-The fund generally invests at least 90% of its assets in securities of the underlying index and in depositary receipts representing securities of the underlying index. The underlying index is a free float-adjusted market capitalization index designed to provide exposure to U.S. companies that have positive environmental, social and governance ("ESG") characteristics.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 12.34%
-- NVIDIA Corp (NVDA): 12.08%
-- Alphabet Inc Class A (GOOGL): 4.20%
-- Alphabet Inc Class C (GOOG): 3.66%
-- Tesla Inc (TSLA): 2.22%
 
 ==================================================
 
@@ -828,40 +828,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: IVW
-Short Name: iShares S&P 500 Growth ETF
-Long Name: iShares S&P 500 Growth ETF
-Category: Large Growth
-
-Description:
-The index measures the performance of the large-capitalization growth sector of the U.S. equity market. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. It is non-diversified.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 12.57%
-- NVIDIA Corp (NVDA): 11.50%
-- Apple Inc (AAPL): 11.49%
-- Amazon.com Inc (AMZN): 4.51%
-- Meta Platforms Inc Class A (META): 4.36%
-
-==================================================
-
-Symbol: NUSC
-Short Name: Nuveen ESG Small-Cap ETF
-Long Name: Nuveen ESG Small-Cap ETF
-Category: Small Blend
-
-Description:
-Under normal market conditions, the fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in component securities of the index. The index is comprised of equity securities issued by small-capitalization companies listed on U.S. exchanges that meet certain environmental, social, and governance ("ESG") criteria.
-
-Top 5 Holdings:
-- Service Corp International (SCI): 0.98%
-- EMCOR Group Inc (EME): 0.97%
-- Murphy USA Inc (MUSA): 0.91%
-- WEX Inc (WEX): 0.86%
-- US Foods Holding Corp (USFD): 0.84%
-
-==================================================
-
 Symbol: VIOO
 Short Name: Vanguard S&P Small-Cap 600 ETF
 Long Name: Vanguard S&P Small-Cap 600 Index Fund ETF Shares
@@ -930,20 +896,37 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: RZV
-Short Name: Invesco S&P Smallcap 600 Pure V
-Long Name: Invesco S&P SmallCap 600 Pure Value ETF
-Category: Small Value
+Symbol: IVW
+Short Name: iShares S&P 500 Growth ETF
+Long Name: iShares S&P 500 Growth ETF
+Category: Large Growth
 
 Description:
-The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of a subset of securities from the S&P SmallCap 600® Index that exhibit strong value characteristics.
+The index measures the performance of the large-capitalization growth sector of the U.S. equity market. The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index and may invest up to 20% of its assets in certain futures, options and swap contracts, cash and cash equivalents. It is non-diversified.
 
 Top 5 Holdings:
-- JetBlue Airways Corp (JBLU): 1.89%
-- Phinia Inc (PHIN): 1.88%
-- World Kinect Corp (WKC): 1.87%
-- EchoStar Corp Class A (SATS): 1.76%
-- Bread Financial Holdings Inc (BFH): 1.70%
+- Microsoft Corp (MSFT): 12.57%
+- NVIDIA Corp (NVDA): 11.50%
+- Apple Inc (AAPL): 11.49%
+- Amazon.com Inc (AMZN): 4.51%
+- Meta Platforms Inc Class A (META): 4.36%
+
+==================================================
+
+Symbol: NUSC
+Short Name: Nuveen ESG Small-Cap ETF
+Long Name: Nuveen ESG Small-Cap ETF
+Category: Small Blend
+
+Description:
+Under normal market conditions, the fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in component securities of the index. The index is comprised of equity securities issued by small-capitalization companies listed on U.S. exchanges that meet certain environmental, social, and governance ("ESG") criteria.
+
+Top 5 Holdings:
+- Service Corp International (SCI): 0.98%
+- EMCOR Group Inc (EME): 0.97%
+- Murphy USA Inc (MUSA): 0.91%
+- WEX Inc (WEX): 0.86%
+- US Foods Holding Corp (USFD): 0.84%
 
 ==================================================
 
@@ -961,6 +944,23 @@ Top 5 Holdings:
 - NVIDIA Corp (NVDA): 11.32%
 - Amazon.com Inc (AMZN): 4.96%
 - Meta Platforms Inc Class A (META): 4.34%
+
+==================================================
+
+Symbol: RZV
+Short Name: Invesco S&P Smallcap 600 Pure V
+Long Name: Invesco S&P SmallCap 600 Pure Value ETF
+Category: Small Value
+
+Description:
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is composed of a subset of securities from the S&P SmallCap 600® Index that exhibit strong value characteristics.
+
+Top 5 Holdings:
+- JetBlue Airways Corp (JBLU): 1.89%
+- Phinia Inc (PHIN): 1.88%
+- World Kinect Corp (WKC): 1.87%
+- EchoStar Corp Class A (SATS): 1.76%
+- Bread Financial Holdings Inc (BFH): 1.70%
 
 ==================================================
 
@@ -998,20 +998,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: CWS
-Short Name: AdvisorShares Focused Equity ET
-Long Name: AdvisorShares Focused Equity ETF
+Symbol: XMMO
+Short Name: Invesco S&P MidCap Momentum ETF
+Long Name: Invesco S&P MidCap Momentum ETF
 Category: Mid-Cap Blend
 
 Description:
-The fund seeks to achieve its investment objective by investing primarily in a focused group of U.S. exchange listed equity securities, including common and preferred stock and ADRs. It invests at least 80% of its net assets in equity securities. The Advisor allocates the fund's portfolio investments using research obtained from a model developed by Edward J. Elfenbein, which uses a variety of methods for security selection and focuses on firms that are fundamentally sound and have shown consistency in their financial results and high earnings quality.
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is composed of constituents of the S&P MidCap 400® Index that have the highest "momentum score."
 
 Top 5 Holdings:
-- Amphenol Corp Class A (APH): 5.11%
-- Miller Industries Inc (MLR): 4.88%
-- Fair Isaac Corp (FICO): 4.82%
-- Heico Corp (HEI): 4.72%
-- Stryker Corp (SYK): 4.30%
+- Manhattan Associates Inc (MANH): 3.39%
+- Lennox International Inc (LII): 3.26%
+- EMCOR Group Inc (EME): 2.91%
+- Owens-Corning Inc (OC): 2.69%
+- e.l.f. Beauty Inc (ELF): 2.61%
 
 ==================================================
 
@@ -1032,23 +1032,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: XMMO
-Short Name: Invesco S&P MidCap Momentum ETF
-Long Name: Invesco S&P MidCap Momentum ETF
-Category: Mid-Cap Blend
-
-Description:
-The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains and calculates the underlying index, which is composed of constituents of the S&P MidCap 400® Index that have the highest "momentum score."
-
-Top 5 Holdings:
-- Manhattan Associates Inc (MANH): 3.39%
-- Lennox International Inc (LII): 3.26%
-- EMCOR Group Inc (EME): 2.91%
-- Owens-Corning Inc (OC): 2.69%
-- e.l.f. Beauty Inc (ELF): 2.61%
-
-==================================================
-
 Symbol: XAR
 Short Name: SPDR S&P Aerospace & Defense ET
 Long Name: SPDR S&P Aerospace & Defense ETF
@@ -1066,37 +1049,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: JPSE
-Short Name: JPMorgan Diversified Return U.S
-Long Name: JPMorgan Diversified Return U.S. Small Cap Equity ETF
-Category: Small Blend
-
-Description:
-The fund will invest at least 80% of its assets in securities included in the underlying index. "Assets" means net assets, plus the amount of borrowing for investment purposes. The underlying index is comprised of U.S. equity securities selected to represent a diversified set of factor characteristics. The rules based proprietary multi-factor selection process utilizes the following characteristics: value, momentum and quality.
-
-Top 5 Holdings:
-- Carpenter Technology Corp (CRS): 0.43%
-- Primo Water Corp (PRMW.TO): 0.42%
-- FormFactor Inc (FORM): 0.42%
-- EchoStar Corp Class A (SATS): 0.41%
-- Sprouts Farmers Market Inc (SFM): 0.41%
-
-==================================================
-
-Symbol: VFMF
-Short Name: Vanguard U.S. Multifactor ETF
-Long Name: Vanguard U.S. Multifactor ETF Shares
+Symbol: CWS
+Short Name: AdvisorShares Focused Equity ET
+Long Name: AdvisorShares Focused Equity ETF
 Category: Mid-Cap Blend
 
 Description:
-The fund invests primarily in U.S. common stocks with the potential to generate higher returns relative to the broad U.S. equity market by investing in stocks with relatively strong recent performance, strong fundamentals, and low prices relative to fundamentals as determined by the advisor. Under normal circumstances, at least 80% of its assets will be invested in securities issued by U.S. companies.
+The fund seeks to achieve its investment objective by investing primarily in a focused group of U.S. exchange listed equity securities, including common and preferred stock and ADRs. It invests at least 80% of its net assets in equity securities. The Advisor allocates the fund's portfolio investments using research obtained from a model developed by Edward J. Elfenbein, which uses a variety of methods for security selection and focuses on firms that are fundamentally sound and have shown consistency in their financial results and high earnings quality.
 
 Top 5 Holdings:
-- Alphabet Inc Class C (GOOG): 1.24%
-- Marathon Petroleum Corp (MPC): 1.13%
-- American International Group Inc (AIG): 1.06%
-- AbbVie Inc (ABBV): 1.05%
-- Valero Energy Corp (VLO): 1.00%
+- Amphenol Corp Class A (APH): 5.11%
+- Miller Industries Inc (MLR): 4.88%
+- Fair Isaac Corp (FICO): 4.82%
+- Heico Corp (HEI): 4.72%
+- Stryker Corp (SYK): 4.30%
 
 ==================================================
 
@@ -1117,20 +1083,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: QQQ
-Short Name: Invesco QQQ Trust, Series 1
-Long Name: Invesco QQQ Trust
-Category: Large Growth
+Symbol: VFMF
+Short Name: Vanguard U.S. Multifactor ETF
+Long Name: Vanguard U.S. Multifactor ETF Shares
+Category: Mid-Cap Blend
 
 Description:
-To maintain the correspondence between the composition and weights of the securities in the trust (the "securities") and the stocks in the NASDAQ-100 Index®, the adviser adjusts the securities from time to time to conform to periodic changes in the identity and/or relative weights of index securities. The composition and weighting of the securities portion of a portfolio deposit are also adjusted to conform to changes in the index.
+The fund invests primarily in U.S. common stocks with the potential to generate higher returns relative to the broad U.S. equity market by investing in stocks with relatively strong recent performance, strong fundamentals, and low prices relative to fundamentals as determined by the advisor. Under normal circumstances, at least 80% of its assets will be invested in securities issued by U.S. companies.
 
 Top 5 Holdings:
-- Microsoft Corp (MSFT): 8.64%
-- Apple Inc (AAPL): 8.40%
-- NVIDIA Corp (NVDA): 7.91%
-- Amazon.com Inc (AMZN): 5.23%
-- Broadcom Inc (AVGO): 5.00%
+- Alphabet Inc Class C (GOOG): 1.24%
+- Marathon Petroleum Corp (MPC): 1.13%
+- American International Group Inc (AIG): 1.06%
+- AbbVie Inc (ABBV): 1.05%
+- Valero Energy Corp (VLO): 1.00%
 
 ==================================================
 
@@ -1151,6 +1117,23 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: QQQ
+Short Name: Invesco QQQ Trust, Series 1
+Long Name: Invesco QQQ Trust
+Category: Large Growth
+
+Description:
+To maintain the correspondence between the composition and weights of the securities in the trust (the "securities") and the stocks in the NASDAQ-100 Index®, the adviser adjusts the securities from time to time to conform to periodic changes in the identity and/or relative weights of index securities. The composition and weighting of the securities portion of a portfolio deposit are also adjusted to conform to changes in the index.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 8.64%
+- Apple Inc (AAPL): 8.40%
+- NVIDIA Corp (NVDA): 7.91%
+- Amazon.com Inc (AMZN): 5.23%
+- Broadcom Inc (AVGO): 5.00%
+
+==================================================
+
 Symbol: VIOV
 Short Name: Vanguard S&P Small-Cap 600 Valu
 Long Name: Vanguard S&P Small-Cap 600 Value Index Fund ETF Shares
@@ -1165,23 +1148,6 @@ Top 5 Holdings:
 - Organon & Co Ordinary Shares (OGN): 0.89%
 - Lincoln National Corp (LNC): 0.88%
 - Mr. Cooper Group Inc (COOP): 0.88%
-
-==================================================
-
-Symbol: LEAD
-Short Name: Siren DIVCON Leaders Dividend E
-Long Name: Siren DIVCON Leaders Dividend ETF
-Category: Large Blend
-
-Description:
-Under normal circumstances, at least 80% of the fund's net assets will be invested in component securities of the benchmark index. The benchmark index is designed to capitalize on the theory that, over time, companies that consistently grow their dividends tend to have investment returns above overall market returns, and companies that do not grow (or cut) their dividends tend to have investment returns below overall market returns.
-
-Top 5 Holdings:
-- Costco Wholesale Corp (COST): 4.62%
-- Broadcom Inc (AVGO): 3.82%
-- KLA Corp (KLAC): 3.21%
-- Monolithic Power Systems Inc (MPWR): 2.96%
-- Snap-on Inc (SNA): 2.67%
 
 ==================================================
 
@@ -1202,23 +1168,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: VONG
-Short Name: Vanguard Russell 1000 Growth ET
-Long Name: Vanguard Russell 1000 Growth Index Fund ETF Shares
-Category: Large Growth
-
-Description:
-The index is designed to measure the performance of large-capitalization growth stocks in the United States. The Advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index. The fund may become non-diversified, as defined under the Investment Company Act of 1940, solely as a result of a change in relative market capitalization or index weighting of one or more constituents of the index.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 12.36%
-- Apple Inc (AAPL): 11.39%
-- NVIDIA Corp (NVDA): 10.93%
-- Amazon.com Inc (AMZN): 6.68%
-- Meta Platforms Inc Class A (META): 4.11%
-
-==================================================
-
 Symbol: ONEQ
 Short Name: Fidelity Nasdaq Composite Index
 Long Name: Fidelity Nasdaq Composite Index ETF
@@ -1236,20 +1185,37 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: QMOM
-Short Name: Alpha Architect U.S. Quantitati
-Long Name: Alpha Architect U.S. Quantitative Momentum ETF
-Category: Mid-Cap Growth
+Symbol: LEAD
+Short Name: Siren DIVCON Leaders Dividend E
+Long Name: Siren DIVCON Leaders Dividend ETF
+Category: Large Blend
 
 Description:
-The Sub-Adviser employs a multi-step, quantitative, rules-based methodology to identify a portfolio of approximately 50 to 200 equity securities with the highest relative momentum. A “momentum” style of investing emphasizes investing in securities that have had higher recent total return performance compared to other securities. The Sub-Adviser then employs proprietary screens to eliminate companies with issues that may negatively impact their momentum. The fund may also invest up to 20% of its assets in cash and cash equivalents, other investment companies, as well as securities and other instruments.
+Under normal circumstances, at least 80% of the fund's net assets will be invested in component securities of the benchmark index. The benchmark index is designed to capitalize on the theory that, over time, companies that consistently grow their dividends tend to have investment returns above overall market returns, and companies that do not grow (or cut) their dividends tend to have investment returns below overall market returns.
 
 Top 5 Holdings:
-- Evercore Inc Class A (EVR): 2.14%
-- Arista Networks Inc (ANET): 2.09%
-- Carpenter Technology Corp (CRS): 2.08%
-- Nutanix Inc Class A (NTNX): 2.08%
-- FTAI Aviation Ltd (FTAI): 2.06%
+- Costco Wholesale Corp (COST): 4.62%
+- Broadcom Inc (AVGO): 3.82%
+- KLA Corp (KLAC): 3.21%
+- Monolithic Power Systems Inc (MPWR): 2.96%
+- Snap-on Inc (SNA): 2.67%
+
+==================================================
+
+Symbol: VONG
+Short Name: Vanguard Russell 1000 Growth ET
+Long Name: Vanguard Russell 1000 Growth Index Fund ETF Shares
+Category: Large Growth
+
+Description:
+The index is designed to measure the performance of large-capitalization growth stocks in the United States. The Advisor attempts to replicate the target index by investing all, or substantially all, of its assets in the stocks that make up the index, holding each stock in approximately the same proportion as its weighting in the index. The fund may become non-diversified, as defined under the Investment Company Act of 1940, solely as a result of a change in relative market capitalization or index weighting of one or more constituents of the index.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 12.36%
+- Apple Inc (AAPL): 11.39%
+- NVIDIA Corp (NVDA): 10.93%
+- Amazon.com Inc (AMZN): 6.68%
+- Meta Platforms Inc Class A (META): 4.11%
 
 ==================================================
 
@@ -1270,6 +1236,23 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: QMOM
+Short Name: Alpha Architect U.S. Quantitati
+Long Name: Alpha Architect U.S. Quantitative Momentum ETF
+Category: Mid-Cap Growth
+
+Description:
+The Sub-Adviser employs a multi-step, quantitative, rules-based methodology to identify a portfolio of approximately 50 to 200 equity securities with the highest relative momentum. A “momentum” style of investing emphasizes investing in securities that have had higher recent total return performance compared to other securities. The Sub-Adviser then employs proprietary screens to eliminate companies with issues that may negatively impact their momentum. The fund may also invest up to 20% of its assets in cash and cash equivalents, other investment companies, as well as securities and other instruments.
+
+Top 5 Holdings:
+- Evercore Inc Class A (EVR): 2.14%
+- Arista Networks Inc (ANET): 2.09%
+- Carpenter Technology Corp (CRS): 2.08%
+- Nutanix Inc Class A (NTNX): 2.08%
+- FTAI Aviation Ltd (FTAI): 2.06%
+
+==================================================
+
 Symbol: NUMG
 Short Name: Nuveen ESG Mid-Cap Growth ETF
 Long Name: Nuveen ESG Mid-Cap Growth ETF
@@ -1287,23 +1270,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: FNDA
-Short Name: Schwab Fundamental U.S. Small C
-Long Name: Schwab Fundamental U.S. Small Company ETF
-Category: Small Blend
-
-Description:
-The fund normally will invest at least 90% of its net assets (including, for this purpose, any borrowings for investment purposes) in stocks included in the index. The index measures the performance of the small company size segment by fundamental overall company scores (scores), which are created using as the universe the U.S. companies in the RAFI Global Equity Investable Universe (the parent universe).
-
-Top 5 Holdings:
-- Abercrombie & Fitch Co Class A (ANF): 0.58%
-- EchoStar Corp Class A (SATS): 0.45%
-- Royal Caribbean Group (RCL): 0.41%
-- Coinbase Global Inc Ordinary Shares - Class A (COIN): 0.40%
-- Super Micro Computer Inc (SMCI): 0.37%
-
-==================================================
-
 Symbol: SLYG
 Short Name: SPDR S&P 600 Small Cap Growth E
 Long Name: SPDR S&P 600 Small Cap Growth ETF
@@ -1318,6 +1284,23 @@ Top 5 Holdings:
 - Ensign Group Inc (ENSG): 1.15%
 - SPS Commerce Inc (SPSC): 1.15%
 - ATI Inc (ATI): 1.14%
+
+==================================================
+
+Symbol: FNDA
+Short Name: Schwab Fundamental U.S. Small C
+Long Name: Schwab Fundamental U.S. Small Company ETF
+Category: Small Blend
+
+Description:
+The fund normally will invest at least 90% of its net assets (including, for this purpose, any borrowings for investment purposes) in stocks included in the index. The index measures the performance of the small company size segment by fundamental overall company scores (scores), which are created using as the universe the U.S. companies in the RAFI Global Equity Investable Universe (the parent universe).
+
+Top 5 Holdings:
+- Abercrombie & Fitch Co Class A (ANF): 0.58%
+- EchoStar Corp Class A (SATS): 0.45%
+- Royal Caribbean Group (RCL): 0.41%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 0.40%
+- Super Micro Computer Inc (SMCI): 0.37%
 
 ==================================================
 
@@ -1423,23 +1406,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: FCTR
-Short Name: First Trust Lunt U.S. Factor Ro
-Long Name: First Trust Lunt U.S. Factor Rotation ETF
-Category: Large Blend
-
-Description:
-The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks that comprise the index. The index utilizes the index provider's risk-adjusted relative strength methodology to allocate exposure to securities exhibiting either high or low levels of the characteristics associated with one of four primary investing factors: momentum, value, quality and volatility. The fund is non-diversified.
-
-Top 5 Holdings:
-- Vertiv Holdings Co Class A (VRT): 2.06%
-- NVIDIA Corp (NVDA): 1.63%
-- Coinbase Global Inc Ordinary Shares - Class A (COIN): 1.57%
-- Vistra Corp (VST): 1.50%
-- Paychex Inc (PAYX): 1.37%
-
-==================================================
-
 Symbol: IETC
 Short Name: iShares U.S. Tech Independence 
 Long Name: iShares U.S. Tech Independence Focused ETF
@@ -1508,20 +1474,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: QGRO
-Short Name: American Century U.S. Quality G
-Long Name: American Century U.S. Quality Growth ETF
-Category: Large Growth
+Symbol: FCTR
+Short Name: First Trust Lunt U.S. Factor Ro
+Long Name: First Trust Lunt U.S. Factor Rotation ETF
+Category: Large Blend
 
 Description:
-Under normal market conditions, the fund invests at least 80% of its assets, exclusive of collateral held from securities lending, in the component securities of the underlying index. The index is designed to select securities of large- and mid-capitalization U.S. companies with attractive growth and quality fundamentals.
+The fund will normally invest at least 90% of its net assets (including investment borrowings) in the common stocks that comprise the index. The index utilizes the index provider's risk-adjusted relative strength methodology to allocate exposure to securities exhibiting either high or low levels of the characteristics associated with one of four primary investing factors: momentum, value, quality and volatility. The fund is non-diversified.
 
 Top 5 Holdings:
-- Booking Holdings Inc (BKNG): 3.10%
-- Alphabet Inc Class A (GOOGL): 3.07%
-- ServiceNow Inc (NOW): 3.05%
-- Meta Platforms Inc Class A (META): 2.55%
-- NVIDIA Corp (NVDA): 2.33%
+- Vertiv Holdings Co Class A (VRT): 2.06%
+- NVIDIA Corp (NVDA): 1.63%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 1.57%
+- Vistra Corp (VST): 1.50%
+- Paychex Inc (PAYX): 1.37%
 
 ==================================================
 
@@ -1542,23 +1508,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: TMFC
-Short Name: Motley Fool 100 Index ETF ETF
-Long Name: Motley Fool 100 Index ETF
-Category: Large Growth
-
-Description:
-Under normal circumstances, at least 80% of the fund's total assets (exclusive of any collateral held from securities lending) will be invested in the component securities of the index. The index was established by TMF in 2017 and is a proprietary, rules-based index designed to track the performance of the 100 largest, most liquid U.S. companies that have been recommended by TMF’s analysts and newsletters. The fund is non-diversified.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 11.91%
-- Apple Inc (AAPL): 11.68%
-- NVIDIA Corp (NVDA): 10.65%
-- Alphabet Inc Class C (GOOG): 8.15%
-- Amazon.com Inc (AMZN): 7.20%
-
-==================================================
-
 Symbol: XSVM
 Short Name: Invesco S&P SmallCap Value with
 Long Name: Invesco S&P SmallCap Value with Momentum ETF
@@ -1573,6 +1522,40 @@ Top 5 Holdings:
 - Par Pacific Holdings Inc (PARR): 1.63%
 - StoneX Group Inc (SNEX): 1.49%
 - The ODP Corp (ODP): 1.40%
+
+==================================================
+
+Symbol: QGRO
+Short Name: American Century U.S. Quality G
+Long Name: American Century U.S. Quality Growth ETF
+Category: Large Growth
+
+Description:
+Under normal market conditions, the fund invests at least 80% of its assets, exclusive of collateral held from securities lending, in the component securities of the underlying index. The index is designed to select securities of large- and mid-capitalization U.S. companies with attractive growth and quality fundamentals.
+
+Top 5 Holdings:
+- Booking Holdings Inc (BKNG): 3.10%
+- Alphabet Inc Class A (GOOGL): 3.07%
+- ServiceNow Inc (NOW): 3.05%
+- Meta Platforms Inc Class A (META): 2.55%
+- NVIDIA Corp (NVDA): 2.33%
+
+==================================================
+
+Symbol: TMFC
+Short Name: Motley Fool 100 Index ETF ETF
+Long Name: Motley Fool 100 Index ETF
+Category: Large Growth
+
+Description:
+Under normal circumstances, at least 80% of the fund's total assets (exclusive of any collateral held from securities lending) will be invested in the component securities of the index. The index was established by TMF in 2017 and is a proprietary, rules-based index designed to track the performance of the 100 largest, most liquid U.S. companies that have been recommended by TMF’s analysts and newsletters. The fund is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 11.91%
+- Apple Inc (AAPL): 11.68%
+- NVIDIA Corp (NVDA): 10.65%
+- Alphabet Inc Class C (GOOG): 8.15%
+- Amazon.com Inc (AMZN): 7.20%
 
 ==================================================
 
@@ -1593,23 +1576,6 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: EZA
-Short Name: iShares MSCI South Africa Index
-Long Name: iShares MSCI South Africa ETF
-Category: Miscellaneous Region
-
-Description:
-The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is designed to measure the performance of the large- and mid-capitalization segments of the equity market in South Africa. The underlying index uses a capping methodology that limits the weight of any single “group entity” to a maximum of 25% of the underlying index weight. The fund is non-diversified.
-
-Top 5 Holdings:
-- Naspers Ltd Class N (NPN.JO): 16.03%
-- Firstrand Ltd (FSR.JO): 9.52%
-- Standard Bank Group Ltd (SBK.JO): 6.93%
-- Gold Fields Ltd (GFI.JO): 5.99%
-- Capitec Bank Holdings Ltd (CPI.JO): 5.61%
-
-==================================================
-
 Symbol: EUDG
 Short Name: WisdomTree Europe Quality Divid
 Long Name: WisdomTree Europe Quality Dividend Growth Fund
@@ -1627,20 +1593,20 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: SCHG
-Short Name: Schwab U.S. Large-Cap Growth ET
-Long Name: Schwab U.S. Large-Cap Growth ETF
-Category: Large Growth
+Symbol: EZA
+Short Name: iShares MSCI South Africa Index
+Long Name: iShares MSCI South Africa ETF
+Category: Miscellaneous Region
 
 Description:
-To pursue its goal, the fund generally invests in stocks that are included in the Dow Jones U.S. Large-Cap Growth Total Stock Market Index. The index includes the large-cap growth portion of the Dow Jones U.S. Total Stock Market Index actually available to investors in the marketplace. The Dow Jones U.S. Large-Cap Growth Total Stock Market Index includes the components ranked 1-750 by full market capitalization and that are classified as "growth" based on a number of factors.
+The fund generally will invest at least 80% of its assets in the component securities of its underlying index and in investments that have economic characteristics that are substantially identical to the component securities of its underlying index. The underlying index is designed to measure the performance of the large- and mid-capitalization segments of the equity market in South Africa. The underlying index uses a capping methodology that limits the weight of any single “group entity” to a maximum of 25% of the underlying index weight. The fund is non-diversified.
 
 Top 5 Holdings:
-- Microsoft Corp (MSFT): 12.28%
-- NVIDIA Corp (NVDA): 11.23%
-- Apple Inc (AAPL): 11.22%
-- Amazon.com Inc (AMZN): 6.54%
-- Meta Platforms Inc Class A (META): 4.09%
+- Naspers Ltd Class N (NPN.JO): 16.03%
+- Firstrand Ltd (FSR.JO): 9.52%
+- Standard Bank Group Ltd (SBK.JO): 6.93%
+- Gold Fields Ltd (GFI.JO): 5.99%
+- Capitec Bank Holdings Ltd (CPI.JO): 5.61%
 
 ==================================================
 
@@ -1675,6 +1641,23 @@ Top 5 Holdings:
 - Avery Dennison Corp (AVY): 0.30%
 - Lennox International Inc (LII): 0.29%
 - EMCOR Group Inc (EME): 0.29%
+
+==================================================
+
+Symbol: SCHG
+Short Name: Schwab U.S. Large-Cap Growth ET
+Long Name: Schwab U.S. Large-Cap Growth ETF
+Category: Large Growth
+
+Description:
+To pursue its goal, the fund generally invests in stocks that are included in the Dow Jones U.S. Large-Cap Growth Total Stock Market Index. The index includes the large-cap growth portion of the Dow Jones U.S. Total Stock Market Index actually available to investors in the marketplace. The Dow Jones U.S. Large-Cap Growth Total Stock Market Index includes the components ranked 1-750 by full market capitalization and that are classified as "growth" based on a number of factors.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 12.28%
+- NVIDIA Corp (NVDA): 11.23%
+- Apple Inc (AAPL): 11.22%
+- Amazon.com Inc (AMZN): 6.54%
+- Meta Platforms Inc Class A (META): 4.09%
 
 ==================================================
 

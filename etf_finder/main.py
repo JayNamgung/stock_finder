@@ -11,51 +11,52 @@ import json
 import concurrent.futures
 
 # 사용자가 원하는 ETF 개수를 지정할 수 있는 전역 변수
-ETF_COUNT = 4000  # 원하는 ETF 수로 설정
+ETF_COUNT = 3602  # 원하는 ETF 수로 설정
 MAX_WORKERS = 10  # 동시에 실행할 최대 worker 수
 
-def get_us_etf_list(limit):
-    base_url = "https://finance.yahoo.com/etfs"
+def get_us_etf_list():
+    base_url = "https://stockanalysis.com/etf/"
     etfs = []
-    offset = 0
+    page = 1
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
 
-    print(f"Starting to fetch {limit} US ETFs...")
+    print(f"Starting to fetch {ETF_COUNT} US ETFs from Stock Analysis...")
 
-    while len(etfs) < limit:
-        url = f"{base_url}?count=100&offset={offset}"
+    while len(etfs) < ETF_COUNT:
+        url = f"{base_url}?p={page}"
         try:
             response = requests.get(url, headers=headers)
             response.raise_for_status()
             
             soup = BeautifulSoup(response.text, 'html.parser')
-            table = soup.find('table', {'class': 'W(100%)'})
+            table = soup.find('table', {'class': 'symbol-table'})
             
             if table:
-                rows = table.find_all('tr')[1:]  # Skip header row
+                rows = table.find('tbody').find_all('tr')
                 for row in rows:
-                    if len(etfs) >= limit:
+                    if len(etfs) >= ETF_COUNT:
                         break
-                    cols = row.find_all('td')
-                    if len(cols) >= 6:  # Ensure we have enough columns
-                        symbol = cols[0].text.strip()
-                        etfs.append(symbol)
-                        
-                        # 100개 단위로 로그 출력
-                        if len(etfs) % 100 == 0:
-                            print(f"Fetched {len(etfs)} ETFs so far...")
+                    symbol = row.find('td', {'class': 'sym'}).text.strip()
+                    etfs.append(symbol)
+                    
+                    # 100개 단위로 로그 출력
+                    if len(etfs) % 100 == 0:
+                        print(f"Fetched {len(etfs)} ETFs so far...")
             
-            offset += 100
+            page += 1
             time.sleep(random.uniform(1, 3))  # Random delay between requests
         except RequestException as e:
             print(f"Error fetching ETF list: {e}")
             time.sleep(60)  # Wait for 60 seconds before retrying
+        
+        if not table:  # If no table is found, we've reached the end of the list
+            break
     
     print(f"Completed fetching {len(etfs)} ETFs.")
-    return etfs[:limit]
+    return etfs[:ETF_COUNT]
 
 def get_top_holdings(symbol, max_retries=3):
     for attempt in range(max_retries):
@@ -157,7 +158,7 @@ def process_etf(symbol, processed_etfs):
 
 def main():
     print(f"Fetching {ETF_COUNT} US ETFs...")
-    us_etfs = get_us_etf_list(ETF_COUNT)
+    us_etfs = get_us_etf_list()
     print(f"Found {len(us_etfs)} US ETFs")
     
     processed_etfs = load_progress()
