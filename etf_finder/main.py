@@ -23,6 +23,8 @@ def get_us_etf_list(limit):
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
 
+    print(f"Starting to fetch {limit} US ETFs...")
+
     while len(etfs) < limit:
         url = f"{base_url}?count=100&offset={offset}"
         try:
@@ -41,6 +43,10 @@ def get_us_etf_list(limit):
                     if len(cols) >= 6:  # Ensure we have enough columns
                         symbol = cols[0].text.strip()
                         etfs.append(symbol)
+                        
+                        # 100개 단위로 로그 출력
+                        if len(etfs) % 100 == 0:
+                            print(f"Fetched {len(etfs)} ETFs so far...")
             
             offset += 100
             time.sleep(random.uniform(1, 3))  # Random delay between requests
@@ -48,6 +54,7 @@ def get_us_etf_list(limit):
             print(f"Error fetching ETF list: {e}")
             time.sleep(60)  # Wait for 60 seconds before retrying
     
+    print(f"Completed fetching {len(etfs)} ETFs.")
     return etfs[:limit]
 
 def get_top_holdings(symbol, max_retries=3):
