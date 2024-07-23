@@ -58,3 +58,63 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: 140700.KS
+Short Name: KODEX INSURANCE
+Long Name: Samsung Investment Trust - Kodex Insurance ETF
+Category: N/A
+
+Description:
+No description available.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: 266390.KS
+Short Name: KODEX Consumer Discretionary
+Long Name: KODEX Consumer Discretionary
+Category: N/A
+
+Description:
+No description available.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: 437070.KS
+Short Name: KODEX Asia USD Bond ESG Plus Ac
+Long Name: SAMSUNG KODEX Asia USD Bond ESG Plus Active ETF
+Category: N/A
+
+Description:
+No description available.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: 117460.KS
+Short Name: KODEX ENERGY&CHEMICALS
+Long Name: Kodex Energy & Chemicals
+Category: N/A
+
+Description:
+No description available.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: 329660.KS
+Short Name: KODEX TRF5050
+Long Name: Samsung Kodex TRF5050 ETF
+Category: N/A
+
+Description:
+No description available.
+
+Top 5 Holdings:
+
+==================================================
+

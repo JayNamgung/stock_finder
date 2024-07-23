@@ -1,14 +1,10 @@
 import yfinance as yf
+from yahooquery import Ticker
 import os
 import time
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 
 def get_us_etf_list(limit=5):
     base_url = "https://finance.yahoo.com/etfs"
@@ -35,46 +31,75 @@ def get_us_etf_list(limit=5):
     
     return etfs
 
+def get_kr_etf_list(limit=5):
+    base_url = "https://finance.yahoo.com/lookup"
+    etfs = []
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+
+    kr_etf_providers = ['KODEX', 'TIGER', 'ARIRANG', 'RISE', 'HANARO']
+    
+    for provider in kr_etf_providers:
+        params = {
+            's': provider,
+            't': 'E',      # ETFs
+            'm': 'KR',     # Market: Korea
+            'f': '0',      # All ETFs
+        }
+
+        response = requests.get(base_url, headers=headers, params=params)
+        response.raise_for_status()
+        
+        soup = BeautifulSoup(response.text, 'html.parser')
+        table = soup.find('table', {'class': 'W(100%)'})
+        
+        if table:
+            rows = table.find_all('tr')[1:]  # Skip header row
+            for row in rows:
+                cols = row.find_all('td')
+                if len(cols) >= 1:
+                    symbol = cols[0].text.strip()
+                    etfs.append((symbol, 'KR'))
+                    
+                    if len(etfs) >= limit:
+                        return etfs
+        
+        time.sleep(1)  # 요청 사이에 잠시 대기
+    
+    return etfs
+
 def get_top_holdings(symbol):
-    url = f"https://seekingalpha.com/symbol/{symbol}/holdings"
-    
-    chrome_options = Options()
-    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-    
-    driver = webdriver.Chrome(options=chrome_options)
-    
     try:
-        print(f"Fetching holdings for {symbol} from URL: {url}")
-        driver.get(url)
+        print(f"Fetching holdings for {symbol} using yahooquery")
+        etf = Ticker(symbol)
         
-        # Wait for the table to load
-        wait = WebDriverWait(driver, 10)
-        table = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "holdings")))
+        # Get fund top holdings
+        holdings_data = etf.fund_top_holdings
+        print(f"Raw holdings data: {holdings_data}")
         
-        print("Found holdings table")
-        
-        holdings = []
-        rows = table.find_elements(By.TAG_NAME, "tr")[1:6]  # Get top 5 holdings, skip header
-        for row in rows:
-            cols = row.find_elements(By.TAG_NAME, "td")
-            if len(cols) >= 3:
-                holding = {
-                    'name': cols[1].text.strip(),
-                    'symbol': cols[0].text.strip(),
-                    'percent': cols[2].text.strip()
+        if isinstance(holdings_data, pd.DataFrame) and not holdings_data.empty:
+            holdings = []
+            for _, row in holdings_data.iterrows():
+                holding_info = {
+                    'name': row.get('holdingName', 'N/A'),
+                    'symbol': row.get('symbol', 'N/A'),
+                    'percent': f"{row.get('holdingPercent', 'N/A')}%"
                 }
-                holdings.append(holding)
-                print(f"Added holding: {holding}")
-        
-        return holdings
+                holdings.append(holding_info)
+                print(f"Added holding: {holding_info}")
+            
+            return holdings[:5]  # Return only top 5 holdings
+        else:
+            print(f"No holdings data available for {symbol}")
+            return []
     except Exception as e:
         print(f"Error fetching top holdings for {symbol}: {str(e)}")
-    finally:
-        driver.quit()
-    
-    return []
+        print(f"Error type: {type(e).__name__}")
+        return []
 
-def get_etf_data(symbol):
+def get_etf_data(symbol, country):
     try:
         etf = yf.Ticker(symbol)
         
@@ -89,7 +114,11 @@ def get_etf_data(symbol):
         }
         
         # Top 5 보유 종목
-        top_holdings = get_top_holdings(symbol)
+        if country == 'US':
+            top_holdings = get_top_holdings(symbol)
+        else:
+            print(f"Holdings data not available for {country} ETFs")
+            top_holdings = []
         
         return {
             "info": required_info,
@@ -118,11 +147,17 @@ def main():
     us_etfs = get_us_etf_list(5)
     print(f"Found {len(us_etfs)} US ETFs")
     
+    print("Fetching 5 Korean ETFs...")
+    kr_etfs = get_kr_etf_list(5)
+    print(f"Found {len(kr_etfs)} Korean ETFs")
+    
+    all_etfs = us_etfs + kr_etfs
+    
     all_etf_data = []
     
-    for symbol, _ in us_etfs:
+    for symbol, country in all_etfs:
         print(f"Fetching data for {symbol}...")
-        data = get_etf_data(symbol)
+        data = get_etf_data(symbol, country)
         
         if data:
             all_etf_data.append(data)
