@@ -4,8 +4,13 @@ import time
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
-def get_us_etf_list(limit=10):
+def get_us_etf_list(limit=5):
     base_url = "https://finance.yahoo.com/etfs"
     etfs = []
     
@@ -30,68 +35,43 @@ def get_us_etf_list(limit=10):
     
     return etfs
 
-def get_kr_etf_list(limit=10):
-    base_url = "https://finance.yahoo.com/lookup"
-    etfs = []
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
-    }
-
-    kr_etf_providers = ['KODEX', 'TIGER', 'ARIRANG', 'KBSTAR', 'HANARO']
-    
-    for provider in kr_etf_providers:
-        params = {
-            's': provider,
-            't': 'E',      # ETFs
-            'm': 'KR',     # Market: Korea
-            'f': '0',      # All ETFs
-        }
-
-        response = requests.get(base_url, headers=headers, params=params)
-        response.raise_for_status()
-        
-        soup = BeautifulSoup(response.text, 'html.parser')
-        table = soup.find('table', {'class': 'W(100%)'})
-        
-        if table:
-            rows = table.find_all('tr')[1:]  # Skip header row
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) >= 1:
-                    symbol = cols[0].text.strip()
-                    etfs.append((symbol, 'KR'))
-                    
-                    if len(etfs) >= limit:
-                        return etfs
-        
-        time.sleep(1)  # 요청 사이에 잠시 대기
-    
-    return etfs
-
 def get_top_holdings(symbol):
-    url = f"https://finance.yahoo.com/quote/{symbol}/holdings"
-    headers = {'User-Agent': 'Mozilla/5.0'}
+    url = f"https://seekingalpha.com/symbol/{symbol}/holdings"
+    
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Run Chrome in headless mode
+    
+    driver = webdriver.Chrome(options=chrome_options)
+    
     try:
-        response = requests.get(url, headers=headers)
-        response.raise_for_status()
-        soup = BeautifulSoup(response.text, 'html.parser')
+        print(f"Fetching holdings for {symbol} from URL: {url}")
+        driver.get(url)
+        
+        # Wait for the table to load
+        wait = WebDriverWait(driver, 10)
+        table = wait.until(EC.presence_of_element_located((By.CLASS_NAME, "holdings")))
+        
+        print("Found holdings table")
         
         holdings = []
-        table = soup.find('table', {'class': 'W(100%) M(0) BdB Bdc($seperatorColor)'})
-        if table:
-            rows = table.find_all('tr')[1:6]  # Get top 5 holdings
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) >= 3:
-                    holdings.append({
-                        'name': cols[0].text.strip(),
-                        'symbol': cols[1].text.strip(),
-                        'percent': cols[2].text.strip()
-                    })
+        rows = table.find_elements(By.TAG_NAME, "tr")[1:6]  # Get top 5 holdings, skip header
+        for row in rows:
+            cols = row.find_elements(By.TAG_NAME, "td")
+            if len(cols) >= 3:
+                holding = {
+                    'name': cols[1].text.strip(),
+                    'symbol': cols[0].text.strip(),
+                    'percent': cols[2].text.strip()
+                }
+                holdings.append(holding)
+                print(f"Added holding: {holding}")
+        
         return holdings
     except Exception as e:
         print(f"Error fetching top holdings for {symbol}: {str(e)}")
+    finally:
+        driver.quit()
+    
     return []
 
 def get_etf_data(symbol):
@@ -134,19 +114,13 @@ def save_all_text(data, filename):
             f.write('\n' + '='*50 + '\n\n')
 
 def main():
-    print("Fetching 10 US ETFs...")
-    us_etfs = get_us_etf_list(10)
+    print("Fetching 5 US ETFs...")
+    us_etfs = get_us_etf_list(5)
     print(f"Found {len(us_etfs)} US ETFs")
-    
-    print("Fetching 10 Korean ETFs...")
-    kr_etfs = get_kr_etf_list(10)
-    print(f"Found {len(kr_etfs)} Korean ETFs")
-    
-    all_etfs = us_etfs + kr_etfs
     
     all_etf_data = []
     
-    for symbol, _ in all_etfs:
+    for symbol, _ in us_etfs:
         print(f"Fetching data for {symbol}...")
         data = get_etf_data(symbol)
         
