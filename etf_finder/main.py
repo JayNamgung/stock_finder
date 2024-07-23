@@ -8,9 +8,11 @@ from bs4 import BeautifulSoup
 import random
 from requests.exceptions import RequestException
 import json
+import concurrent.futures
 
 # 사용자가 원하는 ETF 개수를 지정할 수 있는 전역 변수
 ETF_COUNT = 4000  # 원하는 ETF 수로 설정
+MAX_WORKERS = 10  # 동시에 실행할 최대 worker 수
 
 def get_us_etf_list(limit):
     base_url = "https://finance.yahoo.com/etfs"
@@ -131,6 +133,21 @@ def load_progress(filename='progress.json'):
             return json.load(f)
     return {}
 
+def process_etf(symbol, processed_etfs):
+    if symbol in processed_etfs:
+        print(f"Skipping already processed ETF: {symbol}")
+        return processed_etfs[symbol]
+
+    print(f"Fetching data for {symbol}...")
+    data = get_etf_data(symbol)
+    
+    if data:
+        processed_etfs[symbol] = data
+        save_progress(processed_etfs)
+    
+    print(f"Completed processing {symbol}\n")
+    return data
+
 def main():
     print(f"Fetching {ETF_COUNT} US ETFs...")
     us_etfs = get_us_etf_list(ETF_COUNT)
@@ -139,27 +156,21 @@ def main():
     processed_etfs = load_progress()
     all_etf_data = []
     
-    for i, symbol in enumerate(us_etfs, 1):
-        if symbol in processed_etfs:
-            print(f"Skipping already processed ETF: {symbol}")
-            all_etf_data.append(processed_etfs[symbol])
-            continue
-
-        print(f"Fetching data for {symbol} ({i}/{ETF_COUNT})...")
-        data = get_etf_data(symbol)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        future_to_symbol = {executor.submit(process_etf, symbol, processed_etfs): symbol for symbol in us_etfs}
         
-        if data:
-            all_etf_data.append(data)
-            processed_etfs[symbol] = data
-            save_progress(processed_etfs)
-        
-        print(f"Completed processing {symbol}\n")
-        
-        if i % 100 == 0:
-            print(f"Processed {i} ETFs. Saving intermediate results...")
-            save_all_text(all_etf_data, f"data/etf_data_intermediate_{i}.txt")
-        
-        time.sleep(random.uniform(1, 3))  # Random delay between requests
+        for i, future in enumerate(concurrent.futures.as_completed(future_to_symbol), 1):
+            symbol = future_to_symbol[future]
+            try:
+                data = future.result()
+                if data:
+                    all_etf_data.append(data)
+            except Exception as exc:
+                print(f'{symbol} generated an exception: {exc}')
+            
+            if i % 100 == 0:
+                print(f"Processed {i} ETFs. Saving intermediate results...")
+                save_all_text(all_etf_data, f"data/etf_data_intermediate_{i}.txt")
     
     # ETF 정보와 top 5 보유 종목을 텍스트 파일로 저장
     text_filename = "data/etf_data_final.txt"
