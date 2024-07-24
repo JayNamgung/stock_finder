@@ -11,7 +11,7 @@ import json
 import concurrent.futures
 
 # 사용자가 원하는 ETF 개수를 지정할 수 있는 전역 변수
-ETF_COUNT = 520  # 원하는 ETF 수로 설정
+ETF_COUNT = 3602  # 원하는 ETF 수로 설정
 MAX_WORKERS = 10  # 동시에 실행할 최대 worker 수
 
 # 파일 read 하여 추출(파일 추출 출처 : https://stockanalysis.com/etf/)
