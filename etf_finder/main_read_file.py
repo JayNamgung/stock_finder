@@ -2,11 +2,8 @@ import yfinance as yf
 from yahooquery import Ticker
 import os
 import time
-import requests
 import pandas as pd
-from bs4 import BeautifulSoup
 import random
-from requests.exceptions import RequestException
 import json
 import concurrent.futures
 
