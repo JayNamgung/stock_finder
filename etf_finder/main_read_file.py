@@ -56,7 +56,6 @@ def get_etf_data(symbol, max_retries=3):
             info = etf.info
             required_info = {
                 "symbol": info.get("symbol", symbol),
-                "shortName": info.get("shortName", "N/A"),
                 "longName": info.get("longName", "N/A"),
                 "category": info.get("category", "N/A"),
                 "longBusinessSummary": info.get("longBusinessSummary", "No description available.")
