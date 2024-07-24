@@ -7413,3 +7413,1397 @@ Top 5 Holdings:
 
 ==================================================
 
+Symbol: COPP
+Short Name: COPP,0P0001S2OM,20421
+Long Name: Sprott Copper Miners ETF
+Category: Natural Resources
+
+Description:
+The fund will, under normal circumstances, invest at least 80% of its total assets in securities of the index. The index is designed to track the performance of companies that derive at least 50% of their revenue and/or assets from mining, exploration, development, and production of copper. The fund is non-diversified.
+
+Top 5 Holdings:
+- Freeport-McMoRan Inc (FCX): 23.66%
+- Antofagasta PLC (ANTO.L): 10.10%
+- PT Amman Mineral Internasional Tbk (AMMN.JK): 8.65%
+- KGHM Polska Miedz SA (KGH.WA): 5.68%
+- Capstone Copper Corp (CS.TO): 5.44%
+
+==================================================
+
+Symbol: COPX
+Short Name: Global X Copper Miners ETF
+Long Name: Global X Copper Miners ETF
+Category: Natural Resources
+
+Description:
+The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts ("ADRs") and Global Depositary Receipts ("GDRs") based on the securities in the underlying index. The underlying index is designed to measure broad-based equity market performance of global companies involved in the copper mining industry. The fund is non-diversified.
+
+Top 5 Holdings:
+- First Quantum Minerals Ltd (FM.TO): 5.48%
+- KGHM Polska Miedz SA (KGH.WA): 5.20%
+- Boliden AB (BOL.ST): 4.80%
+- Teck Resources Ltd Class B (Sub Voting) (TECK-B.TO): 4.75%
+- Lundin Mining Corp (LUN.TO): 4.72%
+
+==================================================
+
+Symbol: CMF
+Short Name: iShares California Muni Bond ET
+Long Name: iShares California Muni Bond ETF
+Category: Muni California Long
+
+Description:
+The index includes municipal bonds issued in the State of California, the interest of which is exempt from Federal income taxes and not subject to AMT. The fund will invest at least 80% of its assets in the component securities of the underlying index, and the fund will invest at least 90% of its assets in fixed income securities of the types included in the underlying index that the advisor believes will help the fund track the underlying index. It is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CLOX
+Short Name: Series Portfolios Trust Panagra
+Long Name: Panagram AAA CLO ETF
+Category: Ultrashort Bond
+
+Description:
+The fund is an actively managed exchange-traded fund (“ETF”) that pursues its investment objective by investing, under normal circumstances, at least 80% of its net assets (plus any borrowings made for investment purposes) in collateralized loan obligations (“CLOs”) that are rated, at the time of purchase, AAA or an equivalent rating by a nationally recognized statistical rating organization (“NRSRO”) (or, if unrated, securities deemed by the adviser to be of comparable quality). The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CMDT
+Short Name: PIMCO U.S. Treasury Index Fund 
+Long Name: PIMCO Commodity Strategy Active Exchange-Traded Fund
+Category: Commodities Broad Basket
+
+Description:
+The fund seeks to achieve its investment objective by investing, under normal circumstances, in commodity-linked derivative instruments backed by an actively managed and diversified portfolio of Fixed Income Instruments of varying maturities and may also invest directly in commodities. The fund is non-diversified.
+
+Top 5 Holdings:
+- PIMCO Enhanced Short Maturity Active ETF (MINT): 6.77%
+
+==================================================
+
+Symbol: CMCI
+Short Name: VanEck ETF Trust VanEck CMCI Co
+Long Name: VanEck CMCI Commodity Strategy ETF
+Category: Commodities Broad Basket
+
+Description:
+The fund seeks to achieve its investment objective by investing under normal circumstances in instruments that derive their value from the performance of the index. In seeking to replicate the index, the fund invests in (i) commodity-linked derivative instruments, and in (ii) bonds, debt securities and other fixed income instruments issued by various U.S. public- or private-sector entities. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: COWZ
+Short Name: Pacer US Cash Cows 100 ETF
+Long Name: Pacer US Cash Cows 100 ETF
+Category: Mid-Cap Value
+
+Description:
+Under normal circumstances, at least 80% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in the component securities of the index. The index uses an objective, rules-based methodology to provide exposure to large and mid-capitalization U.S. companies with high free cash flow yields. Companies with high free cash flow yields are commonly referred to as "cash cows".
+
+Top 5 Holdings:
+- Cheniere Energy Inc (LNG): 2.19%
+- Gilead Sciences Inc (GILD): 2.12%
+- Hewlett Packard Enterprise Co (HPE): 2.11%
+- AT&T Inc (T): 2.11%
+- Diamondback Energy Inc (FANG): 2.10%
+
+==================================================
+
+Symbol: CORN
+Short Name: Teucrium Corn Fund ETV
+Long Name: Teucrium Corn Fund
+Category: Commodities Focused
+
+Description:
+The Benchmark is a weighted average of the closing settlement prices for three futures contracts for corn that are traded on the Chicago Board of Trade. Under normal market conditions, it is expected that 100% of the fund’s assets will be invested in benchmark component futures contracts and in cash and cash equivalents. The fund seeks to achieve its investment objective by investing in benchmark component futures contracts.
+
+Top 5 Holdings:
+- Goldman Sachs FS Government Instl (FGTXX): 34.67%
+
+==================================================
+
+Symbol: CORP
+Short Name: Pimco Investment Grade Corporat
+Long Name: PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund
+Category: Corporate Bond
+
+Description:
+The fund invests at least 80% of its total assets (exclusive of collateral held from securities lending) in the component securities of the ICE BofA U.S. Corporate Index (the "underlying index"). The underlying index is an unmanaged index comprised of U.S. dollar denominated investment grade corporate debt securities publicly issued in the U.S. domestic market with at least one year remaining term to final maturity.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: COWG
+Short Name: Pacer US Large Cap Cash Cows Gr
+Long Name: Pacer US Large Cap Cash Cows Growth Leaders ETF
+Category: Large Blend
+
+Description:
+The index uses a rules-based methodology that seeks to provide exposure to large-capitalization U.S. companies with above average free cash flow margins. Under normal circumstances, the fund will seek to invest at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in securities of large-capitalization companies (“large cap”) that are principally traded in the United States. It is non-diversified.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 4.37%
+- AppLovin Corp Ordinary Shares - Class A (APP): 4.35%
+- Deckers Outdoor Corp (DECK): 2.47%
+- Qualcomm Inc (QCOM): 2.35%
+- Broadcom Inc (AVGO): 2.20%
+
+==================================================
+
+Symbol: CPLS
+Short Name: CPLS,152357,100
+Long Name: AB Core Plus Bond ETF
+Category: Intermediate Core-Plus Bond
+
+Description:
+The fund pursues its objective by investing, under normal circumstances, at least 80% of its net assets, including any borrowings for investment purposes, in fixed-income securities. It may invest in a broad range of debt securities, including corporate bonds and debt and mortgage- and other asset-backed securities issued by U.S. government-sponsored entities and federal agencies and instrumentalities that are not backed by the full faith and credit of the U.S. government.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CNEQ
+Short Name: CNEQ,151863,36000
+Long Name: Alger Concentrated Equity ETF
+Category: Large Growth
+
+Description:
+The fund invests primarily in the equity securities of large-cap companies that the m9+.anager believes demonstrate promising growth potential. It will invest at least 25% of its total assets in companies focused in the following group of related industries: software, technology hardware storage and peripherals, semiconductors and semiconductor equipment, information technology services, electronic equipment instruments and components, communications equipment, broadline retail and interactive media and services, as classified by third party sources. The fund is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 15.23%
+- NVIDIA Corp (NVDA): 11.13%
+- Amazon.com Inc (AMZN): 9.21%
+- Meta Platforms Inc Class A (META): 7.47%
+- Apple Inc (AAPL): 4.60%
+
+==================================================
+
+Symbol: CPER
+Short Name: United States Copper Index Fund
+Long Name: United States Copper Index Fund, LP
+Category: Commodities Focused
+
+Description:
+The fund seeks to achieve its investment objective by investing in the Benchmark Component Copper Futures Contracts. The SCI is designed to reflect the performance of the investment returns from a portfolio of copper futures contracts on the Commodity Exchange, Inc. exchange ("COMEX").
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: COWS
+Short Name: COWS,0P0001QV0B,18064
+Long Name: Amplify Cash Flow Dividend Leaders ETF
+Category: Large Value
+
+Description:
+The fund invests at least 80% of its net assets in securities that comprise the index, which will primarily include dividend paying U.S. equity securities. The index is based on a proprietary methodology developed and maintained by Kelly Indexes, LLC, an affiliate of Kelly Strategic Management, LLC, an investment sub-adviser to the fund. The fund is non-diversified.
+
+Top 5 Holdings:
+- Cheniere Energy Inc (LNG): 2.76%
+- Commercial Metals Co (CMC): 2.68%
+- Skyworks Solutions Inc (SWKS): 2.59%
+- PBF Energy Inc Class A (PBF): 2.59%
+- Comcast Corp Class A (CMCSA): 2.59%
+
+==================================================
+
+Symbol: CMDY
+Short Name: iShares Bloomberg Roll Select C
+Long Name: iShares Bloomberg Roll Select Broad Commodity ETF
+Category: Commodities Broad Basket
+
+Description:
+The index measures the performance of 23 futures contracts across 21 physical agricultural, energy, precious metals and industrial metals commodities. In seeking to achieve its investment objective, the fund will primarily invest in exchange-traded futures contracts on the underlying index, and the adviser is expected to roll out of existing positions in index futures and establish new positions in index futures on an ongoing basis. It is non-diversified.
+
+Top 5 Holdings:
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 3.54%
+
+==================================================
+
+Symbol: CNYA
+Short Name: iShares MSCI China A ETF
+Long Name: iShares MSCI China A ETF
+Category: China Region
+
+Description:
+The fund generally will invest at least 80% of its assets in the component securities of its index and in investments that have economic characteristics that are substantially identical to the component securities of its index. The index is designed to measure the equity market performance in the People's Republic of China, as represented by "A-shares" that are accessible through the Shanghai-Hong Kong Stock Connect program or the Shenzhen-Hong Kong Stock Connect program.
+
+Top 5 Holdings:
+- Kweichow Moutai Co Ltd Class A (600519.SS): 5.11%
+- Contemporary Amperex Technology Co Ltd Class A (300750.SZ): 2.20%
+- China Yangtze Power Co Ltd Class A (600900.SS): 1.97%
+- China Merchants Bank Co Ltd Class A (600036.SS): 1.96%
+- Wuliangye Yibin Co Ltd Class A (000858.SZ): 1.38%
+
+==================================================
+
+Symbol: COAL
+Short Name: COAL,151520,7300
+Long Name: N/A
+Category: Equity Energy
+
+Description:
+The fund normally invests in securities comprising the index. The index is designed to track the performance of companies that are involved in the metallurgical (met) and thermal coal industry, which includes production, exploration, development, transportation, and distribution (“Coal Companies”). Under normal circumstances, the fund invests at least 80% of its net assets in securities of coal companies. The fund is non-diversified.
+
+Top 5 Holdings:
+- Yancoal Australia Ltd (YAL.AX): 10.64%
+- Alpha Metallurgical Resources Inc (AMR): 7.91%
+- Whitehaven Coal Ltd (WHC.AX): 7.77%
+- Warrior Met Coal Inc (HCC): 7.12%
+- Arch Resources Inc Class A (ARCH): 6.07%
+
+==================================================
+
+Symbol: CPII
+Short Name: Tidal ETF Trust Ionic Inflation
+Long Name: Ionic Inflation Protection ETF
+Category: Inflation-Protected Bond
+
+Description:
+The fund is an actively-managed exchange-traded fund (“ETF”) that seeks to achieve its investment objective by investing in: inflation swaps; options on U.S. interest rates (“swaptions”); and U.S. Treasury Securities, including U.S. Treasury Inflation-Protected Securities (“TIPS”). Under normal market conditions, the fund will invest up to 30% of its net assets in inflation swaps and swaptions to seek to achieve the fund’s investment objective. It is non-diversified.
+
+Top 5 Holdings:
+- First American Government Obligs X (FGXXX): 0.83%
+
+==================================================
+
+Symbol: CLSM
+Short Name: Cabana Target Leading Sector Mo
+Long Name: Cabana Target Leading Sector Moderate ETF
+Category: Moderate Allocation
+
+Description:
+The fund is an actively managed exchange-traded fund (“ETF”) that seeks to achieve its investment objective primarily by allocating its assets among ETFs that invest in securities of companies in the various sectors of the U.S. market: communication services, consumer discretionary, consumer staples, energy, financials, health care, industrials, information technology, materials, real estate, and utilities. It is non-diversified.
+
+Top 5 Holdings:
+- Invesco NASDAQ 100 ETF (QQQM): 31.33%
+- Health Care Select Sector SPDR® ETF (XLV): 29.93%
+- Energy Select Sector SPDR® ETF (XLE): 28.32%
+- Technology Select Sector SPDR® ETF (XLK): 5.24%
+- iShares Select Dividend ETF (DVY): 5.04%
+
+==================================================
+
+Symbol: CQQQ
+Short Name: Invesco China Technology ETF
+Long Name: Invesco China Technology ETF
+Category: China Region
+
+Description:
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index, as well as ADRs and GDRs that represent securities in the underlying index. Strictly in accordance with its guidelines and mandated procedures, the index provider compiles, maintains, and calculates the underlying index. The underlying index may include China A-Shares, B Shares, H Shares, N Shares, Red Chips, P Chips and S Chips. The fund is non-diversified.
+
+Top 5 Holdings:
+- Tencent Holdings Ltd (0700.HK): 10.28%
+- PDD Holdings Inc ADR (PDD): 8.41%
+- Meituan Class B (3690.HK): 8.12%
+- Baidu Inc (9888.HK): 6.83%
+- Kuaishou Technology Ordinary Shares - Class B (1024.HK): 5.70%
+
+==================================================
+
+Symbol: CPAI
+Short Name: Northern Lights Fund Trust III 
+Long Name: Counterpoint Quantitative Equity ETF
+Category: Large Blend
+
+Description:
+Under normal market circumstances, the fund invests at least 80% of its assets in common stocks and American Depositary Receipts. The fund holds at least 50 U.S. listed stocks or American Depository Receipts. The stocks selected are of companies of any market capitalization and are among the highest-ranking stocks as determined by quantitative models. The quantitative models use machine learning technology to rank stocks of companies of U.S. domiciled companies and ADRs of any market capitalization.
+
+Top 5 Holdings:
+- Vital Farms Inc Ordinary Shares (VITL): 2.12%
+- Gray Television Inc (GTN): 2.10%
+- BILL Holdings Inc Ordinary Shares (BILL): 2.10%
+- Abercrombie & Fitch Co Class A (ANF): 2.07%
+- Navios Maritime Partners LP (NMM): 2.05%
+
+==================================================
+
+Symbol: CPNJ
+Short Name: CPNJ,152168,2500
+Long Name: Calamos Nasdaq-100 Structured Alt Protection ETF - June
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange Options that reference the price performance of the Invesco QQQ TrustSM?, Series 1. FLEX Options are customized equity or index option contracts that trade on an exchange but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CPSM
+Short Name: CPSM,151992,9300
+Long Name: Calamos S&P 500 Structured Alt Protection ETF - May
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange Options ("FLEX Options") that reference the price performance of the SPDR®? S&P 500®? ETF Trust. FLEX Options are customized equity or index option contracts that trade on an exchange but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CPRJ
+Short Name: CPRJ,152307,16100
+Long Name: Calamos Russell 2000 Structured Alt Protection ETF - July
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange Options ("FLEX Options") that reference the price performance of the iShares®?Russell 2000®? ETF. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CSA
+Short Name: CSA,0P00015TWX,277
+Long Name: VictoryShares US Small Cap Volatility Wtd ETF
+Category: Small Blend
+
+Description:
+The fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its assets directly or indirectly in the securities included in the Nasdaq Victory U.S. Small Cap 500 Volatility Weighted Index, an unmanaged, volatility weighted index maintained exclusively by the index provider. The index combines fundamental criteria with individual security risk control achieved through volatility weighting of individual securities.
+
+Top 5 Holdings:
+- Kirby Corp (KEX): 0.44%
+- FTAI Aviation Ltd (FTAI): 0.40%
+- Nelnet Inc Class A (NNI): 0.39%
+- MDU Resources Group Inc (MDU): 0.37%
+- MGE Energy Inc (MGEE): 0.37%
+
+==================================================
+
+Symbol: CSB
+Short Name: VictoryShares US Small Cap High
+Long Name: VictoryShares US Small Cap High Div Volatility Wtd ETF
+Category: Small Value
+
+Description:
+The fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its assets directly or indirectly in the securities included in the Nasdaq Victory U.S. Small Cap High Dividend 100 Volatility Weighted Index, an unmanaged, volatility weighted index maintained exclusively by the index provider. The index identifies the 100 highest dividend yielding stocks in the Nasdaq Victory U.S. Small Cap 500 Volatility Weighted Index.
+
+Top 5 Holdings:
+- MDU Resources Group Inc (MDU): 1.76%
+- MGE Energy Inc (MGEE): 1.73%
+- National Fuel Gas Co (NFG): 1.50%
+- New Jersey Resources Corp (NJR): 1.48%
+- Spire Inc (SR): 1.47%
+
+==================================================
+
+Symbol: CPSJ
+Short Name: Calamos ETF Trust Calamos S&P 5
+Long Name: Calamos S&P 500 Structured Alt Protection ETF - July
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange Options that reference the price performance of the SPDR®? S&P 500®? ETF Trust. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CRDT
+Short Name: Simplify Exchange Traded Funds 
+Long Name: Simplify Opportunistic Income ETF
+Category: Multisector Bond
+
+Description:
+The fund is an actively managed exchange-traded fund (“ETF”) that seeks to achieve its investment objective by investing primarily in fixed income securities. Under normal circumstances, the fund invests primarily in income producing securities, including U.S. and foreign investment grade and high yield (“junk”) corporate bonds and preferred stock, bonds issued by the U.S. Treasury, and bank loans.
+
+Top 5 Holdings:
+- Annaly Capital Management Inc (NLY): 0.81%
+
+==================================================
+
+Symbol: CSM
+Short Name: ProShares Large Cap Core Plus
+Long Name: ProShares Large Cap Core Plus
+Category: Large Blend
+
+Description:
+The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index is designed to replicate an investment strategy that establishes either long or short positions in the stocks of 500 leading large-cap U.S. companies (the "Universe") by applying a rules-based ranking and weighting methodology. The fund is non-diversified.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 5.03%
+- NVIDIA Corp (NVDA): 4.79%
+- Apple Inc (AAPL): 4.57%
+- Amazon.com Inc (AMZN): 2.61%
+- Meta Platforms Inc Class A (META): 1.53%
+
+==================================================
+
+Symbol: CRED
+Short Name: CRED,149277,400
+Long Name: Columbia Research Enhanced Real Estate ETF
+Category: Real Estate
+
+Description:
+The fund invests at least 80% of its net assets (including the amount of any borrowings for investment purposes) in the component securities of the index. The index reflects a rules-based strategic beta approach to investing in the companies that comprise the FTSE Nareit All Equity REITs Index (the Starting Universe), which is a broad measure of the performance of publicly listed U.S. real estate investment trusts (REITs). The fund is non-diversified.
+
+Top 5 Holdings:
+- American Tower Corp (AMT): 11.23%
+- Simon Property Group Inc (SPG): 7.73%
+- Crown Castle Inc (CCI): 7.11%
+- Equinix Inc (EQIX): 6.72%
+- Digital Realty Trust Inc (DLR): 5.96%
+
+==================================================
+
+Symbol: CRIT
+Short Name: CRIT,147499,1800
+Long Name: Optica Rare Earths & Critical Materials ETF
+Category: Equity Precious Metals
+
+Description:
+The fund invests in securities comprising the index. The index is comprised of companies that (i) generate at least 50% of their revenue from Rare Earths and Critical Materials Companies or (ii) engage in projects that have the potential, when developed, to generate 50% of revenue from Rare Earths and Critical Materials Companies. The fund will invest at least 80% of its net assets in securities of Rare Earths and Critical Materials Companies. The fund is non-diversified.
+
+Top 5 Holdings:
+- Southern Copper Corp (SCCO): 11.75%
+- Freeport-McMoRan Inc (FCX): 11.04%
+- Glencore PLC (GLEN.L): 10.60%
+- BHP Group Ltd ADR (BHP): 8.81%
+- CMOC Group Ltd Class H (3993.HK): 4.50%
+
+==================================================
+
+Symbol: CRTC
+Short Name: CRTC,150938,500
+Long Name: Xtrackers US National Critical Technologies ETF
+Category: Technology
+
+Description:
+The fund will invest at least 80% of its total assets in component securities of the underlying index. The underlying index’s investment universe is derived from large and mid-cap companies in developed market countries included in the Solactive GBS Developed Markets Large & Mid Cap USD Index (the “Parent Index”). The fund is non-diversified.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 6.98%
+- Alphabet Inc Class A (GOOGL): 5.45%
+- Microsoft Corp (MSFT): 5.23%
+- Amazon.com Inc (AMZN): 5.19%
+- Exxon Mobil Corp (XOM): 3.14%
+
+==================================================
+
+Symbol: CSD
+Short Name: CSD,0P00006YL1,50
+Long Name: Invesco S&P Spin-Off ETF
+Category: Mid-Cap Blend
+
+Description:
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index. The underlying index is designed to measure the performance of U.S. companies that have been spun off from a parent company within the past four years. The fund is non-diversified.
+
+Top 5 Holdings:
+- GE HealthCare Technologies Inc Common Stock (GEHC): 8.16%
+- GE Vernova Inc (GEV): 7.69%
+- Veralto Corp (VLTO): 7.51%
+- Constellation Energy Corp (CEG): 7.31%
+- Crane Co (CR): 5.21%
+
+==================================================
+
+Symbol: CSMD
+Short Name: Professionally Managed Portfoli
+Long Name: Congress SMID Growth ETF
+Category: Mid-Cap Growth
+
+Description:
+The fund is an actively-managed exchange-traded fund (“ETF”). The fund seeks to achieve its investment objective by investing at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities of small and mid-capitalization companies. The fund invests primarily in publicly traded stocks of U.S. companies which the adviser considers to have a small to mid-size market capitalization.
+
+Top 5 Holdings:
+- Comfort Systems USA Inc (FIX): 5.13%
+- e.l.f. Beauty Inc (ELF): 4.22%
+- Medpace Holdings Inc (MEDP): 4.09%
+- CyberArk Software Ltd (CYBR): 3.62%
+- SPS Commerce Inc (SPSC): 3.48%
+
+==================================================
+
+Symbol: CTA
+Short Name: Simplify Exchange Traded Funds 
+Long Name: Simplify Managed Futures Strategy ETF
+Category: Systematic Trend
+
+Description:
+Under normal market conditions, the fund invests in a portfolio of equity, U.S. Treasury, commodity, and foreign exchange futures contracts (collectively, “Futures Contracts”). Typically, it will not invest directly in commodity futures contracts. The Advisor expects to gain exposure to these investments by investing up to 25% of its assets in a wholly-owned subsidiary of the fund organized under the laws of the Cayman Islands (the “Subsidiary”).
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CSF
+Short Name: CSF,120530,1500
+Long Name: VictoryShares US Discovery Enhanced Volatility Wtd ETF
+Category: Small Blend
+
+Description:
+The fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80% of its assets directly or indirectly in the securities included in the Nasdaq Victory U.S. Small Cap 500 Long/Cash Volatility Weighted Index. The index identifies the 500 largest U.S. companies with market capitalizations of less than $3 billion measured at the time the index's constituent securities are determined.
+
+Top 5 Holdings:
+- Kirby Corp (KEX): 0.43%
+- FTAI Aviation Ltd (FTAI): 0.39%
+- Nelnet Inc Class A (NNI): 0.39%
+- MDU Resources Group Inc (MDU): 0.38%
+- Federated Hermes Treasury Obl IS (TOIXX): 0.38%
+
+==================================================
+
+Symbol: CTEX
+Short Name: CTEX,145574,700
+Long Name: ProShares S&P Kensho Cleantech ETF
+Category: Technology
+
+Description:
+The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index selects companies focused on building the technologies or products that enable the generation of clean energy, such as solar, wind, geothermal, hydrogen, and hydroelectric. The fund will invest in all of the component securities of the index in approximately the same proportion as the index. It is non-diversified.
+
+Top 5 Holdings:
+- Sunnova Energy International Inc (NOVA): 4.94%
+- American Superconductor Corp (AMSC): 3.99%
+- SunPower Corp (SPWR): 3.87%
+- First Solar Inc (FSLR): 3.81%
+- GE Vernova Inc (GEV): 3.75%
+
+==================================================
+
+Symbol: CRUZ
+Short Name: Defiance Hotel, Airline, and Cr
+Long Name: Defiance Hotel, Airline, and Cruise ETF
+Category: Consumer Cyclical
+
+Description:
+The index is a rules-based index that consists of globally-listed stocks of companies that derive at least 50% of their revenues from the passenger airline, hotel and resort, or cruise industries (“Travel Companies”) as determined by MV Index Solutions. Under normal circumstances, the fund invests at least 80% of its net assets (plus borrowings for investment purposes) in Travel Companies. The fund is non-diversified.
+
+Top 5 Holdings:
+- Hilton Worldwide Holdings Inc (HLT): 8.27%
+- Marriott International Inc Class A (MAR): 8.16%
+- Royal Caribbean Group (RCL): 7.79%
+- Delta Air Lines Inc (DAL): 7.40%
+- Carnival Corp (CCL): 5.92%
+
+==================================================
+
+Symbol: CTEC
+Short Name: Global X CleanTech ETF
+Long Name: Global X CleanTech ETF
+Category: Global Small/Mid Stock
+
+Description:
+The fund invests at least 80% of its total assets, plus borrowings for investments purposes, in the securities of the index and in ADRs, GDRs based on the securities in the index. The index is designed to provide exposure to exchange-listed companies that are positioned to benefit from the increased adoption of technologies focused on improving the efficiency of renewable energy production and/or mitigating the adverse environmental effects of resource consumption. It is non-diversified.
+
+Top 5 Holdings:
+- First Solar Inc (FSLR): 10.02%
+- Samsung SDI Co Ltd (006400.KS): 5.92%
+- Vestas Wind Systems A/S (VWS.CO): 5.73%
+- NEXTracker Inc Ordinary Shares - Class A (NXT): 5.63%
+- Enphase Energy Inc (ENPH): 5.47%
+
+==================================================
+
+Symbol: CSHI
+Short Name: NEOS Enhanced Income 1-3 Month 
+Long Name: Neos Enhanced Income Cash Alternative ETF
+Category: Ultrashort Bond
+
+Description:
+The fund is an actively-managed ETF that seeks to achieve its investment objective by investing in 1-3 month T-Bills or in ETFs with substantial exposure to 1-3 month T-Bills and selling and purchasing S&P 500® Index put options to generate income to the fund beyond what is received from the Underlying Investments.
+
+Top 5 Holdings:
+- First American Treasury Obligs X (FXFXX): 7.69%
+
+==================================================
+
+Symbol: CRSH
+Short Name: Tidal Trust II YieldMax Short T
+Long Name: N/A
+Category: Derivative Income
+
+Description:
+The fund is an actively managed ETF that seeks current income while providing indirect inverse exposure to the share price (i.e., the price returns) of the common stock of Tesla, Inc. (“TSLA”). Its potential for gains from decreases in the share price of TSLA’s stock is limited. The fund is non-diversified.
+
+Top 5 Holdings:
+- First American Government Obligs X (FGXXX): 24.90%
+
+==================================================
+
+Symbol: CWB
+Short Name: SPDR Bloomberg Convertible Secu
+Long Name: SPDR Bloomberg Convertible Securities ETF
+Category: Convertibles
+
+Description:
+The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in securities that the Adviser determines have economic characteristics that are substantially identical to the economic characteristics of the securities that comprise the index. The index is designed to represent the market of U.S. convertible securities, such as convertible bonds and convertible preferred stock.
+
+Top 5 Holdings:
+- Wells Fargo & Co 7 1/2 % Non Cum Perp Conv Pfd Shs -A- Series -L- (WFCPL): 1.95%
+- Bank of America Corp 7 1/4 % Non-Cum Perp Conv Pfd Shs Series -L- (BACPL): 1.51%
+- Albemarle Corp PRF PERPETUAL USD 1000 - Ser A 1/20th Pref St (ALBPA): 0.87%
+
+==================================================
+
+Symbol: CVIE
+Short Name: CVIE,148980,1000
+Long Name: Calvert International Responsible Index ETF
+Category: Foreign Large Blend
+
+Description:
+Under normal circumstances, the fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in securities included in the underlying index. The index is composed of common stocks of large companies in developed markets, excluding the U.S., that operate their businesses in a manner consistent with the Calvert Principles for Responsible Investment.
+
+Top 5 Holdings:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 3.56%
+- Novo Nordisk A/S Class B (NOVO-B.CO): 2.23%
+- ASML Holding NV (ASML.AS): 2.05%
+- Samsung Electronics Co Ltd (005930.KS): 1.69%
+- Nestle SA (NESN.SW): 1.37%
+
+==================================================
+
+Symbol: CVAR
+Short Name: ETF Opportunities Trust Cultiva
+Long Name: Cultivar ETF
+Category: Mid-Cap Value
+
+Description:
+The fund is an actively managed exchange traded fund (“ETF”) that seeks to build a portfolio of approximately 50 to 100 securities across a broad spectrum of market capitalizations and sectors. To achieve its investment objective, it invests primarily in equity securities traded on U.S. exchanges of any size that the fund’s investment adviser, Cultivar Capital, Inc. (the “Adviser”), believes are under-valued, or under-appreciated, by other participants in the broader equity market. The fund is non-diversified.
+
+Top 5 Holdings:
+- Core Laboratories Inc (CLB): 3.15%
+- Proto Labs Inc (PRLB): 3.09%
+- Healthcare Services Group Inc (HCSG): 2.93%
+- Southwest Airlines Co (LUV): 2.72%
+- Newmont Corp (NEM): 2.58%
+
+==================================================
+
+Symbol: CWS
+Short Name: AdvisorShares Focused Equity ET
+Long Name: AdvisorShares Focused Equity ETF
+Category: Mid-Cap Blend
+
+Description:
+The fund seeks to achieve its investment objective by investing primarily in a focused group of U.S. exchange listed equity securities, including common and preferred stock and ADRs. It invests at least 80% of its net assets in equity securities. The Advisor allocates the fund's portfolio investments using research obtained from a model developed by Edward J. Elfenbein, which uses a variety of methods for security selection and focuses on firms that are fundamentally sound and have shown consistency in their financial results and high earnings quality.
+
+Top 5 Holdings:
+- Amphenol Corp Class A (APH): 5.11%
+- Miller Industries Inc (MLR): 4.88%
+- Fair Isaac Corp (FICO): 4.82%
+- Heico Corp (HEI): 4.72%
+- Stryker Corp (SYK): 4.30%
+
+==================================================
+
+Symbol: CVLC
+Short Name: CVLC,148956,8400
+Long Name: Calvert US Large-Cap Core Responsible Index ETF
+Category: Large Blend
+
+Description:
+Under normal circumstances, the fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in securities included in the underlying index. The index is composed of common stocks of large companies that operate their businesses in a manner consistent with the Calvert Principles for Responsible Investment.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 6.66%
+- Apple Inc (AAPL): 6.57%
+- NVIDIA Corp (NVDA): 5.95%
+- Alphabet Inc Class A (GOOGL): 4.18%
+- Amazon.com Inc (AMZN): 3.72%
+
+==================================================
+
+Symbol: CZA
+Short Name: Invesco Zacks Mid-Cap ETF
+Long Name: Invesco Zacks Mid-Cap ETF
+Category: Mid-Cap Blend
+
+Description:
+The fund generally will invest at least 90% of its total assets in securities that comprise the underlying index, as well as American depositary receipts ("ADRs") that represent securities in the underlying index. The underlying index is composed of 100 securities that Zacks selects from a universe of mid-capitalization securities including common stocks, master limited partnerships ("MLPs"), ADRs, real estate investment trusts ("REITs") and business development companies ("BDCs").
+
+Top 5 Holdings:
+- Corning Inc (GLW): 2.63%
+- The Hartford Financial Services Group Inc (HIG): 2.33%
+- Westinghouse Air Brake Technologies Corp (WAB): 2.17%
+- Equity Residential (EQR): 2.13%
+- Willis Towers Watson PLC (WTW): 2.11%
+
+==================================================
+
+Symbol: CVRT
+Short Name: Calamos ETF Trust Calamos Conve
+Long Name: Calamos Convertible Equity Alternative ETF
+Category: Convertibles
+
+Description:
+The fund is an actively managed exchange-traded fund ("ETF") that invests in the segment of the U.S. convertibles marketplace that has a higher level of equity sensitivity. The fund seeks to achieve its objective by investing at least 80% of its net assets (plus borrowings for investment purposes, if any) in a portfolio of convertible securities (including synthetic convertible instruments). The fund is non-diversified.
+
+Top 5 Holdings:
+- Albemarle Corp PRF PERPETUAL USD 1000 - Ser A 1/20th Pref St (ALBPA): 4.61%
+- Apollo Global Management Inc 6.75% PRF CONVERT 31/07/2026 USD 50 - Ser A (APOPA): 3.38%
+- NextEra Energy Inc Unit ( 6.926% Corporate Units 01/09/2025) (NEEPR): 3.37%
+
+==================================================
+
+Symbol: DALI
+Short Name: DALI,0P0001CRY7,3209
+Long Name: First Trust Dorsey Wright DALI 1 ETF
+Category: Tactical Allocation
+
+Description:
+Under normal conditions, the fund will invest at least 90% of its net assets (including investment borrowings) in the securities that comprise the index. The index has been designed based upon the principle that the asset class exhibiting the highest levels of "relative strength," based on current prices, will be the asset class with the best performance over the near term.
+
+Top 5 Holdings:
+- First Trust Large Cap Gr AlphaDEX® ETF (FTC): 17.37%
+- First Trust Small Cap Gr AlphaDEX® ETF (FYC): 17.22%
+- First Trust Nasdaq Semiconductor ETF (FTXL): 14.70%
+- First Trust NASDAQ-100-Tech Sector ETF (QTEC): 13.71%
+- First Trust Dow Jones Internet ETF (FDN): 12.77%
+
+==================================================
+
+Symbol: CVMC
+Short Name: CVMC,148981,800
+Long Name: Calvert US Mid-Cap Core Responsible Index ETF
+Category: Mid-Cap Blend
+
+Description:
+Under normal circumstances, the fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in securities included in the underlying index. The index is composed of common stocks of mid-size companies that operate their businesses in a manner consistent with the Calvert Principles for Responsible Investment.
+
+Top 5 Holdings:
+- Autodesk Inc (ADSK): 0.59%
+- Kimberly-Clark Corp (KMB): 0.51%
+- Humana Inc (HUM): 0.50%
+- Bank of New York Mellon Corp (BK): 0.49%
+- The Trade Desk Inc Class A (TTD): 0.48%
+
+==================================================
+
+Symbol: CVSB
+Short Name: Morgan Stanley ETF Trust Calver
+Long Name: Calvert Ultra-Short Investment Grade ETF
+Category: Ultrashort Bond
+
+Description:
+The fund seeks to achieve its investment objective by investing, under normal circumstances, at least 80% of its net assets (including any borrowings for investment purposes) in a portfolio of investment grade, short-term fixed, variable and floating-rate securities. The fund is actively managed, not designed to track a benchmark, and therefore not constrained by the composition of a benchmark.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: CVSE
+Short Name: CVSE,148954,56900
+Long Name: Calvert US Select Equity ETF
+Category: Large Blend
+
+Description:
+Under normal circumstances, at least 80% of the fund’s net assets (plus any borrowings for investment purposes) will be invested in the equity securities of U.S. issuers. The fund is actively managed, not designed to track a benchmark, and therefore not constrained by the composition of a benchmark. The fund primarily invests in the equity securities of large capitalization U.S. issuers that are involved in economic activities that address global environmental or societal challenges that relate to areas such as environmental sustainability and resource efficiency.
+
+Top 5 Holdings:
+- Microsoft Corp (MSFT): 8.74%
+- NVIDIA Corp (NVDA): 7.34%
+- Apple Inc (AAPL): 6.84%
+- Eli Lilly and Co (LLY): 3.29%
+- Merck & Co Inc (MRK): 2.37%
+
+==================================================
+
+Symbol: CVRD
+Short Name: CVRD,150490,100
+Long Name: Madison Covered Call ETF
+Category: Large Blend
+
+Description:
+The fund will seek to achieve its objectives by (1) investing in common stocks of equity securities that pay dividends and (2) writing (i.e., selling) covered call options on a substantial portion of its portfolio of securities. Under normal market conditions, the fund will invest at least 80% of its net assets (including any borrowings for investment purposes) in equity securities of companies, including other investment companies.
+
+Top 5 Holdings:
+- Danaher Corp (DHR): 3.72%
+- Adobe Inc (ADBE): 3.43%
+- Las Vegas Sands Corp (LVS): 3.27%
+- Cisco Systems Inc (CSCO): 3.11%
+- CME Group Inc Class A (CME): 3.09%
+
+==================================================
+
+Symbol: CWI
+Short Name: SPDR MSCI ACWI ex-US ETF
+Long Name: SPDR MSCI ACWI ex-US ETF
+Category: Foreign Large Blend
+
+Description:
+The fund generally invests substantially all, but at least 80%, of its total assets in the securities comprising the index and in depositary receipts based on securities comprising the index. The index is a free float-adjusted market capitalization index that is designed to measure the combined equity market performance of large- and mid-cap securities in developed and emerging market countries excluding the United States.
+
+Top 5 Holdings:
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 2.76%
+- Novo Nordisk A/S Class B (NOVO-B.CO): 1.81%
+- ASML Holding NV (ASML.AS): 1.60%
+- Tencent Holdings Ltd (0700.HK): 1.16%
+- Samsung Electronics Co Ltd DR (SMSN): 1.14%
+
+==================================================
+
+Symbol: CWEB
+Short Name: Direxion Daily CSI China Intern
+Long Name: Direxion Daily CSI China Internet Bull 2X Shares
+Category: Trading--Leveraged Equity
+
+Description:
+The index is designed to measure the performance of the investable universe of publicly traded China-based companies whose primary business or businesses are in the Internet and Internet-related sectors. The fund invests at least 80% of its net assets in financial instruments, such as swap agreements, securities of the index, and exchange-traded funds ("ETFs") that track the index, that, in combination, provide 2X daily leveraged exposure to the index, consistent with the fund's investment objective. It is non-diversified.
+
+Top 5 Holdings:
+- KraneShares CSI China Internet ETF (KWEB): 50.79%
+
+==================================================
+
+Symbol: CVY
+Short Name: Invesco Zacks Multi-Asset Incom
+Long Name: Invesco Zacks Multi-Asset Income ETF
+Category: Aggressive Allocation
+
+Description:
+The fund generally will invest at least 90% of its total assets in the securities that comprise the underlying index, as well as American depositary receipts ("ADRs") that represent securities in the underlying index. The underlying index is composed of securities that Zacks selects from a universe of domestic and international companies listed on major U.S. exchanges.
+
+Top 5 Holdings:
+- Alliance Resource Partners LP (ARLP): 1.33%
+- Iron Mountain Inc (IRM): 1.13%
+- SL Green Realty Corp (SLG): 1.13%
+- JPMorgan Chase & Co PRF PERPETUAL USD 25 - Ser JJ 1/400 int (JPMPK): 1.12%
+- JPMorgan Chase & Co PRF PERPETUAL USD - Ser LL 1/400th Int (JPMPL): 1.12%
+
+==================================================
+
+Symbol: DBAW
+Short Name: Xtrackers MSCI All World ex US 
+Long Name: Xtrackers MSCI All World ex US Hedged Equity ETF
+Category: Foreign Large Blend
+
+Description:
+The fund, using a "passive" or indexing investment approach, seeks investment results that correspond generally to the performance, of the underlying index, which is designed to track the performance of equity securities in developed and emerging stock markets while mitigating exposure to fluctuations between the value of the USD and the currencies of the countries included in the underlying index. It will invest at least 80% of its total assets in component securities of the underlying index.
+
+Top 5 Holdings:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 2.71%
+- Novo Nordisk A/S Class B (NOVO-B.CO): 1.74%
+- ASML Holding NV (ASML.AS): 1.53%
+- Tencent Holdings Ltd (0700.HK): 1.17%
+- Samsung Electronics Co Ltd (005930.KS): 1.05%
+
+==================================================
+
+Symbol: CXSE
+Short Name: WisdomTree China ex-State-Owned
+Long Name: WisdomTree China ex-State-Owned Enterprises Fund
+Category: China Region
+
+Description:
+Under normal circumstances, at least 80% of the fund's total assets (exclusive of collateral held from securities lending) will be invested in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a modified float-adjusted market cap weighted index that consists of common stocks in China, excluding common stocks of "state-owned enterprises." The fund is non-diversified.
+
+Top 5 Holdings:
+- Tencent Holdings Ltd (0700.HK): 13.32%
+- Alibaba Group Holding Ltd Ordinary Shares (9988.HK): 8.80%
+- PDD Holdings Inc ADR (PDD): 6.35%
+- Meituan Class B (3690.HK): 3.51%
+- NetEase Inc Ordinary Shares (9999.HK): 3.12%
+
+==================================================
+
+Symbol: DBC
+Short Name: Invesco DB Commodity Index Trac
+Long Name: Invesco DB Commodity Index Tracking Fund
+Category: Commodities Broad Basket
+
+Description:
+The fund pursues its investment objective by investing in a portfolio of exchange-traded futures on Light Sweet Crude Oil (WTI), Heating Oil, RBOB Gasoline, Natural Gas, Brent Crude, Gold, Silver, Aluminum, Zinc, Copper Grade A, Corn, Wheat, Soybeans, and Sugar. The index is composed of notional amounts of each of these commodities.
+
+Top 5 Holdings:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 23.95%
+- Mini Ibovespa Future Dec 24 (WINZ24): 6.73%
+- Brent Crude Future Feb 25 (BRNJ25): 6.58%
+- Invesco Short Term Treasury ETF (TBLL): 6.20%
+
+==================================================
+
+Symbol: DAPP
+Short Name: VanEck Digital Transformation E
+Long Name: VanEck Digital Transformation ETF
+Category: Digital Assets
+
+Description:
+The fund normally invests at least 80% of its total assets in securities of Digital Transformation Companies. The index is a global index that tracks the performance of Digital Transformation Companies. The fund will not invest in digital assets (including cryptocurrencies) (i) directly or (ii) indirectly through the use of digital asset derivatives. It also will not invest in initial coin offerings. The fund is non-diversified.
+
+Top 5 Holdings:
+- Block Inc Class A (SQ): 8.03%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 7.01%
+- Marathon Digital Holdings Inc (MARA): 6.39%
+- Hut 8 Corp (HUT): 6.21%
+- Applied Digital Corp (APLD): 6.16%
+
+==================================================
+
+Symbol: DBEF
+Short Name: Xtrackers MSCI EAFE Hedged Equi
+Long Name: Xtrackers MSCI EAFE Hedged Equity ETF
+Category: Foreign Large Blend
+
+Description:
+The fund, using a "passive" or indexing investment approach, seeks investment results that correspond generally to the performance, before fees and expenses, of the underlying index, which is designed to track developed market performance while mitigating exposure to fluctuations between the value of the U.S. dollar and the currencies of the countries included in the underlying index. It will invest at least 80% of its total assets in component securities of the underlying index.
+
+Top 5 Holdings:
+- Novo Nordisk A/S Class B (NOVO-B.CO): 2.67%
+- ASML Holding NV (ASML.AS): 2.34%
+- Nestle SA (NESN.SW): 1.54%
+- AstraZeneca PLC (AZN.L): 1.37%
+- Shell PLC (SHEL.L): 1.30%
+
+==================================================
+
+Symbol: CZAR
+Short Name: Themes Natural Monopoly ETF
+Long Name: Themes Natural Monopoly ETF
+Category: Large Blend
+
+Description:
+The index is designed to provide exposure to companies in the large- and mid- capitalization segments that exhibit a strong competitive advantage in their respective sector. The fund will invest, under normal circumstances, at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in securities that comprise the index and in American Depositary Receipts (“ADRs”) and Global Depositary Receipts (“GDRs”) based on the securities in the index. The fund is non-diversified.
+
+Top 5 Holdings:
+- Meta Platforms Inc Class A (META): 4.42%
+- Broadcom Inc (AVGO): 3.67%
+- Synchrony Financial (SYF): 3.64%
+- Arthur J. Gallagher & Co (AJG): 3.34%
+- Halma PLC (HLMA.L): 3.17%
+
+==================================================
+
+Symbol: DARP
+Short Name: DARP,146520,18400
+Long Name: Grizzle Growth ETF
+Category: Large Growth
+
+Description:
+The fund is an actively-managed exchange-traded fund (“ETF”) that invests primarily in equity securities of companies, with a focus on growth, innovation and disruption. The fund’s portfolio is expected to consist of 30 to 60 equity securities, and may be comprised of common stock and depositary receipts of U.S. and foreign issuers of any market capitalization. The fund is non-diversified.
+
+Top 5 Holdings:
+- NVIDIA Corp (NVDA): 19.05%
+- Microsoft Corp (MSFT): 10.96%
+- Apple Inc (AAPL): 6.97%
+- Alphabet Inc Class A (GOOGL): 6.37%
+- Micron Technology Inc (MU): 5.86%
+
+==================================================
+
+Symbol: DBEU
+Short Name: Xtrackers MSCI Europe Hedged Eq
+Long Name: Xtrackers MSCI Europe Hedged Equity ETF
+Category: Europe Stock
+
+Description:
+The fund, using a "passive" or indexing investment approach, seeks investment results that correspond generally to the performance, of the underlying index, which is designed to track the performance of the developed markets in Europe, while mitigating exposure to fluctuations between the value of the U.S. dollar and the currencies of the countries included in the underlying index. It will invest at least 80% of its total assets in component securities of the underlying index.
+
+Top 5 Holdings:
+- Novo Nordisk A/S Class B (NOVO-B.CO): 4.15%
+- ASML Holding NV (ASML.AS): 3.63%
+- Nestle SA (NESN.SW): 2.40%
+- AstraZeneca PLC (AZN.L): 2.13%
+- Shell PLC (SHEL.L): 2.01%
+
+==================================================
+
+Symbol: DBEZ
+Short Name: Xtrackers MSCI Eurozone Hedged 
+Long Name: Xtrackers MSCI Eurozone Hedged Equity ETF
+Category: Europe Stock
+
+Description:
+The fund, using a "passive" or indexing investment approach, seeks investment results that correspond generally to the performance, of the underlying index, which is designed to track the performance of equity securities based in the countries in the European Monetary Union, while seeking to mitigate exposure to fluctuations between the value of the U.S. dollar and the euro. It will invest at least 80% of its total assets in component securities of the underlying index.
+
+Top 5 Holdings:
+- ASML Holding NV (ASML.AS): 6.71%
+- SAP SE (SAP.DE): 3.45%
+- Lvmh Moet Hennessy Louis Vuitton SE (MC.PA): 3.43%
+- TotalEnergies SE (TTE.PA): 2.35%
+- Siemens AG (SIE.DE): 2.30%
+
+==================================================
+
+Symbol: DBJP
+Short Name: Xtrackers MSCI Japan Hedged Equ
+Long Name: Xtrackers MSCI Japan Hedged Equity ETF
+Category: Japan Stock
+
+Description:
+The fund, using a "passive" or indexing investment approach, seeks investment results that correspond generally to the performance, of the underlying index, which is designed to track the performance of the Japanese equity market while mitigating exposure to fluctuations between the value of the U.S. dollar and the Japanese yen. It will invest at least 80% of its total assets in component securities (including depositary receipts in respect of such securities) of the underlying index.
+
+Top 5 Holdings:
+- Toyota Motor Corp (7203.T): 5.50%
+- Mitsubishi UFJ Financial Group Inc (8306.T): 3.03%
+- Sony Group Corp (6758.T): 2.68%
+- Hitachi Ltd (6501.T): 2.63%
+- Tokyo Electron Ltd (8035.T): 2.58%
+
+==================================================
+
+Symbol: DAT
+Short Name: DAT,145575,1400
+Long Name: ProShares Big Data Refiners ETF
+Category: Technology
+
+Description:
+The fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the index. The index consists of companies that provide analytics and infrastructure for managing and extracting information from large data sets. The fund will invest in all of the component securities of the index in approximately the same proportion as the index. The fund is non-diversified.
+
+Top 5 Holdings:
+- Datadog Inc Class A (DDOG): 5.14%
+- Confluent Inc Class A (CFLT): 4.98%
+- MongoDB Inc Class A (MDB): 4.78%
+- Palantir Technologies Inc Ordinary Shares - Class A (PLTR): 4.72%
+- Nutanix Inc Class A (NTNX): 4.72%
+
+==================================================
+
+Symbol: DAUG
+Short Name: FT Vest U.S. Equity Deep Buffer
+Long Name: FT Cboe Vest U.S. Equity Deep Buffer ETF - August
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange® Options ("FLEX Options") that reference the price performance of the SPDR® S&P 500® ETF Trust. FLEX Options are customized equity or index option contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. It is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DBB
+Short Name: Invesco DB Base Metals Fund
+Long Name: Invesco DB Base Metals Fund
+Category: Commodities Focused
+
+Description:
+The index Commodities consist of Aluminum, Zinc and Copper – Grade A. The fund invests in futures contracts in an attempt to track its corresponding index.
+
+Top 5 Holdings:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 15.76%
+- Invesco Short Term Treasury ETF (TBLL): 6.05%
+
+==================================================
+
+Symbol: DAX
+Short Name: Global X DAX Germany ETF
+Long Name: Global X DAX Germany ETF
+Category: Miscellaneous Region
+
+Description:
+The fund invests at least 80% of its total assets in the securities of the underlying index and in American Depositary Receipts ("ADRs") and Global Depositary Receipts ("GDRs") based on the securities in the underlying index. The index tracks the segment of the largest and most actively traded companies - known as blue chips - on the German equities market. The fund is non-diversified.
+
+Top 5 Holdings:
+- SAP SE (SAP.DE): 14.55%
+- Siemens AG (SIE.DE): 9.82%
+- Allianz SE (ALV.DE): 7.64%
+- Deutsche Telekom AG (DTE.DE): 6.32%
+- Airbus SE (AIR.PA): 5.67%
+
+==================================================
+
+Symbol: DBA
+Short Name: Invesco DB Agriculture Fund
+Long Name: Invesco DB Agriculture Fund
+Category: Commodities Focused
+
+Description:
+The index, which is comprised of one or more underlying commodities (“index commodities”), is intended to reflect the agricultural sector. The fund pursues its investment objective by investing in a portfolio of exchange-traded futures.
+
+Top 5 Holdings:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 20.41%
+- Invesco Short Term Treasury ETF (TBLL): 8.48%
+
+==================================================
+
+Symbol: DBE
+Short Name: DBE,56652,209200
+Long Name: Invesco DB Energy Fund
+Category: Commodities Focused
+
+Description:
+The index Commodities consist of Light, Sweet Crude Oil (WTI), Heating Oil, Brent Crude Oil, RBOB Gasoline and Natural Gas. The fund invests in futures contracts in an attempt to track its index.
+
+Top 5 Holdings:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 19.43%
+- Mini Ibovespa Future Dec 24 (WINZ24): 12.13%
+- Brent Crude Future Feb 25 (BRNJ25): 11.86%
+- Invesco Short Term Treasury ETF (TBLL): 6.77%
+
+==================================================
+
+Symbol: DBEM
+Short Name: DBEM,99145,7200
+Long Name: Xtrackers MSCI Emerging Markets Hedged Equity ETF
+Category: Diversified Emerging Mkts
+
+Description:
+The fund, using a "passive" or indexing investment approach, seeks investment results that correspond generally to the performance, before fees and expenses, of the underlying index, which is designed to track emerging market performance while mitigating exposure to fluctuations between the value of the U.S. dollar and the currencies of the countries included in the underlying index. It will invest at least 80% of its total assets in component securities of the underlying index.
+
+Top 5 Holdings:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 9.47%
+- Tencent Holdings Ltd (0700.HK): 4.06%
+- Samsung Electronics Co Ltd (005930.KS): 3.64%
+- Alibaba Group Holding Ltd Ordinary Shares (9988.HK): 1.80%
+- Reliance Industries Ltd (RELIANCE.NS): 1.47%
+
+==================================================
+
+Symbol: DBEH
+Short Name: DBEH,141016,700
+Long Name: iMGP DBi Hedge Strategy ETF
+Category: Long-Short Equity
+
+Description:
+The fund invests in long and short positions in exchange-traded futures contracts across the broad asset classes of equities, fixed income, and currencies. The advisor expects, under normal circumstances, to invest a large portion of the portfolio in investment grade debt securities in order to collateralize its derivative investments, for liquidity purposes, or to enhance yield. It may hold fixed income instruments of varying maturities, but that have an average duration of less than one year. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DAPR
+Short Name: FT Vest U.S. Equity Deep Buffer
+Long Name: FT Cboe Vest U.S. Equity Deep Buffer ETF - April
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange® Options ("FLEX Options") that reference the price performance of the SPDR® S&P 500® ETF Trust (the "Underlying ETF"). FLEX Options are customized equity or index option contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. It is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DDWM
+Short Name: WisdomTree Dynamic Currency Hed
+Long Name: WisdomTree Dynamic Currency Hedged International Equity Fund
+Category: Foreign Large Value
+
+Description:
+The fund will invest at least 80% of its total assets in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a dividend weighted index designed to provide exposure to equity securities in the industrialized world, excluding Canada and the United States, while at the same time dynamically hedging currency exposure to fluctuations between the value of the applicable foreign currencies and the USD. The fund is non-diversified.
+
+Top 5 Holdings:
+- HSBC Holdings PLC (HSBA.L): 1.85%
+- Novartis AG Registered Shares (NOVN.SW): 1.71%
+- Nestle SA (NESN.SW): 1.48%
+- TotalEnergies SE (TTE.PA): 1.47%
+- Shell PLC (SHEL.L): 1.09%
+
+==================================================
+
+Symbol: DBND
+Short Name: DoubleLine ETF Trust DoubleLine
+Long Name: DoubleLine Opportunistic Bond ETF
+Category: Intermediate Core-Plus Bond
+
+Description:
+Under normal circumstances, the Advisor intends to invest at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in fixed income instruments or other investments with economic characteristics similar to fixed income instruments. It may invest in fixed income instruments of any credit quality, including those that are at the time of investment unrated or rated BB+ or lower by S&P or Ba1 or lower by Moody’s or the equivalent by any other nationally recognized statistical rating organization. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DCMT
+Short Name: DoubleLine ETF Trust DoubleLine
+Long Name: DoubleLine Commodity Strategy ETF
+Category: Commodities Broad Basket
+
+Description:
+The fund is an actively managed ETF. The fund normally seeks to generate total return over a full market cycle through long exposures to commodity-related investments. The commodities to which the Advisor expects to have investment exposure principally include, without limitation, industrial metals; precious metals; oil, gas and other energy commodities; agricultural products and livestock.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DCOR
+Short Name: Dimensional ETF Trust Dimension
+Long Name: Dimensional US Core Equity 1 ETF
+Category: Large Blend
+
+Description:
+To achieve the fund's investment objective, the advisor implements an integrated investment approach that combines research, portfolio design, portfolio management, and trading functions. The ETF is designed to purchase a broad and diverse group of equity securities of U.S. companies. As a non-fundamental policy, under normal circumstances, the ETF will invest at least 80% of its net assets in equity securities of U.S. companies.
+
+Top 5 Holdings:
+- Apple Inc (AAPL): 5.37%
+- NVIDIA Corp (NVDA): 5.30%
+- Microsoft Corp (MSFT): 5.18%
+- Amazon.com Inc (AMZN): 2.68%
+- Meta Platforms Inc Class A (META): 1.80%
+
+==================================================
+
+Symbol: DDEC
+Short Name: FT Vest U.S. Equity Deep Buffer
+Long Name: FT Cboe Vest U.S. Equity Deep Buffer ETF - December
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest substantially all of its assets in FLexible EXchange® Options ("FLEX Options") that reference the price performance of the SPDR® S&P 500® ETF Trust (the "Underlying ETF"). FLEX Options are customized equity or index option contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DBP
+Short Name: DBP,56653,13400
+Long Name: Invesco DB Precious Metals Fund
+Category: Commodities Focused
+
+Description:
+The index Commodities consist of Gold and Silver. The fund invests in futures contracts in an attempt to track its corresponding index.
+
+Top 5 Holdings:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 25.51%
+- Invesco Short Term Treasury ETF (TBLL): 6.96%
+
+==================================================
+
+Symbol: DDLS
+Short Name: WisdomTree Dynamic Currency Hed
+Long Name: WisdomTree Dynamic Currency Hedged International SmallCap Equity Fund
+Category: Foreign Small/Mid Value
+
+Description:
+The fund will invest at least 80% of its total assets in component securities of the index and investments that have economic characteristics that are substantially identical to the economic characteristics of such component securities. The index is a dividend weighted index designed to provide exposure to small-capitalization equity securities in the industrialized world, excluding Canada and U.S., while at the same time dynamically hedging currency exposure to fluctuations between the value of foreign currencies and the USD. It is non-diversified.
+
+Top 5 Holdings:
+- TORM PLC Class A (TRMD-A.CO): 0.98%
+- Hoegh Autoliners ASA (HAUTO.OL): 0.84%
+- Bank of Georgia Group PLC (BGEO.L): 0.75%
+- ACEA SpA (ACE.MI): 0.68%
+- Dampskibsselskabet NORDEN A/S (DNORD.CO): 0.67%
+
+==================================================
+
+Symbol: DCRE
+Short Name: DoubleLine ETF Trust DoubleLine
+Long Name: Doubleline ETF Trust - DoubleLine Commercial Real Estate ETF
+Category: N/A
+
+Description:
+No description available.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DECP
+Short Name: SHL Telemedicine Ltd PGIM US La
+Long Name: PGIM US Large-Cap Buffer 12 ETF - December
+Category: Options Trading
+
+Description:
+Under normal market conditions, the fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in investments that provide exposure to equity securities issued by large-capitalization U.S. companies. It will invest substantially all of its assets in customized equity or index option contracts known as FLexible EXchange® Options on the SPDR® S&P 500® ETF Trust. The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DDM
+Short Name: ProShares Ultra Dow30
+Long Name: ProShares Ultra Dow30
+Category: Trading--Leveraged Equity
+
+Description:
+The fund invests in financial instruments that ProShare Advisors believes, in combination, should produce daily returns consistent with the Daily Target. The index is a price-weighted index and includes 30 large-cap, "blue-chip" U.S. stocks, excluding utility and transportation companies. The fund is non-diversified.
+
+Top 5 Holdings:
+- UnitedHealth Group Inc (UNH): 6.22%
+- The Goldman Sachs Group Inc (GS): 5.52%
+- Microsoft Corp (MSFT): 5.46%
+- The Home Depot Inc (HD): 4.20%
+- Caterpillar Inc (CAT): 4.07%
+
+==================================================
+
+Symbol: DDIV
+Short Name: DDIV,118970,4400
+Long Name: First Trust Dorsey Wright Momentum & Dividend ETF
+Category: Mid-Cap Value
+
+Description:
+The fund will normally invest at least 90% of its net assets (including investment borrowings) in the equity securities that comprise the index. The index is designed to track the overall performance of the 50 stocks with the highest dividend yield comprising the NASDAQ U.S. Large Mid Index TM that still maintain high levels of "relative strength."
+
+Top 5 Holdings:
+- Starwood Property Trust Inc (STWD): 5.12%
+- OneMain Holdings Inc (OMF): 5.02%
+- Simon Property Group Inc (SPG): 4.17%
+- ONEOK Inc (OKE): 4.04%
+- Lamar Advertising Co Class A (LAMR): 3.72%
+
+==================================================
+
+Symbol: DECT
+Short Name: DECT,148782,2400
+Long Name: Allianzim U.S. Large Cap Buffer10 Dec ETF
+Category: Options Trading
+
+Description:
+Specifically, the Advisor intends to invest substantially all of its assets in FLEX Options that reference the Underlying ETF. FLEX Options are customized equity or index options contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. It is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DECW
+Short Name: DECW,148781,3300
+Long Name: Allianzim U.S. Large Cap Buffer20 Dec ETF
+Category: Options Trading
+
+Description:
+Specifically, the Advisor intends to invest substantially all of its assets in FLexible EXchange Options (“FLEX Options”) that reference the Underlying ETF. FLEX Options are customized equity or index options contracts that trade on an exchange, but provide investors with the ability to customize key contract terms like exercise prices, styles and expiration dates. It is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DECZ
+Short Name: TrueShares Structured Outcome (
+Long Name: TrueShares Structured Outcome (December) ETF
+Category: Options Trading
+
+Description:
+The fund is an actively-managed ETF that seeks to achieve its investment objective by investing substantially all of its assets in options on the S&P 500 Price Index. It will purchase call options and sell put options on the S&P 500 Price Index or an ETF that seeks to track the performance of the S&P 500 Price Index on each Initial Investment Day with an expiration on the next Roll Date.
+
+Top 5 Holdings:
+- First American Treasury Obligs X (FXFXX): 0.40%
+
+==================================================
+
+Symbol: DEEF
+Short Name: Xtrackers FTSE Developed ex US 
+Long Name: Xtrackers FTSE Developed ex US Multifactor ETF
+Category: Foreign Large Blend
+
+Description:
+The fund will normally invest at least 80% of its net assets, plus the amount of any borrowings for investment purposes, in equity securities of issuers from developed markets countries other than the United States. The index is designed to track the equity market performance of companies in developed countries selected on the investment style criteria of quality,value,momentum,low volatility and size.
+
+Top 5 Holdings:
+- 3i Group Ord (III.L): 0.95%
+- Tesco PLC (TSCO.L): 0.89%
+- ENEOS Holdings Inc (5020.T): 0.78%
+- Trelleborg AB Class B (TREL-B.ST): 0.73%
+- DCC PLC (DCC.L): 0.70%
+
+==================================================
+
+Symbol: DEED
+Short Name: First Trust TCW Securitized Plu
+Long Name: First Trust TCW Securitized Plus ETF
+Category: Multisector Bond
+
+Description:
+Under normal market conditions, the fund invests at least 80% of its net assets (including investment borrowings) in securitized debt securities, including asset-backed securities, residential and commercial mortgage-backed securities and collateralized loan obligations ("CLOs"). It will invest at least 50% of its total assets in securities issued or guaranteed by the U.S. government, its agencies or instrumentalities (such as Ginnie Mae), and U.S. government-sponsored entities (such as Fannie Mae and Freddie Mac). The fund is non-diversified.
+
+Top 5 Holdings:
+
+==================================================
+
+Symbol: DEFI
+Short Name: DEFI,148384,1100
+Long Name: Hashdex Bitcoin ETF
+Category: Digital Assets
+
+Description:
+The fund seeks to achieve its investment objective by investing in Benchmark Component Futures Contracts. Under normal market conditions, the Advisor expects that the fund’s assets will be invested in Benchmark Component Futures Contracts and in cash and cash equivalents, such as short-term Treasury bills, money market funds, and demand deposit accounts.
+
+Top 5 Holdings:
+- First American Government Obligs X (FGXXX): 0.56%
+
+==================================================
+

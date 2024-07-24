@@ -48272,32 +48272,3 @@ Top 5 Holdings:
 
 ==================================================
 
-Symbol: ZZZ
-Short Name: Cyber Hornet S&P 500 and Bitcoi
-Long Name: CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF
-Category: Large Blend
-
-Description:
-The index measures the weighted return performance of a multi-asset strategy that consists of a 75% weight in the S&P 500® Index and a 25% weight in the S&P CME Bitcoin Futures Index. The fund will invest approximately 75% of its assets in the stock of large U.S. companies that comprise the S&P 500® Index and will invest in Bitcoin futures contracts so that the total value of the Bitcoin to which the fund has economic exposure is approximately 25% of the assets of the fund.
-
-Top 5 Holdings:
-- Microsoft Corp (MSFT): 5.13%
-- Apple Inc (AAPL): 4.78%
-- NVIDIA Corp (NVDA): 4.71%
-- Amazon.com Inc (AMZN): 2.74%
-- Meta Platforms Inc Class A (META): 1.75%
-
-==================================================
-
-Symbol: ZTWO
-Short Name: ZTWO,151503,0
-Long Name: F/M 2-Year Investment Grade Corporate Bond ETF
-Category: Short-Term Bond
-
-Description:
-Under normal market conditions, F/m Investments, LLC d/b/a North Slope Capital, LLC (the “Adviser”) seeks to achieve the fund’s investment objective by investing at least 80% of the fund’s net assets (plus any borrowings for investment purposes) in investment grade corporate bonds that have at least 1.5 years but less than 2.5 years remaining to maturity.
-
-Top 5 Holdings:
-
-==================================================
-
