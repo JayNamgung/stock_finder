@@ -6,14 +6,14 @@ import pandas as pd
 import random
 import json
 import concurrent.futures
-from googletrans import Translator
+from deep_translator import GoogleTranslator
 
 # 사용자가 원하는 ETF 개수를 지정할 수 있는 전역 변수
-ETF_COUNT = 3602  # 원하는 ETF 수로 설정
+ETF_COUNT = 10  # 원하는 ETF 수로 설정
 MAX_WORKERS = 10  # 동시에 실행할 최대 worker 수
 
-# Google Translator 객체 생성
-translator = Translator()
+# Google Translate 객체 생성
+translator = GoogleTranslator(source='en', target='ko')
 
 # 파일 read 하여 추출(파일 추출 출처 : https://stockanalysis.com/etf/)
 def get_us_etf_list(filename, limit):
@@ -52,29 +52,31 @@ def get_top_holdings(symbol, max_retries=3):
                 print(f"Max retries reached for {symbol}")
                 return []
 
+def translate_to_korean(text):
+    try:
+        print(f"Attempting to translate: {text[:50]}...")  # 번역 시도 로그
+        translated = translator.translate(text)
+        print(f"Translation result: {translated[:50]}...")  # 번역 결과 로그
+        return translated
+    except Exception as e:
+        print(f"Translation error: {str(e)}")
+        return f"[번역 실패: {str(e)}] " + text  # 번역 실패 시 오류 메시지와 함께 원본 텍스트 반환
+
 def get_etf_data(symbol, max_retries=3):
     for attempt in range(max_retries):
         try:
             etf = yf.Ticker(symbol)
             
             info = etf.info
+            original_summary = info.get("longBusinessSummary", "No description available.")
+            translated_summary = translate_to_korean(original_summary)
+            
             required_info = {
                 "symbol": info.get("symbol", symbol),
-                "shortName": info.get("shortName", "N/A"),
                 "longName": info.get("longName", "N/A"),
                 "category": info.get("category", "N/A"),
-                "longBusinessSummary": info.get("longBusinessSummary", "No description available.")
+                "longBusinessSummary": translated_summary
             }
-            
-            # Translate longBusinessSummary to Korean
-            try:
-                if required_info["longBusinessSummary"] != "No description available.":
-                    required_info["longBusinessSummary_kr"] = translator.translate(required_info["longBusinessSummary"], dest='ko').text
-                else:
-                    required_info["longBusinessSummary_kr"] = "설명 없음"
-            except Exception as e:
-                print(f"Translation error for {symbol}: {str(e)}")
-                required_info["longBusinessSummary_kr"] = "번역 불가"
             
             top_holdings = get_top_holdings(symbol)
             
@@ -94,19 +96,16 @@ def save_all_text(data, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         for etf in data:
             info = etf['info']
-            content = f"Symbol: {info['symbol']}\n"
-            content += f"Long Name: {info['longName']}\n"
-            content += f"Category: {info['category']}\n"
-            content += f"\nDescription (English):\n{info['longBusinessSummary']}\n\n"
-            content += f"설명 (한국어):\n{info.get('longBusinessSummary_kr', '번역 정보 없음')}\n\n"
+            content = f"티커: {info['symbol']}\n"
+            content += f"이름: {info['longName']}\n"
+            content += f"카테고리: {info['category']}\n"
+            content += f"\n설명:\n{info['longBusinessSummary']}\n\n"
             
-            # Top 5 Holdings가 있는 경우에만 추가
             if etf['top_holdings']:
-                content += "Top 5 Holdings:\n"
+                content += "편입종목 상위 5개:\n"
                 for holding in etf['top_holdings']:
                     content += f"- {holding['name']} ({holding['symbol']}): {holding['percent']}\n"
             
-            # 글자 수 체크 및 표기
             if len(content) > 1000:
                 content += "\n[참고 : 1000 글자가 넘는 내용입니다.]\n"
             
@@ -161,10 +160,10 @@ def main():
             
             if i % 100 == 0:
                 print(f"Processed {i} ETFs. Saving intermediate results...")
-                save_all_text(all_etf_data, f"data/etf_data_intermediate_korean_{i}.txt")
+                save_all_text(all_etf_data, f"data/etf_data_intermediate_korean_translated_{i}.txt")
     
     # ETF 정보와 top 5 보유 종목을 텍스트 파일로 저장
-    text_filename = "data/etf_data_final_korean.txt"
+    text_filename = "data/etf_data_final_korean_translated.txt"
     os.makedirs(os.path.dirname(text_filename), exist_ok=True)
     save_all_text(all_etf_data, text_filename)
     print(f"Saved final ETF data to text file: {text_filename}")
