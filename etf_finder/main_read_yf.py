@@ -14,6 +14,7 @@ import concurrent.futures
 ETF_COUNT = 520  # 원하는 ETF 수로 설정
 MAX_WORKERS = 10  # 동시에 실행할 최대 worker 수
 
+# 야후 파이낸스 ETF 목록에서 추출(단, top list 이므로 약 350여개만 추출됨)
 def get_us_etf_list(limit):
     base_url = "https://finance.yahoo.com/etfs"
     etfs = []
