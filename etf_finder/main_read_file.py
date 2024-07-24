@@ -83,15 +83,23 @@ def save_all_text(data, filename):
     with open(filename, 'w', encoding='utf-8') as f:
         for etf in data:
             info = etf['info']
-            f.write(f"Symbol: {info['symbol']}\n")
-            f.write(f"Short Name: {info['shortName']}\n")
-            f.write(f"Long Name: {info['longName']}\n")
-            f.write(f"Category: {info['category']}\n")
-            f.write(f"\nDescription:\n{info['longBusinessSummary']}\n\n")
-            f.write("Top 5 Holdings:\n")
-            for holding in etf['top_holdings']:
-                f.write(f"- {holding['name']} ({holding['symbol']}): {holding['percent']}\n")
-            f.write('\n' + '='*50 + '\n\n')
+            content = f"Symbol: {info['symbol']}\n"
+            content += f"Long Name: {info['longName']}\n"
+            content += f"Category: {info['category']}\n"
+            content += f"\nDescription:\n{info['longBusinessSummary']}\n\n"
+            
+            # Top 5 Holdings가 있는 경우에만 추가
+            if etf['top_holdings']:
+                content += "Top 5 Holdings:\n"
+                for holding in etf['top_holdings']:
+                    content += f"- {holding['name']} ({holding['symbol']}): {holding['percent']}\n"
+            
+            # 글자 수 체크 및 표기
+            if len(content) > 1000:
+                content += "\n[1000 글자가 넘는 내용입니다.]\n"
+            
+            content += '\n' + '='*50 + '\n\n'
+            f.write(content)
 
 def save_progress(processed_etfs, filename='progress.json'):
     with open(filename, 'w') as f:
