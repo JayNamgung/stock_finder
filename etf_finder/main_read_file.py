@@ -96,7 +96,7 @@ def save_all_text(data, filename):
             
             # 글자 수 체크 및 표기
             if len(content) > 1000:
-                content += "\n[1000 글자가 넘는 내용입니다.]\n"
+                content += "\n[참고 : 1000 글자가 넘는 내용입니다.]\n"
             
             content += '\n' + '='*50 + '\n\n'
             f.write(content)
