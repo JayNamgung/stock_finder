@@ -137,20 +137,20 @@ def process_etf(symbol, processed_etfs):
     print(f"Completed processing {symbol}\n")
     return data
 
-# 새로운 함수: 자연어 처리된 결과물 생성
 def generate_natural_language_summary(data):
     summaries = []
     for etf in data:
         info = etf['info']
-        summary = f"{info['longName']}(티커: {info['symbol']})은 {info['category']} 카테고리에 속하는 ETF입니다. "
-        summary += f"이 ETF에 대한 설명은 다음과 같습니다. {info['longBusinessSummary']}"
+        summary = f"{info['longName']}(티커: {info['symbol']})은 {info['category']} 카테고리에 속하는 ETF입니다.\n"
+        summary += f"이 ETF에 대한 설명은 다음과 같습니다.\n{info['longBusinessSummary']}\n\n"
         
         if etf['top_holdings']:
             summary += "주요 편입 종목으로는 "
-            holdings = [f"{h['name']}({h['percent']})" for h in etf['top_holdings'][:3]]
+            holdings = [f"{h['name']}({h['percent']})" for h in etf['top_holdings']]
             summary += ", ".join(holdings) + " 등이 있습니다."
         
         summaries.append(summary)
+        summaries.append('=' * 50)  # 50개의 '=' 문자로 구분선 추가
     
     return "\n\n".join(summaries)
 
