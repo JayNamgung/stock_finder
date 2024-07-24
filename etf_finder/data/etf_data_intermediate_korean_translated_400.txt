@@ -1,0 +1,5260 @@
+티커: AAPU
+이름: Direxion Daily AAPL Bull 2X Shares
+카테고리: Trading--Leveraged Equity
+
+설명:
+정상적인 상황에서 펀드는 순자산(투자 목적 차입금 포함)의 최소 80%를 AAPL 증권과 스왑 계약 및 옵션과 같은 금융 상품에 투자하며, 이를 조합하여 일일 레버리지 노출의 2배를 제공합니다. 펀드의 투자 목적과 일치하는 AAPL에 적용됩니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 17.55%
+
+==================================================
+
+티커: AAPY
+이름: Kurv Yield Premium Strategy Apple (AAPL) ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 Apple Inc.(“AAPL”)의 보통주 주가(즉, 가격 수익률)에 ​​대한 노출 기회를 유지하면서 경상 소득을 추구하는 적극적으로 관리되는 상장지수펀드입니다. 그러나 이 전략은 주가 상승과 관련된 잠재적인 투자 이익을 제한합니다. 이 펀드는 모든 시장, 경제 또는 기타 조건에서 AAPL과 관련된 투자 전략을 사용하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Northern US Government Money Market (NOGXX): 27.97%
+
+==================================================
+
+티커: AAPB
+이름: GraniteShares 2x Long AAPL Daily ETF
+카테고리: Trading--Leveraged Equity
+
+설명:
+자문사는 1일부터 1년 이상의 특정 기간 동안 주요 금융 기관과 하나 이상의 스왑 계약을 체결하며, 이에 따라 자문사와 금융 기관은 기초 주식에서 얻거나 실현한 수익을 교환하기로 합의합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: AAPR
+이름: Innovator Equity Defined Protection ETF - 2 Yr To April 2026
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust를 참조하는 FLexible EXchange® 옵션에 순자산(투자 목적의 차입금 포함)의 최소 80%를 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AAAU
+이름: Goldman Sachs Physical Gold ETF
+카테고리: Commodities Focused
+
+설명:
+신탁은 화폐 가치가 없는 다른 사양의 런던 바 및 물리적 금을 보유합니다. 바구니 생성에 대한 대가로 승인된 참가자가 예치한 금을 받고, 상환을 위해 반환된 바구니와 교환하여 승인된 참가자에게 금을 전달합니다.
+
+
+==================================================
+
+티커: AAPD
+이름: Direxion Daily AAPL Bear 1X Shares
+카테고리: Trading--Inverse Equity
+
+설명:
+정상적인 상황에서 펀드는 펀드 순자산(투자 목적 차입금 포함)의 최소 80%를 스왑 계약 및 옵션을 포함한 금융 상품에 투자합니다. 이 금융 상품과 결합하여 1X 일일 역(반대) 또는 단기 노출을 제공합니다. AAPL은 펀드의 투자 목적과 일치합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: AAA
+이름: Alternative Access First Priority CLO Bond ETF
+카테고리: Ultrashort Bond
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 정상적인 상황에서 순자산(투자 목적 차입금 포함)의 80% 이상을 미국 달러 중심 대출채권(“CLO”)의 AAA 등급 우선순위 부채 트랜치에 투자합니다. 모든 만기의 CLO에 투자할 수 있습니다. 이 펀드는 적극적으로 관리되며 특정 지수의 성과를 추적하지 않습니다.
+
+
+==================================================
+
+티커: AAXJ
+이름: iShares MSCI All Country Asia ex Japan ETF
+카테고리: Pacific/Asia ex-Japan Stk
+
+설명:
+이 펀드는 자산의 최소 80%를 지수 구성 증권 및 지수 구성 증권과 실질적으로 동일한 경제적 특성을 갖는 투자에 투자합니다. 이 지수는 중국, 홍콩, 인도, 인도네시아, 말레이시아, 필리핀, 싱가포르, 한국, 대만과 태국.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 11.11%
+- Tencent Holdings Ltd (0700.HK): 4.78%
+- Samsung Electronics Co Ltd (005930.KS): 4.26%
+- Alibaba Group Holding Ltd Ordinary Shares (9988.HK): 2.12%
+- Reliance Industries Ltd (RELIANCE.NS): 1.73%
+
+==================================================
+
+티커: AADR
+이름: AdvisorShares Dorsey Wright ADR ETF
+카테고리: Foreign Large Growth
+
+설명:
+이 펀드는 주로 미국이 아닌 기관의 미국 거래 증권, 가장 흔히 미국예탁증서("ADR")로 구성된 포트폴리오를 선택하여 펀드의 투자 목표를 달성하려고 합니다. 총 자산의 최소 80%를 ADR 및 ADR과 유사한 경제적 특성을 가진 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S ADR (NVO): 6.96%
+- YPF SA ADR (YPF): 4.41%
+- ABB Ltd ADR (ABBNY): 3.96%
+- Mitsubishi UFJ Financial Group Inc ADR (MUFG): 3.60%
+- New Oriental Education & Technology Group Inc ADR (EDU): 3.59%
+
+==================================================
+
+티커: AAPX
+이름: T-Rex 2X Long Apple Daily Target ETF
+카테고리: Trading--Leveraged Equity
+
+설명:
+정상적인 상황에서 펀드는 순자산(투자 목적의 차입금 포함)의 최소 80%에 해당하는 AAPL에 대한 일일 200% 노출을 제공하는 스왑 계약에 투자합니다. 펀드와 글로벌 금융 기관은 주요 글로벌 금융 기관과 하나 이상의 스왑 계약을 체결하여 펀드가 AAPL에 투자하여 얻은 수익을 매일 200%와 동일하게 교환하는 데 동의합니다. 펀드의 순자산 가치. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 73.75%
+
+==================================================
+
+티커: ABCS
+이름: Alpha Blue Capital US Small-Mid Cap Dynamic ETF
+카테고리: Mid-Cap Blend
+
+설명:
+본 펀드는 국내 중소기업 지분증권과 중소기업 국내 지분증권에 대한 폭넓은 익스포저를 제공하는 ETF를 혼합하여 투자함으로써 투자목적을 달성하고자 하는 액티브 운용형 ETF입니다. 펀드의 투자와 관련하여 국내 주식 증권은 미국에 주소를 두고 주요 사업장을 두고 미국 주요 증권 거래소에서 거래되는 회사의 보통주 주식과 주로 국내 주식에 투자하는 ETF의 주식을 의미합니다.
+
+편입종목 상위 5개:
+- Vanguard Mid-Cap ETF (VO): 10.07%
+- Vanguard Mid-Cap Value ETF (VOE): 10.02%
+- Vanguard Small-Cap Value ETF (VBR): 9.77%
+- Vanguard Small-Cap ETF (VB): 5.04%
+- Global Payments Inc (GPN): 1.96%
+
+==================================================
+
+티커: ACTV
+이름: LeaderShares Activist Leaders ETF
+카테고리: Small Value
+
+설명:
+본 펀드는 국내 중소기업 지분증권과 중소기업 국내 지분증권에 대한 폭넓은 익스포저를 제공하는 ETF를 혼합하여 투자함으로써 투자목적을 달성하고자 하는 액티브 운용형 ETF입니다. 펀드의 투자와 관련하여 국내 주식 증권은 미국에 주소를 두고 주요 사업장을 두고 미국 주요 증권 거래소에서 거래되는 회사의 보통주 주식과 주로 국내 주식에 투자하는 ETF의 주식을 의미합니다.
+
+편입종목 상위 5개:
+- JetBlue Airways Corp (JBLU): 4.16%
+- Bausch Health Companies Inc (BHC.TO): 4.01%
+- Innoviva Inc (INVA): 3.91%
+- Restaurant Brands International Inc (QSR.TO): 3.86%
+- Ironwood Pharmaceuticals Inc Class A (IRWD): 3.83%
+
+==================================================
+
+티커: ACVF
+이름: American Conservative Values ETF
+카테고리: Large Blend
+
+설명:
+정상적인 상황에서 이 펀드는 순자산의 최소 80%와 투자 목적으로 차입한 금액을 정치적으로 보수적인 기준을 충족하는 미국 기업의 지분 증권에 투자함으로써 투자 목표를 달성하려고 합니다. 투자하는 지분증권은 일반적으로 시가총액이 큰 회사의 지분증권입니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 7.45%
+- Microsoft Corp (MSFT): 5.29%
+- Berkshire Hathaway Inc Class B (BRK-B): 2.65%
+- Broadcom Inc (AVGO): 2.05%
+- Eli Lilly and Co (LLY): 1.83%
+
+==================================================
+
+티커: ACWI
+이름: iShares MSCI ACWI ETF
+카테고리: Global Large-Stock Blend
+
+설명:
+펀드는 일반적으로 자산의 80% 이상을 기초 지수의 구성 증권과 기초 지수의 구성 증권과 실질적으로 동일한 경제적 특성을 갖는 투자에 투자합니다. 이 지수는 선진국과 신흥 시장 국가의 통합 주식 시장 성과를 측정하기 위해 고안된 유동주식 조정 시가총액 지수입니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 4.26%
+- NVIDIA Corp (NVDA): 4.17%
+- Apple Inc (AAPL): 4.17%
+- Amazon.com Inc (AMZN): 2.44%
+- Meta Platforms Inc Class A (META): 1.49%
+
+==================================================
+
+티커: ACWV
+이름: iShares MSCI Global Min Vol Factor ETF
+카테고리: Global Large-Stock Blend
+
+설명:
+펀드는 일반적으로 자산의 80% 이상을 기초 지수의 구성 증권과 기초 지수의 구성 증권과 실질적으로 동일한 경제적 특성을 갖는 투자에 투자합니다. 이 지수는 전체적으로 대형 및 중형 선진 시장과 신흥 시장에 비해 변동성이 낮은 선진국과 신흥 시장 모두에서 주식의 통합 성과를 측정합니다.
+
+편입종목 상위 5개:
+- T-Mobile US Inc (TMUS): 1.61%
+- Motorola Solutions Inc (MSI): 1.57%
+- Walmart Inc (WMT): 1.56%
+- Waste Management Inc (WM): 1.54%
+- McKesson Corp (MCK): 1.45%
+
+==================================================
+
+티커: ACSI
+이름: American Customer Satisfaction ETF
+카테고리: Large Blend
+
+설명:
+정상적인 상황에서는 펀드 순자산의 최소 80%와 투자 목적의 차입금이 미국과 경제적으로 연계된 투자에 투자됩니다. 지수 구축은 46개 산업과 10개 경제 부문에 걸쳐 400개 이상의 ACSI 기업으로 시작됩니다. 그런 다음 주식이 주로 미국 거래소에 상장되어 있지 않거나 시가총액이 10억 달러 미만이거나 고객 만족도 데이터가 통계적으로 중요하지 않은 회사를 제거하기 위해 초기 유니버스를 선별합니다.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 9.13%
+- Costco Wholesale Corp (COST): 6.25%
+- Alphabet Inc Class C (GOOG): 5.84%
+- Amazon.com Inc (AMZN): 5.12%
+- Microsoft Corp (MSFT): 5.02%
+
+==================================================
+
+티커: ABEQ
+이름: Absolute Select Value ETF
+카테고리: Large Value
+
+설명:
+펀드의 투자 하위 자문자(이하 "하위 자문자")는 하위 자문자의 공정 가치 추정치보다 상당히 할인된 가격으로 책정되어 있다고 판단되는 미국 회사의 지분 증권에 주로 투자함으로써 목적을 달성하려고 합니다. 본 펀드는 직접적으로 또는 미국예탁증서("ADR")를 통해 미국 거래소에서 거래되는 외국 기업의 지분 증권을 포함하여 모든 시가총액 및 경제 부문의 기업에 투자할 수 있습니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Berkshire Hathaway Inc Class B (BRK-B): 10.83%
+- Agnico Eagle Mines Ltd (AEM.TO): 8.74%
+- Loews Corp (L): 6.44%
+- Unilever PLC ADR (UL): 6.42%
+- DuPont de Nemours Inc (DD): 5.44%
+
+==================================================
+
+티커: ACIO
+이름: Aptus Collared Investment Opportunity ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 주로 시가총액에 상관없이 미국 상장 주식 포트폴리오에 투자하고 이에 대한 풋옵션 또는 옵션 칼라를 매수함으로써 투자 목적을 달성하고자 하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 기초 주식, 미국 주식 ETF 또는 미국 주식 포트폴리오를 추적하는 지수. 포트폴리오에 보유된 각 주식 포지션의 최대 100%에 대해 콜 옵션을 발행할 수 있으며 해당 콜 옵션 발행으로 받은 프리미엄의 일부를 풋 옵션 구매에 사용합니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 7.21%
+- Apple Inc (AAPL): 6.69%
+- NVIDIA Corp (NVDA): 6.63%
+- Alphabet Inc Class C (GOOG): 4.31%
+- Amazon.com Inc (AMZN): 3.87%
+
+==================================================
+
+티커: ACES
+이름: ALPS Clean Energy ETF
+카테고리: Miscellaneous Sector
+
+설명:
+이 펀드는 순자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 CIBC National Trust Company("지수 제공자")가 개발한 규칙 기반 방법론을 활용합니다. 이는 재생 가능 에너지 및 청정 기술을 포함한 청정 에너지 부문과 관련된 다양한 미국 및 캐나다 기업에 대한 노출을 제공하도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Rivian Automotive Inc Class A (RIVN): 6.40%
+- Tesla Inc (TSLA): 6.22%
+- Darling Ingredients Inc (DAR): 5.42%
+- Itron Inc (ITRI): 5.12%
+- Northland Power Inc (NPI.TO): 5.01%
+
+==================================================
+
+티커: ACWX
+이름: iShares MSCI ACWI ex U.S. ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 일반적으로 자산의 최소 80%를 기초 지수의 구성 증권과 기초 지수의 구성 증권과 실질적으로 동일한 경제적 특성을 가진 투자에 투자합니다. 이 지수는 미국을 제외한 선진국과 신흥국 시장의 통합 주식 시장 실적을 측정하도록 설계된 유통주식 조정 시가총액 가중 지수입니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 2.80%
+- Novo Nordisk A/S Class B (NOVO-B.CO): 1.80%
+- ASML Holding NV (ASML.AS): 1.58%
+- Tencent Holdings Ltd (0700.HK): 1.21%
+- Samsung Electronics Co Ltd (005930.KS): 1.08%
+
+==================================================
+
+티커: ADIV
+이름: SmartETFs Asia Pacific Dividend Builder ETF
+카테고리: Pacific/Asia ex-Japan Stk
+
+설명:
+이 펀드는 순자산(투자 목적의 차입금 포함)의 최소 80%를 아시아 태평양 지역 국가와 경제적으로 연계된 기업의 상장 배당 창출 지분 증권에 투자합니다. 정상적인 시장 상황에서 이 회사는 아시아 태평양 지역의 최소 4개 국가와 경제적으로 연결된 회사에 투자할 것입니다. 이 국가에는 호주, 중국, 홍콩, 싱가포르 및 대만이 포함될 수 있습니다.
+
+편입종목 상위 5개:
+- Hon Hai Precision Industry Co Ltd (2317.TW): 3.45%
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 3.23%
+- China Construction Bank Corp Class H (00939): 3.12%
+- China Resources Gas Group Ltd (1193.HK): 3.12%
+- Broadcom Inc (AVGO): 3.11%
+
+==================================================
+
+티커: ADFI
+이름: Anfield Dynamic Fixed Income ETF
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+이 펀드는 '펀드 오브 펀드(Fund of Fund)'인 적극적으로 관리되는 ETF로, 주로 다른 ETF의 증권에 자산을 투자한다는 의미입니다. 일반적으로 투자 목적의 차입금을 포함하여 순자산의 80% 이상을 회사채, 미국 정부 및 기관 증권, 민간 부채, 외국 국채 등 글로벌 부채 시장의 모든 측면에 투자하는 기타 비계열 ETF에 투자합니다. , 전환사채, 은행대출, 자산유동화증권, 주택저당증권, 현금등가증권 등이 있습니다.
+
+편입종목 상위 5개:
+- iShares US Treasury Bond ETF (GOVT): 24.13%
+- Invesco Fundamental Hi Yld® Corp Bd ETF (PHB): 19.97%
+- iShares iBoxx $ Invmt Grade Corp Bd ETF (LQD): 17.66%
+- iShares MBS ETF (MBB): 16.79%
+- Janus Henderson AAA CLO ETF (JAAA): 10.94%
+
+==================================================
+
+티커: ADME
+이름: Aptus Drawdown Managed Equity ETF
+카테고리: Long-Short Equity
+
+설명:
+이 펀드는 적극적으로 관리되는 거래소 상장 펀드("ETF")로, 주로 미국 상장 주식 증권 포트폴리오에 투자하여 목표를 달성하는 동시에, 하나 이상의 해당 주식 증권 또는 미국 주식 시장의 성과를 추적하는 광범위한 지수 또는 ETF에 대한 거래소 상장 풋 옵션을 매수하여 하락 위험을 제한합니다. 정상적인 상황에서는 펀드 순자산의 최소 80%(투자 목적의 차입금 포함)이 주식 증권에 투자됩니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 7.21%
+- Apple Inc (AAPL): 6.67%
+- NVIDIA Corp (NVDA): 6.64%
+- Alphabet Inc Class C (GOOG): 4.33%
+- Amazon.com Inc (AMZN): 3.83%
+
+==================================================
+
+티커: ADVE
+이름: Matthews Asia Dividend Active ETF
+카테고리: Diversified Pacific/Asia
+
+설명:
+정상적인 상황에서 이 펀드는 투자 목적의 차입금을 포함한 순자산의 최소 80%를 아시아에 위치한 기업의 배당 지급 지분 증권에 투자함으로써 투자 목적을 달성하려고 합니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 6.39%
+- Tencent Holdings Ltd (0700.HK): 3.49%
+- HDFC Bank Ltd ADR (HDB): 3.25%
+- ITOCHU Corp (8001.T): 2.97%
+- Keyence Corp (6861.T): 2.67%
+
+==================================================
+
+티커: AETH
+이름: Bitwise Ethereum Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 ETH 선물 계약에 대한 노출 관리 및 단기 채무 증권에 대한 투자를 통해 투자 목적을 달성하고자 합니다. 이 펀드는 일반적으로 현금 결제형 근월 ETH 선물 계약에 투자하려고 합니다. 이 펀드는 또한 월월 현금 결제형 ETH 선물 계약에 투자할 수도 있습니다. 근월 ETH 선물 계약은 만기가 가장 짧은 계약입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- DWS Government Money Market Series Instl (ICAXX): 69.75%
+
+==================================================
+
+티커: ADPV
+이름: Adaptiv Select ETF
+카테고리: Large Blend
+
+설명:
+장기적인 시세차익이라는 투자 목적을 달성하기 위해, 이 펀드는 미국 주식 시장이 전반적으로 상승하는 동안 순자산의 대부분을 미국 대형 자본 회사의 상장 주식 포트폴리오에 투자할 것입니다. 이 펀드는 주로 보통주를 소유하지만, REITS가 미국 상장 주식 1,000대에 포함되는 한 REITS의 지분 증권에도 투자할 수 있습니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Vistra Corp (VST): 7.08%
+- Vertiv Holdings Co Class A (VRT): 6.16%
+- AppLovin Corp Ordinary Shares - Class A (APP): 6.10%
+- NRG Energy Inc (NRG): 4.98%
+- Kyndryl Holdings Inc Ordinary Shares (KD): 4.92%
+
+==================================================
+
+티커: AFIF
+이름: Anfield Universal Fixed Income ETF
+카테고리: Multisector Bond
+
+설명:
+이 펀드는 ETH 선물 계약에 대한 노출 관리 및 단기 채무 증권에 대한 투자를 통해 투자 목적을 달성하고자 합니다. 이 펀드는 일반적으로 현금 결제형 근월 ETH 선물 계약에 투자하려고 합니다. 이 펀드는 또한 월월 현금 결제형 ETH 선물 계약에 투자할 수도 있습니다. 근월 ETH 선물 계약은 만기가 가장 짧은 계약입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AESR
+이름: Anfield U.S. Equity Sector Rotation ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 일반적으로 투자 목적의 차입금을 포함하여 순자산의 80% 이상을 각각 자산의 80% 이상을 미국 주식 증권에 투자하는 다양한 ETF 포트폴리오에 투자하는 적극적으로 관리되는 상장지수펀드입니다. 뿐만 아니라 개별 미국 주식에도 직접적으로 적용됩니다.
+
+편입종목 상위 5개:
+- SPDR® S&P 500® ETF Trust (SPY): 17.23%
+- The CommunicationServicesSelSectSPDR®ETF (XLC): 11.94%
+- The Financial Select Sector SPDR® ETF (XLF): 11.03%
+- VanEck Semiconductor ETF (SMH): 10.79%
+- The Technology Select Sector SPDR® ETF (XLK): 10.01%
+
+==================================================
+
+티커: AEMB
+이름: American Century Emerging Markets Bond ETF
+카테고리: Emerging Markets Bond
+
+설명:
+정상적인 시장 상황에서 포트폴리오 매니저는 펀드 순자산의 최소 80%와 투자 목적의 차입금을 신흥 시장 국가와 관련된 채무 증권에 투자합니다. 펀드가 투자하는 채무증권에는 국채 및 준국가채, 신흥시장 기업채권, 신흥시장 채무투자가 포함됩니다. 신흥 시장 부채 투자에는 기준 증권이 기업 및 국채인 신흥 시장 파생 상품이 포함됩니다.
+
+
+==================================================
+
+티커: AFK
+이름: VanEck Africa Index ETF
+카테고리: Miscellaneous Region
+
+설명:
+펀드는 일반적으로 펀드의 벤치마크 지수를 구성하는 증권에 총 자산의 최소 80%를 투자합니다. 이 지수에는 아프리카 기업의 증권이 포함되어 있습니다. 아프리카 회사에는 일반적으로 아프리카에 설립된 회사의 현지 상장과 아프리카 외부에서 설립되었지만 수익/관련 자산의 최소 50%가 아프리카에 있는 회사의 상장이 포함됩니다.
+
+편입종목 상위 5개:
+- Anglo American PLC (AAL.L): 4.52%
+- Ivanhoe Mines Ltd Class A (IVN.TO): 4.39%
+- Airtel Africa PLC Ordinary Shares (AAF.L): 4.09%
+- Firstrand Ltd (FSR.JO): 4.08%
+- Commercial International Bank - Egypt CIB DR (CBKD): 3.41%
+
+==================================================
+
+티커: AFLG
+이름: First Trust Active Factor Large Cap ETF
+카테고리: Large Blend
+
+설명:
+정상적인 시장 상황에서 펀드는 순자산(투자 차입금 포함)의 최소 80%를 대형 자본 회사가 발행한 미국 상장 지분 증권에 투자합니다. 운용사는 투자 당시 지수 구성을 기준으로 널리 인정된 대형주 지수의 최소시가총액과 같거나 그 이상의 최소시가총액을 가진 기업을 대형주로 정의합니다. 투자.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 7.30%
+- Microsoft Corp (MSFT): 5.52%
+- NVIDIA Corp (NVDA): 4.69%
+- Alphabet Inc Class A (GOOGL): 2.48%
+- Amazon.com Inc (AMZN): 2.23%
+
+==================================================
+
+티커: AFTY
+이름: Pacer CSOP FTSE China A50 ETF
+카테고리: China Region
+
+설명:
+이 펀드는 수수료 및 비용을 제외하고 지수의 총 수익률을 추적하도록 설계된 "패시브 관리" 투자 접근 방식을 사용합니다. 이 지수는 중국 A주 시장의 50대 기업이 발행한 A주로 구성됩니다. 펀드 총 자산의 최소 80%는 지수 구성 종목에 투자됩니다. 펀드는 지수에 포함되지 않았지만 하위 자문가가 지수를 추적하는 데 도움이 될 것이라고 믿는 투자에 나머지 자산을 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Kweichow Moutai Co Ltd Class A (600519.SS): 12.19%
+- Contemporary Amperex Technology Co Ltd Class A (300750.SZ): 5.43%
+- China Yangtze Power Co Ltd Class A (600900.SS): 4.84%
+- China Merchants Bank Co Ltd Class A (600036.SS): 4.83%
+- Wuliangye Yibin Co Ltd Class A (000858.SZ): 3.40%
+
+==================================================
+
+티커: AGG
+이름: iShares Core U.S. Aggregate Bond ETF
+카테고리: Intermediate Core Bond
+
+설명:
+이 지수는 미국 전체 투자등급 채권시장의 성과를 측정합니다. 펀드는 자산의 최소 80%를 기초 지수의 구성 증권과 기본 지수의 구성 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 갖는 TBA에 투자하고, 최소 90%를 투자합니다. 펀드가 기본 지수를 추적하는 데 도움이 될 것이라고 자문가가 믿는 기본 지수에 포함된 유형의 고정 수입 증권에 대한 자산의 %입니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Instl SL Agency (BISXX): 3.89%
+
+==================================================
+
+티커: AFSM
+이름: First Trust Active Factor Small Cap ETF
+카테고리: Small Blend
+
+설명:
+정상적인 시장 상황에서 펀드는 순자산(투자 차입금 포함)의 최소 80%를 소규모 자본 회사가 발행한 미국 상장 지분 증권에 투자합니다. 운용사는 투자 당시 지수 구성을 기준으로 시가총액이 최소 2억 5천만 달러와 널리 인정된 소규모 기업 지수의 최대 시가총액 사이인 기업으로 정의합니다. 투자의.
+
+편입종목 상위 5개:
+- Abercrombie & Fitch Co Class A (ANF): 1.20%
+- SkyWest Inc (SKYW): 1.16%
+- Teekay Tankers Ltd Class A (TNK): 1.05%
+- Boise Cascade Co (BCC): 0.95%
+- National Healthcare Corp (NHC): 0.89%
+
+==================================================
+
+티커: AGIH
+이름: iShares Inflation Hedged U.S. Aggregate Bond ETF
+카테고리: Inflation-Protected Bond
+
+설명:
+기초 지수는 미국 달러 표시 투자 등급 채권으로 구성된 포트폴리오의 인플레이션 위험을 최소화하도록 설계되었습니다. 이 펀드는 정상적인 상황에서 순자산의 최소 80%와 투자 목적으로 차입한 금액을 펀드의 기본 지수에 포함된 구성 증권 및 상품에 투자함으로써 투자 목적을 달성하려고 합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Instl SL Agency (BISXX): 3.39%
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 2.49%
+
+==================================================
+
+티커: AGGS
+이름: Harbor Disciplined Bond ETF
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+이 펀드는 주로 미국 달러 표시 채권에 투자합니다. 정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 다양한 채권 상품 포트폴리오에 투자합니다. 채권 상품에는 미국 정부, 해당 기관 또는 기관이 발행하거나 보증한 의무가 포함되나 이에 국한되지 않습니다.
+
+
+==================================================
+
+티커: AFMC
+이름: First Trust Active Factor Mid Cap ETF
+카테고리: Mid-Cap Blend
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산(투자 차입금 포함)의 80% 이상을 중견기업이 발행한 미국 상장 지분증권에 투자합니다. 운용사는 투자 당시 지수 구성을 기준으로 널리 알려진 중형 기업 지수의 최소 시가 총액과 최대 시가 총액 사이의 시가 총액을 갖는 기업을 중형 기업으로 정의합니다.
+
+편입종목 상위 5개:
+- Williams-Sonoma Inc (WSM): 1.45%
+- Sprouts Farmers Market Inc (SFM): 1.35%
+- Tenet Healthcare Corp (THC): 1.24%
+- United Therapeutics Corp (UTHR): 1.14%
+- Vistra Corp (VST): 1.13%
+
+==================================================
+
+티커: AGNG
+이름: Global X Aging Population ETF
+카테고리: Health
+
+설명:
+이 펀드는 총 자산의 80% 이상을 기초 지수의 증권에 투자합니다. 기초 지수는 생명공학, 의료 기기, 제약, 노인 요양 시설 및 전문 의료 서비스를 포함하되 이에 국한되지 않는, 더 긴 평균 수명과 세계 인구의 고령화라는 인구 통계적 추세를 촉진하는 선진 시장의 거래소 상장 기업에 대한 노출을 제공하도록 설계되었습니다.
+
+편입종목 상위 5개:
+- Eli Lilly and Co (LLY): 3.47%
+- Novo Nordisk A/S Class B (NOVO-B.CO): 3.37%
+- Amgen Inc (AMGN): 3.37%
+- Welltower Inc (WELL): 3.36%
+- Regeneron Pharmaceuticals Inc (REGN): 3.32%
+
+==================================================
+
+티커: AGGY
+이름: WisdomTree Yield Enhanced U.S. Aggregate Bond Fund
+카테고리: Intermediate Core Bond
+
+설명:
+정상적인 상황에서 펀드는 총 자산의 최소 80%를 지수 구성 증권 및 해당 구성 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 갖는 투자에 투자합니다. 이 지수는 미국 투자 등급 채권 시장을 광범위하게 포착하는 동시에 원하는 위험 매개변수와 제약 내에서 수익률을 향상시키도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AGMI
+이름: Themes Silver Miners ETF
+카테고리: Equity Precious Metals
+
+설명:
+이 지수는 은광산업에 상당한 비중을 차지하는 대기업, 중소형 부문의 글로벌 기업에 대한 노출을 제공하도록 설계되었습니다. 정상적인 상황에서 펀드는 순자산의 최소 80%에 투자 목적의 차입금을 더한 금액을 지수를 구성하는 증권과 지수의 증권을 기반으로 하는 ADR 및 GDR에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Newmont Corp (NEM): 10.22%
+- Industrias Penoles SAB de CV (PE&OLES.MX): 9.99%
+- Pan American Silver Corp (PAAS.TO): 9.96%
+- First Majestic Silver Corp (AG.TO): 9.62%
+- Southern Copper Corp (SCCO): 4.73%
+
+==================================================
+
+티커: AGOX
+이름: Adaptive Alpha Opportunities ETF
+카테고리: Tactical Allocation
+
+설명:
+펀드의 포트폴리오 매니저는 1940년 투자회사법(개정된 대로)에 따라 등록되고 여러 발행사의 시가총액에 관계없이 지분증권에 투자하는 펀드와 관련이 없는 ETF에 투자하여 시세차익이라는 투자 목적을 달성하려고 합니다. 신흥 시장 국가를 포함한 전 세계 국가의. 운용사는 주로 ETF와 주식을 활용하지만 자산 클래스를 다양화하기 위해 채권을 사용할 수도 있습니다. 펀드가 투자할 고정 수입 증권은 투자 등급이며, 만기나 만기는 제한이 없습니다.
+
+편입종목 상위 5개:
+- VanEck Semiconductor ETF (SMH): 11.00%
+- NVIDIA Corp (NVDA): 9.82%
+- The Technology Select Sector SPDR® ETF (XLK): 9.71%
+- Invesco QQQ Trust (QQQ): 7.56%
+- Super Micro Computer Inc (SMCI): 7.01%
+
+==================================================
+
+티커: AGRH
+이름: iShares Interest Rate Hedged U.S. Aggregate Bond ETF
+카테고리: Ultrashort Bond
+
+설명:
+기본 지수는 미국 달러 표시 투자 등급 채권으로 구성된 포트폴리오의 금리 위험 노출을 최소화하도록 설계되었습니다. 이 펀드는 정상적인 상황에서 순자산의 최소 80%와 투자 목적으로 차입한 금액을 펀드의 기본 지수에 포함된 구성 증권 및 상품에 투자함으로써 투자 목적을 달성하려고 합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- iShares Core US Aggregate Bond ETF (AGG): 95.15%
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 0.97%
+
+==================================================
+
+티커: AGQ
+이름: ProShares Ultra Silver
+카테고리: Trading--Leveraged Commodities
+
+설명:
+본 펀드는 정상적인 시장 상황에서 벤치마크를 기반으로 한 금융 상품(스왑 계약, 선물 계약, 선도 계약 및 옵션 계약 포함) 중 하나 또는 조합에 투자하여 투자 목적을 달성하려고 합니다. 펀드가 투자하는 금융상품의 유형과 혼합은 스폰서의 재량에 따라 매일 달라질 수 있습니다. 어떤 상품에도 직접 투자하지 않습니다.
+
+
+==================================================
+
+티커: AGZ
+이름: iShares Agency Bond ETF
+카테고리: Short Government
+
+설명:
+이 지수는 미국 국채 시장의 기관 부문 성과를 측정하며 투자 등급의 미국 달러 표시 공공 발행 정부 기관 채권 또는 사채로 구성됩니다. 펀드는 자산의 최소 80%를 지수 구성 증권과 지수 구성 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 갖는 TBA에 투자합니다.
+
+
+==================================================
+
+티커: AHOY
+이름: Newday Ocean Health ETF
+카테고리: Large Blend
+
+설명:
+정상적인 시장 상황에서 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 Ocean Health Company에 투자합니다. 이 펀드는 “해양 건강 회사”를 오염 배출, 폐기물 유출, 남획 또는 환경 보호와 같은 해양 관련 문제를 해결하기 위해 헌신과 근면을 보여주는 회사 또는 CO2 배출 감소를 우선시하거나 투자하는 회사로 분류합니다. 해안 및 해양 생태계의 관리, 보존, 복원을 목표로 하는 "블루 카본" 프로젝트에 참여하고 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- DSM Firmenich AG (DSFIR.AS): 5.12%
+- Walmart Inc (WMT): 5.11%
+- Tetra Tech Inc (TTEK): 5.11%
+- Ecolab Inc (ECL): 4.97%
+- Cargotec Oyj Class B (CGCBV.HE): 4.97%
+
+==================================================
+
+티커: AGZD
+이름: WisdomTree Interest Rate Hedged U.S. Aggregate Bond Fund
+카테고리: Nontraditional Bond
+
+설명:
+이 지수는 Bloomberg U.S Aggregate Bond Index에 대한 장기 노출을 제공하는 동시에 미국 국채에 대한 매도 포지션을 활용하여 금리 위험을 관리하도록 설계되었습니다. 펀드는 일반적으로 총 자산의 80% 이상을 지수 구성 증권 및 해당 구성 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 갖는 투자에 투자합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: AHLT
+이름: American Beacon AHL Trend ETF
+카테고리: Systematic Trend
+
+설명:
+펀드어드바이저는 주가지수, 채권, 통화 등 20개 이상의 글로벌 시장의 가격 추세(상승 및/또는 하락)를 활용하기 위해 고안된 정량적 거래 전략과 체계적인 투자 프로세스를 구현하여 펀드의 투자 목적을 달성하고자 합니다. 파생상품을 활용하여. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AIA
+이름: iShares Asia 50 ETF
+카테고리: Pacific/Asia ex-Japan Stk
+
+설명:
+본 펀드는 일반적으로 자산의 80% 이상을 지수 구성 증권 및 해당 지수 구성 증권과 실질적으로 동일한 경제적 특성을 갖는 투자에 투자하며, 자산의 최대 20%를 특정 선물에 투자할 수 있습니다. , 옵션 및 스왑 계약, 현금 및 현금 등가물. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 24.57%
+- Samsung Electronics Co Ltd (005930.KS): 10.50%
+- Tencent Holdings Ltd (0700.HK): 10.08%
+- Alibaba Group Holding Ltd Ordinary Shares (9988.HK): 4.67%
+- SK Hynix Inc (000660.KS): 3.23%
+
+==================================================
+
+티커: AHYB
+이름: American Century Select High Yield ETF
+카테고리: High Yield Bond
+
+설명:
+정상적인 시장 상황에서 포트폴리오 관리자는 펀드 순자산의 최소 80%와 투자 목적의 차입금을 고수익 채무 증권에 투자합니다. 고수익 증권은 정크본드라고도 합니다. 포트폴리오 매니저는 펀드의 자산을 다양한 고수익 회사채에 적극적으로 배분할 것입니다. 이 펀드는 특정 지수의 성과를 복제하려고 하지 않는 적극적으로 관리되는 상장지수펀드(ETF)입니다.
+
+
+==================================================
+
+티커: AIBD
+이름: Direxion Daily AI And Big Data Bear 2X Shares
+카테고리: Trading--Inverse Equity
+
+설명:
+이 지수는 인공지능(“AI”) 애플리케이션과 빅데이터 분야에서 사업을 운영하는 미국 기업의 증권을 나타내기 위해 Solactive AG가 설계했습니다. 정상적인 상황에서 펀드는 스왑 계약, 선물 계약, 매도 포지션 또는 지수에 역(반대) 또는 매도 일일 노출을 제공하는 기타 금융 상품에 펀드 순자산의 최소 80%를 투자합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AIBU
+이름: Direxion Daily AI And Big Data Bull 2X Shares
+카테고리: Trading--Leveraged Equity
+
+설명:
+이 지수는 인공지능(“AI”) 애플리케이션과 빅데이터 분야에서 사업을 운영하는 미국 기업의 증권을 나타내기 위해 Solactive AG가 설계했습니다. 정상적인 상황에서 펀드는 순자산(투자 목적을 위한 차입 포함)의 80% 이상을 스왑 계약, 지수 증권, 상장지수펀드("ETF")와 같은 금융 상품에 투자합니다. 색인. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 8.21%
+- Apple Inc (AAPL): 7.23%
+- Alphabet Inc Class A (GOOGL): 6.86%
+- Microsoft Corp (MSFT): 6.26%
+- Amazon.com Inc (AMZN): 6.13%
+
+==================================================
+
+티커: AIEQ
+이름: Amplify AI Powered Equity ETF
+카테고리: Large Growth
+
+설명:
+펀드는 펀드의 투자 목표를 달성하기 위해 "수동적" 또는 지수화 접근 방식을 사용합니다. 이 지수는 IBM Watson™ 플랫폼에서 실행되는 EquBot Inc.(“지수 제공자”)가 개발한 독점 정량 모델의 ​​결과를 기반으로 iShares Core S&P Total U.S. Stock Market ETF에 상장된 지분 증권에 주로 투자합니다. EquBot은 인공지능 기반 솔루션을 투자 분석에 적용하는 데 주력하는 기술 기반 회사입니다.
+
+편입종목 상위 5개:
+- Meta Platforms Inc Class A (META): 7.31%
+- Netflix Inc (NFLX): 6.55%
+- Microsoft Corp (MSFT): 6.25%
+- Applied Materials Inc (AMAT): 5.41%
+- Salesforce Inc (CRM): 5.17%
+
+==================================================
+
+티커: AIRL
+이름: Themes Airlines ETF
+카테고리: Miscellaneous Sector
+
+설명:
+이 지수는 항공 산업에서 사업을 운영하는 회사에 대한 노출을 제공하도록 설계된 자유 유동 조정 시가 총액 가중 지수입니다. 정상적인 상황에서 펀드는 순자산의 최소 80%에 투자 목적으로 차입한 금액을 더해 지수를 구성하는 증권과 미국예탁증서(“ADR”) 및 글로벌예탁증서(“ GDR”)은 지수의 증권을 기반으로 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- SkyWest Inc (SKYW): 5.76%
+- United Airlines Holdings Inc (UAL): 5.41%
+- Qantas Airways Ltd (QAN.AX): 5.17%
+- Singapore Airlines Ltd (C6L.SI): 5.09%
+- Delta Air Lines Inc (DAL): 4.95%
+
+==================================================
+
+티커: AIQ
+이름: Global X Artificial Intelligence & Technology ETF
+카테고리: Technology
+
+설명:
+이 펀드는 총 자산의 최소 80%를 기초 지수의 증권에 투자합니다. 기초지수는 인공지능("AI") 및 빅데이터의 개발 및 활용과 관련된 기업의 성과를 추적하도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 5.52%
+- Tencent Holdings Ltd (0700.HK): 3.68%
+- Netflix Inc (NFLX): 3.65%
+- Broadcom Inc (AVGO): 3.52%
+- Meta Platforms Inc Class A (META): 3.51%
+
+==================================================
+
+티커: AIFD
+이름: TCW Artificial Intelligence ETF
+카테고리: Technology
+
+설명:
+정상적인 상황에서 펀드는 순자산 가치의 최소 80%와 투자 목적으로 차입한 금액을 연간 보고서, 보도 자료 및 기타 공개를 통해 자문사가 식별한 기업의 증권에 투자합니다. 회사의 재무 상태에 중대한 개선을 제공하거나 제공할 가능성이 있는 방식으로 예측 또는 생성 AI를 사용하거나 사용할 의도를 입증한 발행자의 진술과 자문사의 실사 프로세스. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 7.92%
+- Arista Networks Inc (ANET): 6.03%
+- Meta Platforms Inc Class A (META): 5.92%
+- CrowdStrike Holdings Inc Class A (CRWD): 5.61%
+- Alphabet Inc Class A (GOOGL): 4.98%
+
+==================================================
+
+티커: AIPI
+이름: REX AI Equity Premium Income ETF
+카테고리: Derivative Income
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산(투자 목적의 차입금 포함)의 최소 80%를 BITA AI Leaders Select Index를 구성하는 증권에 투자합니다. 불리한 시장, 경제 또는 기타 조건이 있는 기간이 있는지 여부에 관계없이 투자 전략을 사용하려고 하며 그러한 기간 동안 일시적인 방어 포지션을 취하지 않습니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AIVI
+이름: WisdomTree International Al Enhanced Value Fund
+카테고리: Foreign Large Value
+
+설명:
+이 펀드는 적극적으로 관리되며 독점적인 정량적 인공지능("AI")의 선택 결과를 기반으로 가치 특성을 나타내는 미국과 캐나다를 제외한 선진 시장 주식 세계에서 선택된 지분 증권에 주로 투자하려고 합니다. Sub-Adviser가 개발한 모델입니다. AI 모델이 선택한 지분증권은 일반적으로 주가순자산비율, 주가수익비율, 잉여현금흐름이 더 낮습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- British American Tobacco PLC (BATS.L): 3.61%
+- Shell PLC (SHEL.L): 3.48%
+- Zurich Insurance Group AG (ZURN.SW): 3.18%
+- Swiss Re AG (SREN.SW): 3.10%
+- Fresenius SE & Co KGaA (FRE.DE): 3.07%
+
+==================================================
+
+티커: AGQI
+이름: First Trust Active Global Quality Income ETF
+카테고리: Global Large-Stock Value
+
+설명:
+정상적인 시장 상황에서 이 펀드는 주로 수익을 창출하는 지분 증권에 투자하려고 합니다. 이러한 지분 증권에는 보통주, 예탁증서(ADR 및 GDR 포함), 우선주 및 부동산 투자 신탁(“REIT”)이 포함될 수 있습니다. 미국 및 미국 이외의 발행인에 투자하며 일반적으로 순자산의 40% 이상을 미국을 제외한 전 세계 여러 국가와 경제적으로 연결된 발행인 또는 회사의 증권에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 6.30%
+- RELX PLC (REL.L): 5.00%
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 4.96%
+- Shell PLC (SHEL.L): 4.61%
+- TotalEnergies SE (TTE.PA): 4.57%
+
+==================================================
+
+티커: AIRR
+이름: First Trust RBA American Industrial RenaissanceTM ETF
+카테고리: Industrials
+
+설명:
+이 펀드는 일반적으로 순자산(투자 차입금 포함)의 최소 90%를 지수를 구성하는 주식 증권에 투자합니다. 이 지수는 산업 및 커뮤니티 은행 부문에서 미국 중소형 기업의 성과를 측정하도록 설계되었습니다.
+
+편입종목 상위 5개:
+- MasTec Inc (MTZ): 4.49%
+- Dycom Industries Inc (DY): 4.44%
+- Clean Harbors Inc (CLH): 4.25%
+- Sterling Infrastructure Inc (STRL): 4.20%
+- SPX Technologies Inc (SPXC): 4.15%
+
+==================================================
+
+티커: AIYY
+이름: YieldMax AI Option Income Strategy ETF
+카테고리: Derivative Income
+
+설명:
+이 펀드는 C3.ai, Inc.(“AI”)의 보통주 주가(즉, 가격 수익률)에 ​​간접적으로 노출되면서 경상 소득을 추구하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. , 잠재적인 투자 이익에 대한 제한이 적용됩니다. 불리한 시장, 경제 또는 기타 상황이 있든 없든 AI와 관련된 투자 전략을 사용할 것이며 그러한 기간 동안 일시적인 방어 입장을 취하지 않을 것입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 0.14%
+
+==================================================
+
+티커: AJAN
+이름: Innovator Equity Defined Protection ETF - 2 Yr To January 2026
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기본 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AIVL
+이름: WisdomTree U.S. Al Enhanced Value Fund
+카테고리: Mid-Cap Value
+
+설명:
+이 펀드는 적극적으로 관리되며 Sub-Adviser가 개발한 독점 정량적 AI 모델의 선택 결과를 기반으로 가치 특성을 나타내는 미국 주식 세계에서 선택된 주식에 주로 투자하려고 합니다. 일반적으로 순자산의 80% 이상을 미국에서 조직되거나, 미국에 주요 사업장을 유지하거나, 주로 미국 거래소에서 거래되는 회사의 증권에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Exxon Mobil Corp (XOM): 3.74%
+- Bank of America Corp (BAC): 3.72%
+- Intercontinental Exchange Inc (ICE): 3.48%
+- Hewlett Packard Enterprise Co (HPE): 3.44%
+- Medtronic PLC (MDT): 3.30%
+
+==================================================
+
+티커: AJUL
+이름: Innovator Equity Defined Protection ETF - 2 Yr to July 2026
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 순자산(투자 목적 차입금 포함)의 최소 80%를 투자합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: ALAI
+이름: Alger AI Enablers & Adopters ETF
+카테고리: Technology
+
+설명:
+정상적인 상황에서 이 펀드는 순자산의 80% 이상과 투자 목적의 차입금을 인공지능(“AI”) 기술의 개발, 채택 및 활용에 중점을 둔 시가총액에 관계없이 기업의 지분증권에 투자합니다. 관리자가 유망한 성장 잠재력을 보여준다고 믿는 것입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 15.18%
+- NVIDIA Corp (NVDA): 11.04%
+- Amazon.com Inc (AMZN): 10.84%
+- Meta Platforms Inc Class A (META): 7.82%
+- Alphabet Inc Class C (GOOG): 4.85%
+
+==================================================
+
+티커: ALUM
+이름: USCF Aluminum Strategy Fund
+카테고리: Commodities Focused
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 이 펀드는 알루미늄 기반 파생상품 투자를 통해 알루미늄 가격에 대한 노출을 제공하려는 독점적인 방법론을 사용하여 투자 목적을 달성하려고 합니다. 본 펀드는 주로 알루미늄 선물에 투자하지만, 원하는 경제적 노출을 얻기 위해 펀드는 현금 결제 옵션, 선도 계약, 선물 계약 옵션 및 기타 옵션에도 투자할 수도 있습니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AMAX
+이름: Adaptive Hedged Multi-Asset Income ETF
+카테고리: Nontraditional Bond
+
+설명:
+적극적으로 관리되는 상장지수펀드(“ETF”)로서 이 펀드는 지수 성과를 복제하려고 하지 않습니다. 자문가는 개정된 1940년 투자회사법(“1940년법”)에 따라 등록되고 관련이 없는 뮤추얼 펀드 및 상장지수펀드를 포함한 다른 투자회사에 투자함으로써 총 수익이라는 펀드의 투자 목표를 달성하려고 합니다. 펀드(“포트폴리오 펀드”)를 이용하거나 직접 투자함으로써.
+
+편입종목 상위 5개:
+- iShares 20+ Year Treasury Bond ETF (TLT): 23.46%
+- Invesco QQQ Trust (QQQ): 21.10%
+- SPDR® S&P 500® ETF Trust (SPY): 20.12%
+- United States Oil (USO): 4.81%
+- iShares Russell 2000 ETF (IWM): 4.37%
+
+==================================================
+
+티커: ALTY
+이름: Global X Alternative Income ETF
+카테고리: Aggressive Allocation
+
+설명:
+이 펀드는 총 자산의 80% 이상을 기본 지수의 증권과 해당 지수의 증권을 기반으로 하는 미국예탁증서("ADR") 및 글로벌예탁증서("GDR")에 투자합니다. 기본 지수는 MLP(Master Limited Partnership), 인프라, 부동산, 우선주, 신흥 시장 채권, 커버드 콜 등 5가지 소득 창출 범주에 대한 노출을 제공하기 위한 것입니다.
+
+편입종목 상위 5개:
+- Global X Emerging Markets Bond ETF (EMBD): 20.43%
+- Global X NASDAQ 100 Covered Call ETF (QYLD): 20.42%
+- Global X US Preferred ETF (PFFD): 20.14%
+- Global X SuperDividend® REIT ETF (SRET): 18.81%
+- Suburban Propane Partners LP (SPH): 1.54%
+
+==================================================
+
+티커: ALTL
+이름: Pacer Lunt Large Cap Alternator ETF
+카테고리: Large Value
+
+설명:
+이 지수는 대규모 미국 기업에 대한 노출을 제공하기 위해 객관적이고 규칙 기반 방법론을 사용합니다. 정상적인 상황에서 펀드는 순자산의 최소 80%와 투자 목적으로 차입한 금액을 대형 기업의 증권에 투자합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Republic Services Inc (RSG): 1.43%
+- Berkshire Hathaway Inc Class B (BRK-B): 1.40%
+- Coca-Cola Co (KO): 1.33%
+- Colgate-Palmolive Co (CL): 1.27%
+- Roper Technologies Inc (ROP): 1.27%
+
+==================================================
+
+티커: AMID
+이름: Argent Mid Cap ETF
+카테고리: Mid-Cap Blend
+
+설명:
+이 펀드는 중형 자본화 기업(즉, Russell MidCap® 지수 범위 내의 시가총액을 갖고 있으며 하위 자문자가 긍정적인 내부 및/또는 외부 변화를 겪고 있다고 생각하는 기업)의 주식 증권에 투자하여 투자 목표를 달성하는 것을 목표로 하는 적극적으로 관리되는 ETF입니다.
+
+편입종목 상위 5개:
+- Fair Isaac Corp (FICO): 5.09%
+- CDW Corp (CDW): 3.98%
+- Copart Inc (CPRT): 3.78%
+- Medpace Holdings Inc (MEDP): 3.71%
+- Cintas Corp (CTAS): 3.33%
+
+==================================================
+
+티커: AMDY
+이름: YieldMax AMD Option Income Strategy ETF
+카테고리: Derivative Income
+
+설명:
+펀드 자문가는 불리한 시장, 경제 또는 기타 조건이 있는 기간이 있는지 여부에 관계없이 AMD와 관련된 펀드의 투자 전략을 채택하려고 노력할 것이며 그러한 기간 동안 일시적인 방어 입장을 취하려고 하지 않을 것입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 0.18%
+- Advanced Micro Devices Inc (AMD): 0.03%
+
+==================================================
+
+티커: AMDS
+이름: Graniteshares 1x Short AMD Daily ETF
+카테고리: Trading--Inverse Equity
+
+설명:
+이 펀드는 기본 주식에 대한 스왑 계약을 체결하여 기본 주식의 역(-100%) 일일 ​​백분율 변화를 복제하려고 시도하는 적극적으로 관리되는 상장 거래 펀드입니다. 펀드 자문가는 하루 동안 기초 주식의 역 일일 성과를 창출하는 것을 목표로 합니다.
+
+
+==================================================
+
+티커: AMDL
+이름: GraniteShares 2x Long AMD Daily ETF
+카테고리: Trading--Leveraged Equity
+
+설명:
+이 펀드는 기초 주식에 대한 스왑 계약을 체결하여 기초 주식의 일일 백분율 변화의 2배(200%)를 복제하려는 적극적 관리형 거래소 상장 펀드입니다. 단 하루 동안 기초 주식의 일일 성과의 2배를 창출하는 것을 목표로 합니다. 이 펀드는 분산 투자가 아닙니다.
+
+
+==================================================
+
+티커: AMLP
+이름: Alerian MLP ETF
+카테고리: Energy Limited Partnership
+
+설명:
+펀드는 일반적으로 총 자산의 90% 이상을 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 에너지 상품의 운송, 저장 및 처리에서 현금 흐름의 대부분을 얻는 에너지 인프라 MLP로 구성됩니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Plains All American Pipeline LP (PAA): 12.96%
+- Energy Transfer LP (ET): 12.84%
+- Western Midstream Partners LP (WES): 12.55%
+- MPLX LP Partnership Units (MPLX): 12.54%
+- Enterprise Products Partners LP (EPD): 12.39%
+
+==================================================
+
+티커: AMNA
+이름: ETRACS Alerian Midstream Energy Index ETN
+카테고리: Energy Limited Partnership
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: AMND
+이름: ETRACS Alerian Midstream Energy High Dividend Index ETN
+카테고리: Energy Limited Partnership
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: AMOM
+이름: QRAFT AI-Enhanced U.S. Large Cap Momentum ETF
+카테고리: Large Growth
+
+설명:
+인공지능을 활용해 강화된 투자전략을 활용해 투자목적 달성을 추구하는 액티브형 ETF다. 이 펀드는 순자산의 최소 80%와 투자 목적으로 차입한 금액을 미국 상장 대형 자본 회사의 증권에 투자합니다. 자문가는 특정 투자 이론을 뒷받침하는 매개변수에 따라 데이터를 자동으로 평가하고 필터링하는 Qraft의 AI 정량 투자 시스템에서 생성된 데이터베이스를 참조합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 10.71%
+- Microsoft Corp (MSFT): 7.07%
+- Eli Lilly and Co (LLY): 6.65%
+- Tesla Inc (TSLA): 5.07%
+- Broadcom Inc (AVGO): 4.93%
+
+==================================================
+
+티커: AMJB
+이름: Alerian MLP Index ETN
+카테고리: Energy Limited Partnership
+
+설명:
+이 지수는 한도가 있는 유동주식수 조정 자본화 가중 방법론을 사용하여 지수 구성요소라고 하는 에너지 상품과 관련된 적격 활동에서 대부분의 현금 흐름을 얻는 MLP의 종합 성과를 측정합니다. 적격 활동에는 압축, 수집 및 처리, 액화, 마케팅, 파이프라인 운송, 철도 종단 및 에너지 상품 저장이 포함됩니다.
+
+
+==================================================
+
+티커: AMTR
+이름: ETRACS Alerian Midstream Energy Total Return Index ETN
+카테고리: Energy Limited Partnership
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: AMPD
+이름: CNIC ICE U.S. Carbon Neutral Power Futures Index ETF
+카테고리: Moderate Allocation
+
+설명:
+펀드의 투자 자문가(“어드바이저”)는 지수에 포함되어 있거나 자문가가 판단하기에 수익 성과가 다음과 같다고 판단하는 특성을 가진 유동 미국 전력 선물 및 탄소 허용량 선물 계약에 펀드 자산을 투자하여 투자 목적을 달성하려고 합니다. 지수에 포함된 선물 계약과 높은 상관관계를 갖습니다. 이 지수는 탄소 중립을 기준으로 광범위한 미국 전력 시장을 추적합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 62.92%
+
+==================================================
+
+티커: AMUB
+이름: UBS ETRACS Alerian MLP Index ETN Series B
+카테고리: Energy Limited Partnership
+
+설명:
+2042년 7월 18일 만료되는 ETRACS Alerian MLP 지수 ETN 시리즈 B(“증권”)는 UBS가 발행한 선순위 무담보 채무 증권입니다. 이 지수는 에너지 마스터 제한 파트너십("MLP")의 종합 성과를 측정하며, 유동주식수 조정, 자본화 가중 방법을 사용하여 S&P 다우존스 지수에 의해 계산됩니다.
+
+
+==================================================
+
+티커: AMZA
+이름: InfraCap MLP ETF
+카테고리: Energy Limited Partnership
+
+설명:
+정상적인 시장 상황에서 펀드는 순자산(투자 목적으로 차입한 금액 포함)의 80% 이상을 에너지 인프라 부문의 MLP 지분 증권에 투자합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Plains All American Pipeline LP (PAA): 16.76%
+- MPLX LP Partnership Units (MPLX): 16.52%
+- Energy Transfer LP (ET): 16.04%
+- Western Midstream Partners LP (WES): 14.86%
+- Enterprise Products Partners LP (EPD): 14.79%
+
+==================================================
+
+티커: AMZP
+이름: Kurv Yield Premium Strategy Amazon (AMZN) ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 Amazon.com, Inc.("AMZN")의 보통주 주가(즉, 가격 수익)에 노출될 기회를 유지하면서 현재 수입을 추구하는 적극적으로 관리되는 거래소 상장 펀드입니다. 그러나 이 전략은 주가 상승과 관련된 잠재적인 투자 이익을 제한합니다. 이 펀드는 모든 시장, 경제 또는 기타 조건에서 AMZN과 관련된 투자 전략을 채택하고자 합니다. 이 펀드는 분산 투자되지 않습니다.
+
+편입종목 상위 5개:
+- Northern US Government Money Market (NOGXX): 13.46%
+
+==================================================
+
+티커: AMZD
+이름: Direxion Daily AMZN Bear 1X Shares
+카테고리: Trading--Inverse Equity
+
+설명:
+이 펀드는 일반적으로 순자산(투자 목적의 차입금 포함)의 최소 80%를 스왑 계약 및 옵션을 포함한 금융 상품에 투자하며, 이를 조합하면 AMZN에 대한 1X 일일 역(반대) 또는 단기 노출이 제공되며, 이는 펀드의 투자 목표와 일치합니다. 분산 투자는 아닙니다.
+
+
+==================================================
+
+티커: ANGL
+이름: VanEck Fallen Angel High Yield Bond ETF
+카테고리: High Yield Bond
+
+설명:
+펀드는 일반적으로 총자산의 최소 80%를 펀드의 벤치마크 지수를 구성하는 증권에 투자합니다. 이 지수는 발행 당시 투자 등급으로 평가된 미국 달러 표시 투자 등급 이하 회사채로 구성됩니다.
+
+
+==================================================
+
+티커: AMZZ
+이름: GraniteShares 2x Long AMZN Daily ETF
+카테고리: Trading--Leveraged Equity
+
+설명:
+이 펀드는 기초 주식에 대한 스왑 계약을 체결하여 기초 주식의 일일 변동률의 2배(200%)를 복제하려고 시도하는 적극적으로 관리되는 상장지수펀드입니다. 하루 동안 기초 주식의 일일 성과의 2배를 창출하는 것을 목표로 합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AMZY
+이름: YieldMax AMZN Option Income Strategy ETF
+카테고리: Derivative Income
+
+설명:
+펀드는 불리한 시장, 경제 또는 기타 조건이 있는 기간이 있는지 여부에 관계없이 AMZN과 관련된 투자 전략을 사용할 것이며 해당 기간 동안 일시적인 방어 포지션을 취하지 않을 것입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 0.04%
+
+==================================================
+
+티커: AMZU
+이름: Direxion Daily AMZN Bull 2X Shares
+카테고리: Trading--Leveraged Equity
+
+설명:
+펀드는 주요 글로벌 금융 기관과 하나 이상의 스왑 계약을 체결하고 펀드와 글로벌 금융 기관은 펀드가 매일 200에 해당하는 AMZN에 투자하여 얻은 수익을 교환하는 데 동의합니다. 펀드 순자산 가치의 %입니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Amazon.com Inc (AMZN): 15.40%
+
+==================================================
+
+티커: ANEW
+이름: ProShares MSCI Transformational Changes ETF
+카테고리: Large Growth
+
+설명:
+이 지수는 사람들이 일하고, 건강을 관리하고, 소비하고 연결하는 방식의 혁신적인 변화("변형적 변화")(COVID-19로 인해 가속화된 변화)로부터 혜택을 받을 수 있는 기업을 선택합니다. 펀드는 일반적으로 투자 목적을 달성하기 위해 "복제 전략"을 사용합니다. 즉, 지수와 거의 동일한 비율로 지수의 모든 구성 증권에 투자한다는 의미입니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 2.58%
+- Adobe Inc (ADBE): 2.30%
+- Intuitive Surgical Inc (ISRG): 2.20%
+- Apple Inc (AAPL): 2.18%
+- Symrise AG (SY1.DE): 2.17%
+
+==================================================
+
+티커: AOA
+이름: iShares Core Aggressive Allocation ETF
+카테고리: Global Allocation
+
+설명:
+이 펀드는 펀드중의 펀드로서, 자신의 기초지수에 상응하는 투자결과를 추구하는 기초펀드에 주로 투자함으로써 투자목적을 추구합니다. 일반적으로 자산의 최소 80%를 기초 지수의 구성 증권에 투자합니다. 이 지수는 S&P Dow Jones Indices LLC 독점 할당 모델의 성과를 측정합니다.
+
+편입종목 상위 5개:
+- iShares Core S&P 500 ETF (IVV): 46.33%
+- iShares Core MSCI Intl Dev Mkts ETF (IDEV): 22.21%
+- iShares Core Total USD Bond Market ETF (IUSB): 16.53%
+- iShares Core MSCI Emerging Markets ETF (IEMG): 8.05%
+- iShares Core International Aggt Bd ETF (IAGG): 2.90%
+
+==================================================
+
+티커: AOHY
+이름: Angel Oak High Yield Opportunities ETF
+카테고리: High Yield Bond
+
+설명:
+투자 목적을 추구함에 있어, 정상적인 상황에서 펀드는 순자산의 최소 80%에 투자 목적으로 차입한 금액을 더해 투자 등급 이하로 평가된 증권(매입 시점에 측정)에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs U (FGUXX): 4.22%
+
+==================================================
+
+티커: AOK
+이름: iShares Core Conservative Allocation ETF
+카테고리: Moderately Conservative Allocation
+
+설명:
+이 펀드는 펀드중의 펀드로서, 자신의 기초지수에 상응하는 투자결과를 추구하는 기초펀드에 주로 투자함으로써 투자목적을 추구합니다. 일반적으로 자산의 최소 80%를 기본 지수의 구성 증권에 투자합니다. 이 지수는 S&P Dow Jones Indices LLC 독점 할당 모델의 성과를 측정합니다.
+
+편입종목 상위 5개:
+- iShares Core Total USD Bond Market ETF (IUSB): 58.77%
+- iShares Core S&P 500 ETF (IVV): 17.65%
+- iShares Core International Aggt Bd ETF (IAGG): 10.30%
+- iShares Core MSCI Intl Dev Mkts ETF (IDEV): 8.46%
+- iShares Core MSCI Emerging Markets ETF (IEMG): 3.07%
+
+==================================================
+
+티커: AOM
+이름: iShares Core Moderate Allocation ETF
+카테고리: Moderately Conservative Allocation
+
+설명:
+이 펀드는 펀드중의 펀드로서, 자신의 기초지수에 상응하는 투자결과를 추구하는 기초펀드에 주로 투자함으로써 투자목적을 추구합니다. 일반적으로 자산의 최소 80%를 기초 지수의 구성 증권에 투자합니다. 이 지수는 S&P Dow Jones Indices LLC 독점 할당 모델의 성과를 측정합니다.
+
+편입종목 상위 5개:
+- iShares Core Total USD Bond Market ETF (IUSB): 50.30%
+- iShares Core S&P 500 ETF (IVV): 23.50%
+- iShares Core MSCI Intl Dev Mkts ETF (IDEV): 11.26%
+- iShares Core International Aggt Bd ETF (IAGG): 8.82%
+- iShares Core MSCI Emerging Markets ETF (IEMG): 4.09%
+
+==================================================
+
+티커: AOR
+이름: iShares Core Growth Allocation ETF
+카테고리: Moderate Allocation
+
+설명:
+이 펀드는 펀드중의 펀드로서, 자신의 기초지수에 상응하는 투자결과를 추구하는 기초펀드에 주로 투자함으로써 투자목적을 추구합니다. 일반적으로 자산의 최소 80%를 기본 지수의 구성 증권에 투자합니다. 이 지수는 S&P Dow Jones Indices LLC 독점 할당 모델의 성과를 측정합니다.
+
+편입종목 상위 5개:
+- iShares Core S&P 500 ETF (IVV): 35.00%
+- iShares Core Total USD Bond Market ETF (IUSB): 33.30%
+- iShares Core MSCI Intl Dev Mkts ETF (IDEV): 16.78%
+- iShares Core MSCI Emerging Markets ETF (IEMG): 6.09%
+- iShares Core International Aggt Bd ETF (IAGG): 5.84%
+
+==================================================
+
+티커: AOTG
+이름: AOT Growth and Innovation ETF
+카테고리: Technology
+
+설명:
+이 펀드는 낮은 한계비용 비즈니스 모델을 바탕으로 성장성이 높은 미국 상장주식에 투자하는 적극적으로 운용되는 상장지수펀드(ETF)이다. 투자 대상은 최소 시가총액이 8억 달러인 미국에 상장된 상장 주식으로 구성됩니다. 하위 자문가에는 REIT 및 사업 개발 회사(“BDC”)도 제외됩니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 10.48%
+- Advanced Micro Devices Inc (AMD): 10.00%
+- Salesforce Inc (CRM): 5.45%
+- Toast Inc Class A (TOST): 5.17%
+- Nu Holdings Ltd Ordinary Shares Class A (NU): 5.09%
+
+==================================================
+
+티커: APIE
+이름: ActivePassive International Equity ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 능동적 관리형 거래소 상장 펀드("ETF")로, 능동적 및 수동적 투자 전략을 혼합하여 펀드의 벤치마크 지수인 S&P Classic ADR Composite Index에 대한 비용, 추적 및 잠재적 수익을 최적화합니다. 정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%(투자 목적의 모든 차입금 포함)를 시가총액이 다양한 비미국 기업의 주식 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 5.67%
+- Novo Nordisk A/S ADR (NVO): 2.64%
+- SAP SE ADR (SAP): 2.43%
+- RELX PLC ADR (RELX): 2.28%
+- ASML Holding NV ADR (ASML): 2.26%
+
+==================================================
+
+티커: APLY
+이름: YieldMax AAPL Option Income Strategy ETF
+카테고리: Derivative Income
+
+설명:
+본 펀드는 불리한 시장, 경제 또는 기타 조건이 있는 기간이 있는지 여부에 관계없이 AAPL과 관련된 투자 전략을 사용하려고 하며 해당 기간 동안 일시적인 방어 포지션을 취하지 않습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 0.66%
+
+==================================================
+
+티커: APCB
+이름: ActivePassive Core Bond ETF
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+이 펀드는 능동적 관리형 거래소 상장 펀드("ETF")로, 능동적 및 수동적 투자 전략을 혼합하여 펀드의 벤치마크 지수인 Bloomberg U.S. Aggregate Bond Index("기초 지수")에 대한 비용, 추적 및 잠재적 수익을 최적화합니다. 정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 투자 등급 이상으로 평가된 고정 수익 증권에 투자하고 순자산의 최대 20%를 "정크 본드"라고도 하는 고수익 채무 증권에 투자합니다.
+
+편입종목 상위 5개:
+- iShares MBS ETF (MBB): 11.26%
+- iShares Core US Aggregate Bond ETF (AGG): 10.44%
+- Vanguard Total International Bond ETF (BNDX): 9.89%
+
+==================================================
+
+티커: APMU
+이름: ActivePassive Intermediate Municipal Bond ETF
+카테고리: Muni National Interm
+
+설명:
+이 펀드는 액티브 및 패시브 투자 전략을 혼합하여 펀드의 벤치마크 지수인 Bloomberg Municipal 1-10 Year Blend Index에 대한 비용, 추적 및 잠재적 수익을 최적화하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 정상적인 시장 상황에서 펀드는 순자산의 최소 80%를 미국 연방 소득세가 면제되고 투자 등급 이상인 미국 지방채 증권에 투자합니다.
+
+편입종목 상위 5개:
+- iShares National Muni Bond ETF (MUB): 23.25%
+- First American Government Obligs X (FGXXX): 1.90%
+
+==================================================
+
+티커: APRD
+이름: Innovator Premium Income 10 Barrier ETF - April
+카테고리: Options Trading
+
+설명:
+이 펀드는 미국 재무부 채권(“미국 국채”)과 참조 자산으로 사용하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 주가 지수, 특히 S&P 500® 가격 수익률 지수. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: APRH
+이름: Innovator Premium Income 20 Barrier ETF - April
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 미국 재무부 채권(“미국 국채”)과 다음과 같은 광범위한 미국 주가 지수의 가치를 기반으로 하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. S&P 500® 가격 수익률 지수(“미국 주식 지수”). FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: APRJ
+이름: Innovator Premium Income 30 Barrier ETF - April
+카테고리: Options Trading
+
+설명:
+이 펀드는 미국 재무부 채권(“미국 국채”)과 참조 자산으로 사용하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 주가 지수, 특히 S&P 500® 가격 수익률 지수. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: APRQ
+이름: Innovator Premium Income 40 Barrier ETF - April
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 미국 재무부 채권(“미국 국채”)과 다음과 같은 광범위한 미국 주가 지수의 가치를 기반으로 하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. S&P 500® 가격 수익률 지수(“미국 주식 지수”). FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: APRW
+이름: AllianzIM U.S. Large Cap Buffer20 Apr ETF
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 미국 대형 주식 증권과 유사한 경제적 특성을 가진 상품에 투자합니다. 구체적으로, 관리자는 펀드 자산의 대부분을 기초 ETF를 참조하는 FLexible EXchange Options("FLEX Options")에 투자할 계획입니다. 이 펀드는 분산 투자되지 않습니다.
+
+
+==================================================
+
+티커: APRP
+이름: PGIM US Large-Cap Buffer 12 ETF - April
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 미국 대기업이 발행한 지분증권에 대한 노출을 제공하는 투자에 투자합니다. 이 펀드는 액티브하게 관리되는 ETF입니다. SPDR® S&P 500® ETF Trust의 FLexible EXchange® 옵션(“FLEX 옵션”)으로 알려진 맞춤형 주식 또는 지수 옵션 계약에 거의 모든 자산을 투자할 것입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AQWA
+이름: Global X Clean Water ETF
+카테고리: Natural Resources
+
+설명:
+이 펀드는 총 자산의 80% 이상과 투자 목적의 차입금(있는 경우)을 기본 지수의 증권과 기본 지수의 증권을 기반으로 한 ADR 및 GDR에 투자합니다. 기본 지수는 깨끗한 물 공급 분야에서 사업을 운영하는 기업에 대한 노출을 제공하도록 설계되었습니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Ecolab Inc (ECL): 9.12%
+- Xylem Inc (XYL): 8.48%
+- American Water Works Co Inc (AWK): 8.21%
+- Ferguson PLC (FERG): 7.57%
+- Pentair PLC (PNR): 6.67%
+
+==================================================
+
+티커: APUE
+이름: ActivePassive U.S. Equity ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 액티브 및 패시브 투자 전략을 혼합하여 펀드의 벤치마크 지수인 CRSP U.S. Total Market Index에 대한 비용, 추적 및 잠재적 수익을 최적화하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 정상적인 시장 상황에서 이 펀드는 순자산(투자 목적 차입금 포함)의 최소 80%를 벤치마크 지수에 포함된 미국 기업의 지분 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Dimensional US Small Cap ETF (DFAS): 9.42%
+- Microsoft Corp (MSFT): 6.49%
+- Apple Inc (AAPL): 5.94%
+- NVIDIA Corp (NVDA): 5.73%
+- Amazon.com Inc (AMZN): 3.58%
+
+==================================================
+
+티커: APRT
+이름: AllianzIM U.S. Large Cap Buffer10 Apr ETF
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 미국 대형주 지분증권과 유사한 경제적 특성을 지닌 상품에 투자합니다. 특히, 운용사는 기본 ETF를 참조하는 FLexible EXchange 옵션(“FLEX 옵션”)에 펀드 자산의 대부분을 투자할 계획입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: ARB
+이름: AltShares Merger Arbitrage ETF
+카테고리: Event Driven
+
+설명:
+이 펀드는 글로벌 합병 차익거래 전략을 반영하도록 설계된 지수의 성과를 추적하려고 합니다. 정상적인 시장 상황에서 순자산(투자 목적 차입금 포함)의 80% 이상을 지수 구성종목과 해당 구성종목에 대한 스왑 등 경제적 특성이 유사한 금융상품에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Apartment Income REIT Corp Class A (AIRC.MX): 3.34%
+- HashiCorp Inc Ordinary Shares Class A (HCP): 3.33%
+- Hess Corp (HES): 3.31%
+- Deciphera Pharmaceuticals Inc (DCPH): 3.21%
+- Ansys Inc (ANSS): 3.06%
+
+==================================================
+
+티커: ARGT
+이름: Global X MSCI Argentina ETF
+카테고리: Miscellaneous Region
+
+설명:
+이 펀드는 총 자산의 80% 이상을 기본 지수의 증권과 해당 지수의 증권을 기반으로 하는 미국예탁증서("ADR") 및 글로벌예탁증서("GDR")에 투자합니다. 기초 지수는 최소한의 구성종목을 포함하면서 광범위한 아르헨티나 주식 유니버스의 성과를 나타내도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- MercadoLibre Inc (MELI): 23.44%
+- YPF SA ADR (YPF): 7.09%
+- Grupo Financiero Galicia SA ADR (GGAL): 6.55%
+- Banco Macro SA ADR (BMA): 5.73%
+- Transportadora de Gas del Sur SA ADR (TGS): 4.57%
+
+==================================================
+
+티커: ARCM
+이름: Arrow Reserve Capital Management ETF
+카테고리: Ultrashort Bond
+
+설명:
+이 펀드는 다양한 국내 채권에 투자합니다. 이 펀드는 Moody's Investors Service, Inc.( "Moody's") 또는 Standard & Poor's Ratings Services("S&P") 또는 Fitch, Inc.("Fitch")에 의해 동등하게 평가되거나, 등급이 없는 경우 펀드의 하위 자문사가 유사한 품질로 결정합니다.
+
+
+==================================================
+
+티커: APRZ
+이름: TrueShares Structured Outcome (April) ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 실질적으로 모든 자산을 S&P 500 가격지수 옵션에 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 ETF입니다. S&P 500 가격 지수에 대한 콜 옵션을 구매하고 풋 옵션을 판매하거나, 다음 롤 날짜에 만료되는 각 초기 투자일의 S&P 500 가격 지수 성과를 추적하려는 ETF를 판매합니다.
+
+편입종목 상위 5개:
+- First American Treasury Obligs X (FXFXX): 1.65%
+
+==================================================
+
+티커: ARKB
+이름: ARK 21Shares Bitcoin ETF
+카테고리: Digital Assets
+
+설명:
+이 지수는 미국 달러 기준 비트코인의 성과를 반영하도록 설계되었습니다. 투자 목적을 달성하기 위해 신탁은 비트코인을 보유하고 지수를 기준으로 매일 주식의 가치를 평가할 것입니다.
+
+
+==================================================
+
+티커: ARKA
+이름: ARK 21Shares Active Bitcoin Futures Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드입니다. 정상적인 시장 상황에서 펀드는 비트코인 ​​선물 계약 포트폴리오에 투자하여 투자 목적을 달성하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 27.82%
+
+==================================================
+
+티커: ARKC
+이름: ARK 21Shares Active On-Chain Bitcoin Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드입니다. 정상적인 상황에서 펀드는 펀드의 하위 자문사인 21Shares US LLC(“21Shares”)와 하위 자문사가 평가한 비트코인 ​​시장의 일반적인 추세에 따라 비트코인 ​​선물 계약에 대한 익스포저와 현금 등가물 사이에 자산을 동적으로 배분하려고 합니다. - ARK Investment Management LLC(“ARK”)의 하위 고문. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Ark 21Shares Active Bitcoin Futs StgyETF (ARKA): 77.11%
+- First American Government Obligs X (FGXXX): 0.40%
+
+==================================================
+
+티커: ARKF
+이름: ARK Fintech Innovation ETF
+카테고리: Technology
+
+설명:
+본 펀드는 금융기술("핀테크") 혁신이라는 펀드의 투자 테마에 종사하는 기업의 국내외 지분증권에 정상적인 상황에서 주로(자산의 최소 80%) 투자하는 액티브 운용형 ETF입니다. 회사가 (i) 핀테크 혁신이라는 주제에서 수익이나 시장 가치의 상당 부분을 얻거나 (ii) 주요 사업이 제품 및 서비스 분야라고 명시한 경우 핀테크 혁신이라는 주제에 종사하는 것으로 간주됩니다. 핀테크 혁신을 주제로 한 서비스입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 10.63%
+- Shopify Inc Registered Shs -A- Subord Vtg (SHOP): 8.32%
+- Block Inc Class A (SQ): 6.85%
+- DraftKings Inc Ordinary Shares - Class A (DKNG): 5.80%
+- Robinhood Markets Inc Class A (HOOD): 4.70%
+
+==================================================
+
+티커: ARKG
+이름: ARK Genomic Revolution ETF
+카테고리: Health
+
+설명:
+이 펀드는 정상적인 상황에서 주로(자산의 최소 80%) 헬스케어, 정보기술, 기술 등 다양한 분야에 걸쳐 기업의 국내외 지분증권에 투자하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 유전체학 혁명이라는 펀드의 투자 테마와 관련된 재료, 에너지 및 임의 소비재("게놈학 혁명 회사"). 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Twist Bioscience Corp (TWST): 10.13%
+- CRISPR Therapeutics AG (CRSP): 7.43%
+- CareDx Inc (CDNA): 6.87%
+- Recursion Pharmaceuticals Inc Class A (RXRX): 5.59%
+- Ionis Pharmaceuticals Inc (IONS): 5.03%
+
+==================================================
+
+티커: ARKK
+이름: ARK Innovation ETF
+카테고리: Mid-Cap Growth
+
+설명:
+이 펀드는 정상적인 상황에서 펀드의 투자 테마인 파괴적 파괴와 관련된 기업의 국내외 지분증권에 주로(자산의 최소 65%) 투자하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 혁신. 해외 지분증권에 대한 투자는 선진시장과 신흥시장 모두에서 이루어질 것입니다. 본 펀드는 미국예탁증서(“ADR”) 및 글로벌예탁증서(“GDR”)뿐만 아니라 외국 거래소에 상장된 외국 증권에 투자할 수 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Tesla Inc (TSLA): 12.91%
+- Roku Inc Class A (ROKU): 9.15%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 8.79%
+- Roblox Corp Ordinary Shares - Class A (RBLX): 5.75%
+- Block Inc Class A (SQ): 5.68%
+
+==================================================
+
+티커: ARKW
+이름: ARK Next Generation Internet ETF
+카테고리: Technology
+
+설명:
+본 펀드는 정상적인 상황에서 차기 펀드의 투자 테마와 관련된 기업의 국내외 지분증권에 주로(자산의 80% 이상) 투자하는 적극적으로 운용되는 상장지수펀드(ETF)입니다. 세대 인터넷. 정상적인 상황에서 펀드 자산의 대부분은 보통주, 파트너십 지분, 비즈니스 신탁 지분 및 기타 지분 투자 또는 기업 소유 지분을 포함한 지분 증권에 투자됩니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Tesla Inc (TSLA): 9.10%
+- Roku Inc Class A (ROKU): 8.64%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 7.81%
+- Block Inc Class A (SQ): 6.63%
+- Roblox Corp Ordinary Shares - Class A (RBLX): 5.78%
+
+==================================================
+
+티커: ARKY
+이름: ARK 21Shares Active Bitcoin Ethereum Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드입니다. 정상적인 조건에서 이 펀드는 비트코인 ​​선물 계약과 이더리움 선물 계약 간에 자산을 동적으로 할당함으로써 시장 주기에 걸쳐 비트코인 ​​수익률을 능가하는 것을 추구합니다. 할당은 펀드의 하위 자문사인 21Shares US LLC(“21Shares”)의 평가에 따라 결정됩니다. 펀드의 하위 자문사인 ARK Investment Management LLC(“ARK”)는 현물 비트코인 ​​시장 및 현물 에테르 시장과 관련하여 21Shares에 비재량적인 조언을 제공합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- ARK 21Shares Active Ethereum FutsStgyETF (ARKZ): 72.25%
+- Ark 21Shares Active Bitcoin Futs StgyETF (ARKA): 27.58%
+- First American Government Obligs X (FGXXX): 0.22%
+
+==================================================
+
+티커: ARKX
+이름: ARK Space Exploration & Innovation ETF
+카테고리: Mid-Cap Growth
+
+설명:
+이 펀드는 우주탐사라는 투자 테마에 종사하는 기업의 국내외 지분증권에 정상적인 상황에서 주로(자산의 80% 이상) 투자하는 적극적으로 운용되는 상장지수펀드(ETF)입니다. 그리고 혁신. 정상적인 상황에서 펀드 자산의 대부분은 보통주, 파트너십 지분, 비즈니스 신탁 지분 및 기타 지분 투자 또는 기업 소유 지분을 포함한 지분 증권에 투자됩니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Kratos Defense & Security Solutions Inc (KTOS): 9.05%
+- Iridium Communications Inc (IRDM): 8.29%
+- AeroVironment Inc (AVAV): 7.80%
+- Teradyne Inc (TER): 7.38%
+- Trimble Inc (TRMB): 6.75%
+
+==================================================
+
+티커: ARLU
+이름: Allianzim U.S. Equity Buffer15 Uncapped Apr ETF
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 미국 주식과 유사한 경제적 특성을 가진 상품에 투자합니다. 구체적으로, 자문위원은 기본 ETF를 참조하는 FLexible EXchange 옵션에 실질적으로 모든 자산을 투자할 계획입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: ARKQ
+이름: ARK Autonomous Technology & Robotics ETF
+카테고리: Technology
+
+설명:
+본 펀드는 파괴적 혁신이라는 펀드의 투자 테마와 관련된 자율기술 및 로봇공학 기업의 국내외 지분증권에 정상적인 상황에서 주로(자산의 80% 이상) 투자하는 액티브 운용형 상장지수펀드입니다. . 실질적으로 펀드의 모든 자산은 보통주, 파트너십 지분, 비즈니스 신탁 지분 및 기타 지분 투자 또는 기업 소유 지분을 포함한 지분 증권에 투자됩니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Tesla Inc (TSLA): 12.27%
+- Teradyne Inc (TER): 11.03%
+- Kratos Defense & Security Solutions Inc (KTOS): 9.03%
+- Trimble Inc (TRMB): 6.06%
+- Iridium Communications Inc (IRDM): 5.98%
+
+==================================================
+
+티커: ARP
+이름: Pmv Adaptive Risk Parity ETF
+카테고리: Tactical Allocation
+
+설명:
+이 펀드는 경제 사이클 전반에 걸쳐 광범위한 자산 추세를 활용하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 주식(주로 미국 주식, 미국 이외의 선진 시장 주식, 신흥 시장 주식), 미국 국채를 포함한 채권, 광범위한 상품, 실물 금, 통화 및 현금을 포함한 다양한 자산 클래스에 대한 투자 노출을 얻을 것입니다.
+
+편입종목 상위 5개:
+- Vanguard S&P 500 ETF (VOO): 31.94%
+- Sprott Physical Gold Trust (PHYS): 19.63%
+- Invesco QQQ Trust (QQQ): 16.49%
+- iShares Gold Strategy ETF (IAUF): 12.80%
+- Vanguard FTSE Developed Markets ETF (VEA): 9.64%
+
+==================================================
+
+티커: ARKD
+이름: ARK 21Shares Digital Asset and Blockchain Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드입니다. 정상적인 조건에서 펀드는 순자산(투자 목적 차입금 포함)의 80%를 블록체인에 대한 노출을 제공하는 투자와 주로 블록체인 산업 및/또는 디지털 경제에 종사하는 회사가 발행한 증권에 투자하려고 합니다. “80% 정책”). 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Ark 21Shares Active Bitcoin Futs StgyETF (ARKA): 27.10%
+- ARK 21Shares Active Ethereum FutsStgyETF (ARKZ): 19.50%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 15.79%
+- Block Inc Class A (SQ): 10.30%
+- Shopify Inc Registered Shs -A- Subord Vtg (SHOP): 6.35%
+
+==================================================
+
+티커: ARKZ
+이름: ARK 21Shares Active Ethereum Futures Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드입니다. 정상적인 시장 상황에서는 이더리움 선물 계약 포트폴리오에 투자하여 투자 목적을 달성하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 35.97%
+
+==================================================
+
+티커: ARVR
+이름: First Trust Indxx Metaverse ETF
+카테고리: Technology
+
+설명:
+정상적인 시장 상황에서 펀드는 순자산(투자 목적의 차입금 포함)의 최소 80%를 지수를 구성하는 증권에 투자합니다. 이 지수는 메타버스의 인프라와 애플리케이션을 지원하는 서비스와 제품을 제공하는 회사로 구성됩니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Snap Inc Class A (SNAP): 4.14%
+- NVIDIA Corp (NVDA): 3.86%
+- Apple Inc (AAPL): 3.41%
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 3.34%
+- Tencent Holdings Ltd (0700.HK): 3.34%
+
+==================================================
+
+티커: ASEA
+이름: Global X FTSE Southeast Asia ETF
+카테고리: Pacific/Asia ex-Japan Stk
+
+설명:
+이 펀드는 총 자산의 최소 80%를 기초 지수의 증권과 기초 지수의 증권을 기반으로 하는 미국 예탁증서(ADR) 및 글로벌 예탁증서(GDR)에 투자합니다. 기초 지수는 싱가포르, 말레이시아, 인도네시아, 태국, 필리핀 등 5개 동남아시아 국가 연합(ASEAN) 지역에서 가장 크고 유동성이 높은 40개 회사의 주식 성과를 추적합니다. 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- DBS Group Holdings Ltd (D05.SI): 12.58%
+- Oversea-Chinese Banking Corp Ltd (O39.SI): 8.86%
+- PT Bank Central Asia Tbk (BBCA.JK): 7.94%
+- United Overseas Bank Ltd (U11.SI): 6.63%
+- PT Bank Rakyat Indonesia (Persero) Tbk Registered Shs Series -B- (BBRI.JK): 4.64%
+
+==================================================
+
+티커: ASHR
+이름: Xtrackers Harvest CSI 300 China A-Shares ETF
+카테고리: China Region
+
+설명:
+이 펀드는 일반적으로 총 자산의 최소 80%를 기초 지수를 구성하는 발행사의 증권에 투자합니다. 기초지수는 중국 A주 시장의 가격 변동과 성과를 반영하도록 설계되었으며, 중국 A주 시장에서 가장 크고 유동성이 높은 300개 주식으로 구성되어 있습니다. 기본 지수에는 소형주, 중형주, 대형주가 포함됩니다.
+
+편입종목 상위 5개:
+- Kweichow Moutai Co Ltd Class A (600519.SS): 5.08%
+- Contemporary Amperex Technology Co Ltd Class A (300750.SZ): 2.61%
+- Ping An Insurance (Group) Co. of China Ltd Class A (601318.SS): 2.44%
+- China Merchants Bank Co Ltd Class A (600036.SS): 2.34%
+- China Yangtze Power Co Ltd Class A (600900.SS): 1.97%
+
+==================================================
+
+티커: ASMF
+이름: N/A
+카테고리: Systematic Trend
+
+설명:
+정상적인 시장 상황에서 AlphaSimplex는 일반적으로 전략에서 제안하는 노출을 포착하기 위해 선물 및 선도 계약을 포함한 다양한 파생 상품을 광범위하게 사용합니다. 시간이 지남에 따라 변할 것으로 예상되는 이러한 시장 노출에는 주로 미국 및 미국 외 주식, 채권, 증권 지수, 통화 및 상품의 수익률에 대한 노출이 포함됩니다.
+
+편입종목 상위 5개:
+- Euro Stoxx 50 Future Sept 24 (FESXU24): 94.54%
+
+==================================================
+
+티커: ATFV
+이름: Alger 35 ETF
+카테고리: Large Growth
+
+설명:
+정상적인 상황에서 이 펀드는 관리자가 긍정적인 역동적 변화를 겪고 있다고 믿는 시가총액 기업의 약 35개 지분증권으로 구성된 주식 포트폴리오에 투자합니다. 지분증권에는 보통주나 우선주가 포함됩니다. 이 펀드는 기술 개선, 진보 또는 개발로 혜택을 받는 기업을 포함하여 기술 기업에 투자하는 데 중점을 둡니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 9.16%
+- Amazon.com Inc (AMZN): 8.70%
+- Microsoft Corp (MSFT): 6.60%
+- Meta Platforms Inc Class A (META): 5.68%
+- Netflix Inc (NFLX): 4.69%
+
+==================================================
+
+티커: ASET
+이름: FlexShares Real Assets Allocation Index Fund
+카테고리: Global Large-Stock Blend
+
+설명:
+정상적인 상황에서 펀드는 총 자산(증권 대출로 보유한 담보 제외)의 최소 80%를 기초 지수의 증권에 투자합니다. 기초 지수는 특정 실물 자산에 대한 노출을 제공하고 기초 펀드에 대한 투자의 전반적인 변동성을 최소화하기 위해 기초 펀드에 대한 최적화된 배분의 성과를 측정합니다.
+
+편입종목 상위 5개:
+- FlexShares STOXX Global Broad Infras ETF (NFRA): 50.46%
+- FlexShares Mstar Glbl Upstrm Nat Res ETF (GUNR): 38.28%
+- FlexShares Glbl Quality Real Estate ETF (GQRE): 10.17%
+
+==================================================
+
+티커: ASHS
+이름: Xtrackers Harvest CSI 500 China A-Shares Small Cap ETF
+카테고리: China Region
+
+설명:
+이 지수는 중국 A주 시장의 소형주 가격 변동과 성과를 반영하도록 설계되었으며, 중국 A주 시장에서 가장 작고 유동성이 높은 500개 주식으로 구성되어 있습니다. 정상적인 상황에서 이 펀드는 순자산의 80% 이상에 투자 목적으로 차입한 금액을 더해 중국 소형 발행사의 A주나 A주에 투자 노출을 제공하는 파생상품 및 기타 증권에 투자합니다. 중국 소형 발행사의 주식.
+
+편입종목 상위 5개:
+- Eoptolink Technology Inc Ltd Class A (300502.SZ): 1.24%
+- Sieyuan Electric Co Ltd Class A (002028.SZ): 0.70%
+- Beijing Roborock Technology Co Ltd Class A (688169.SS): 0.61%
+- Sailun Group Co Ltd Class A (601058.SS): 0.61%
+- Yutong Bus Co Ltd Class A (600066.SS): 0.59%
+
+==================================================
+
+티커: ASIA
+이름: Matthews Pacific Tiger Active ETF
+카테고리: Pacific/Asia ex-Japan Stk
+
+설명:
+정상적인 상황에서 이 펀드는 순자산의 80% 이상(투자 목적 차입금 포함)을 일본을 제외한 아시아 지역(기타 모든 선진국을 포함)의 보통주 및 우선주에 투자하여 투자 목적을 달성하려고 합니다. 아시아 지역의 신흥 및 개척 국가와 시장.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 11.31%
+- Tencent Holdings Ltd (0700.HK): 5.96%
+- Samsung Electronics Co Ltd (005930.KS): 4.93%
+- Hyundai Motor Co (005380.KS): 3.21%
+- Meituan Class B (3690.HK): 2.89%
+
+==================================================
+
+티커: AUGP
+이름: PGIM US Large-Cap Buffer 12 ETF - August
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산(및 투자 목적의 차입금 포함)의 최소 80%를 미국 대기업이 발행한 지분증권에 대한 노출을 제공하는 투자에 투자합니다. 이 펀드는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. SPDR® S&P 500® ETF Trust(“기초 ETF”)의 FLexible EXchange® 옵션(“FLEX 옵션”)으로 알려진 맞춤형 주식 또는 지수 옵션 계약에 거의 모든 자산을 투자할 것입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AUGT
+이름: AllianzIM U.S. Large Cap Buffer10 Aug ETF
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 미국 대형주 지분증권과 유사한 경제적 특성을 지닌 상품에 투자합니다. 구체적으로, 자문사는 기초 ETF를 참조하는 FLexible EXchange 옵션("FLEX 옵션")에 자산의 대부분을 투자할 계획입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AUGW
+이름: AllianzIM U.S. Large Cap Buffer20 Aug ETF
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 미국 대형주 지분증권과 유사한 경제적 특성을 지닌 상품에 투자합니다. 구체적으로, 자문사는 기초 ETF를 참조하는 FLexible EXchange 옵션("FLEX 옵션")에 자산의 대부분을 투자할 계획입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: AUGZ
+이름: TrueShares Structured Outcome (August) ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 실질적으로 모든 자산을 S&P 500 가격지수 옵션에 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 ETF입니다. S&P 500 가격 지수에 대한 콜 옵션을 구매하고 풋 옵션을 판매하거나, 다음 롤 날짜에 만료되는 각 초기 투자일의 S&P 500 가격 지수 성과를 추적하려는 ETF를 판매합니다.
+
+편입종목 상위 5개:
+- First American Treasury Obligs X (FXFXX): 0.11%
+
+==================================================
+
+티커: AUMI
+이름: Themes Gold Miners ETF
+카테고리: Equity Precious Metals
+
+설명:
+이 지수는 금광 산업에서 활동하는 회사에 대한 노출을 제공하도록 설계되었으며 미국 달러로 표시됩니다. 이 펀드는 정상적인 상황에서 순자산의 최소 80%와 투자 목적의 모든 차입 금액을 지수를 구성하는 증권과 지수의 증권을 기반으로 하는 미국 예탁증서(ADR) 및 글로벌 예탁증서(GDR)에 투자합니다. 이 펀드는 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- Zhaojin Mining Industry Co Ltd Class H (1818.HK): 6.51%
+- Kinross Gold Corp (K.TO): 5.95%
+- Anglogold Ashanti PLC (AU): 5.40%
+- Iamgold Corp (IMG.TO): 5.40%
+- Perseus Mining Ltd (PRU.AX): 5.28%
+
+==================================================
+
+티커: AVDS
+이름: Avantis International Small Cap Equity ETF
+카테고리: Foreign Small/Mid Blend
+
+설명:
+이 펀드는 주로 시장 부문, 산업 그룹, 국가 전반에 걸쳐 미국 이외의 다양한 소규모 기업 그룹에 투자합니다. 정상적인 시장 상황에서 펀드는 자산의 최소 80%를 소규모 자본 회사의 지분 증권에 투자합니다. 본 펀드는 외화로 표시되는 증권에 투자할 수 있으며, 미국 및 기타 증권 시장에서 미국예탁증서(ADR), 글로벌예탁증서(GDR) 및 기타 유사한 예탁 약정을 통해 대표되는 외국 증권에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Vallourec SA (VK.PA): 0.37%
+- ComfortDelGro Corp Ltd (C52.SI): 0.33%
+- Bankinter SA (BKT.MC): 0.32%
+- Beazley PLC (BEZ.L): 0.32%
+- Solvay SA (SOLB.BR): 0.30%
+
+==================================================
+
+티커: AVDV
+이름: Avantis International Small Cap Value ETF
+카테고리: Foreign Small/Mid Value
+
+설명:
+이 펀드는 주로 시장 부문, 산업 그룹, 국가 전반에 걸쳐 미국 외 소규모 가치 기업의 다양한 그룹에 투자합니다. 정상적인 시장 상황에서는 자산의 최소 80%를 소규모 자본 회사의 증권에 투자합니다. 또한 펀드는 선물계약, 통화선도, 스왑계약과 같은 파생상품에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Marks & Spencer Group PLC (MKS.L): 1.06%
+- Swissquote Group Holding SA (SQN.SW): 1.03%
+- Fujikura Ltd (5803.T): 1.00%
+- Saipem SpA (SPM.MI): 0.96%
+- Iveco Group NV Ordinary Shares (IVG.MI): 0.84%
+
+==================================================
+
+티커: AVEE
+이름: Avantis Emerging Markets Small Cap Equity ETF
+카테고리: Diversified Emerging Mkts
+
+설명:
+이 펀드는 주로 시장 부문, 산업 그룹 및 국가 전반에 걸쳐 신흥 시장과 관련된 다양한 소규모 기업 그룹에 투자합니다. 시가총액이 작은 기업의 증권과 수익성 및 가치성이 높은 기업의 증권에 중점을 두어 더 높은 수익이 기대되는 기업의 증권에 투자하고자 합니다.
+
+편입종목 상위 5개:
+- Brilliance China Automotive Holdings Ltd (1114.HK): 0.71%
+- Embraer SA ADR (ERJ): 0.62%
+- AAC Technologies Holdings Inc (2018.HK): 0.57%
+- Pop Mart International Group Ltd Ordinary Shares (9992.HK): 0.53%
+- GCL Technology Holdings Ltd (3800.HK): 0.50%
+
+==================================================
+
+티커: AVGE
+이름: Avantis All Equity Markets ETF
+카테고리: Global Large-Stock Blend
+
+설명:
+정상적인 시장 상황에서 펀드는 자산의 최소 80%를 주식형 ETF에 투자합니다. 관리자는 원하는 할당을 달성하기 위해 지역 및 투자 스타일에 걸쳐 기본 자금을 전략적으로 할당합니다. 기본 펀드는 패시브 시가총액 가중 지수보다 더 높은 수익률이나 더 나은 위험 특성을 가질 것으로 예상되는 증권에 비중을 늘리려는 광범위하게 다양한 지분 증권 바스켓을 나타냅니다.
+
+편입종목 상위 5개:
+- Avantis US Equity ETF (AVUS): 43.89%
+- Avantis US Large Cap Value ETF (AVLV): 15.01%
+- Avantis International Equity ETF (AVDE): 10.23%
+- Avantis Emerging Markets Equity ETF (AVEM): 6.27%
+- Avantis International Large Cap Val ETF (AVIV): 5.14%
+
+==================================================
+
+티커: AVES
+이름: Avantis Emerging Markets Value ETF
+카테고리: Diversified Emerging Mkts
+
+설명:
+이 펀드는 시장 부문, 산업 그룹 및 국가 전반에 걸쳐 신흥 시장과 관련된 다양한 기업 그룹에 주로 투자합니다. 본 펀드는 모든 시가총액의 기업에 투자할 수 있습니다. 정상적인 시장 상황에서 펀드는 자산의 최소 80%를 신흥 시장 국가와 관련된 회사의 지분 증권에 투자합니다. 자문사는 일반적으로 MSCI 신흥 시장 가치 IMI 지수를 구성하는 신흥 시장 국가의 하위 집합에 투자를 집중할 계획입니다.
+
+편입종목 상위 5개:
+- CTBC Financial Holding Co Ltd (2891.TW): 1.09%
+- Hyundai Motor Co (005380.KS): 1.02%
+- Kia Corp (000270.KS): 1.00%
+- KB Financial Group Inc ADR (KB): 0.99%
+- Larsen & Toubro Ltd (LT.NS): 0.97%
+
+==================================================
+
+티커: AVDE
+이름: Avantis International Equity ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 주로 국가, 시장 부문, 산업 그룹 전반에 걸쳐 미국 이외의 다양한 기업 그룹에 투자합니다. 모든 시가총액의 회사에 투자할 수 있습니다. 정상적인 시장 상황에서 펀드는 자산의 최소 80%를 지분증권에 투자합니다. 또한 선물계약, 통화선도, 스왑계약과 같은 파생상품에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S ADR (NVO): 1.92%
+- ASML Holding NV ADR (ASML): 1.16%
+- Shell PLC ADR (Representing - Ordinary Shares) (SHEL): 0.97%
+- Novartis AG ADR (NVS): 0.84%
+- Roche Holding AG (ROG.SW): 0.81%
+
+==================================================
+
+티커: AVEM
+이름: Avantis Emerging Markets Equity ETF
+카테고리: Diversified Emerging Mkts
+
+설명:
+이 펀드는 시장 부문, 산업 그룹 및 국가 전반에 걸쳐 신흥 시장과 관련된 다양한 기업 그룹에 주로 투자합니다. 본 펀드는 모든 시가총액의 기업에 투자할 수 있습니다. 정상적인 시장 상황에서 펀드는 자산의 최소 80%를 신흥 시장 국가와 관련된 회사의 지분 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 6.16%
+- Samsung Electronics Co Ltd DR (SMSN): 2.53%
+- Tencent Holdings Ltd (0700.HK): 2.46%
+- Alibaba Group Holding Ltd ADR (BABA): 1.37%
+- SK Hynix Inc (000660.KS): 1.27%
+
+==================================================
+
+티커: AVGV
+이름: Avantis ALL Equity Markets Value ETF
+카테고리: Global Large-Stock Value
+
+설명:
+정상적인 시장 상황에서 펀드는 자산의 최소 80%를 주식형 ETF에 투자합니다. 이 펀드는 "펀드 오브 펀드"입니다. 즉, 다른 Avantis ETF(총칭하여 기본 펀드)에 투자하여 목표를 달성하려고 한다는 의미입니다. 기초 펀드는 패시브 시가총액 가중 지수보다 더 높은 수익률이나 더 나은 위험 특성을 가질 것으로 예상되는 증권을 선택하거나 비중을 늘리려는 광범위하게 다양한 지분 증권 바스켓을 나타냅니다.
+
+편입종목 상위 5개:
+- Avantis US Large Cap Value ETF (AVLV): 35.71%
+- Avantis International Large Cap Val ETF (AVIV): 19.49%
+- Avantis US Small Cap Value ETF (AVUV): 17.22%
+- Avantis Emerging Markets Value ETF (AVES): 9.99%
+- Avantis International Small Cap Val ETF (AVDV): 9.88%
+
+==================================================
+
+티커: AVIE
+이름: Avantis Inflation Focused Equity ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 주로 미국 인플레이션율이 상승하거나 상승할 것으로 예상되는 경우 포트폴리오 관리자가 가치가 상승할 것으로 예상하는 시장 부문 및 산업 그룹의 다양한 미국 기업 그룹에 투자합니다. 정상적인 시장 상황에서 이 펀드는 자산의 최소 80%를 주식 증권에 투자합니다. 이 펀드는 모든 시가총액의 기업에 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Berkshire Hathaway Inc Class B (BRK-B): 5.96%
+- Exxon Mobil Corp (XOM): 5.35%
+- Eli Lilly and Co (LLY): 5.03%
+- Procter & Gamble Co (PG): 3.68%
+- UnitedHealth Group Inc (UNH): 3.67%
+
+==================================================
+
+티커: AVIV
+이름: Avantis International Large Cap Value ETF
+카테고리: Foreign Large Value
+
+설명:
+정상적인 시장 상황에서 펀드는 자산의 최소 80%를 대형 자본회사의 지분증권에 투자합니다. 또한 자산의 최소 40%(포트폴리오 관리자가 시장 상황이 불리하다고 판단하지 않는 한, 이 경우 펀드는 최소 30%를 투자함)를 미국 이외 지역에 위치한 발행인의 증권에 투자합니다. 미국 이외의 최소 3개 국가. 또한 운용사는 증권 대출에 참여하고 정부 머니 마켓 펀드와 같은 적격 증권에 펀드의 담보를 투자할 수도 있습니다.
+
+편입종목 상위 5개:
+- Shell PLC ADR (Representing - Ordinary Shares) (SHEL): 2.48%
+- Roche Holding AG (ROG.SW): 2.12%
+- Toyota Motor Corp ADR (TM): 1.76%
+- HSBC Holdings PLC ADR (HSBC): 1.70%
+- 3i Group PLC (III.L): 1.56%
+
+==================================================
+
+티커: AVLC
+이름: N/A
+카테고리: Large Blend
+
+설명:
+이 펀드는 주로 시장 부문과 산업 그룹 전반에 걸쳐 다양한 미국 기업 그룹에 투자합니다. 본 펀드는 수익성과 가치 특성이 높은 기업의 증권에 더욱 중점을 두어 더 높은 수익이 기대되는 기업의 증권을 추구합니다. 반대로, 이 펀드는 수익성이 낮고 가치 특성이 덜 매력적인 기업의 증권과 같이 수익률이 더 낮을 것으로 예상되는 증권에 대해 비중을 축소하거나 제외하려고 합니다.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 5.20%
+- Microsoft Corp (MSFT): 5.16%
+- NVIDIA Corp (NVDA): 4.72%
+- Amazon.com Inc (AMZN): 3.03%
+- Meta Platforms Inc Class A (META): 2.19%
+
+==================================================
+
+티커: AVIG
+이름: Avantis Core Fixed Income ETF
+카테고리: Intermediate Core Bond
+
+설명:
+이 펀드는 주로 미국 및 미국 이외의 발행인으로 구성된 다양한 그룹의 투자 등급 채무 채권에 투자합니다. 정상적인 시장 상황에서 순자산의 80% 이상과 투자 목적의 차입금을 채권에 투자합니다. 이 펀드는 운용사가 계산한 벤치마크인 Bloomberg U.S. Aggregate Bond 지수의 가중 평균 듀레이션의 2년 이내의 가중 평균 듀레이션을 유지하려고 합니다.
+
+
+==================================================
+
+티커: AVMC
+이름: Avantis U.S. Mid Cap Equity ETF
+카테고리: Mid-Cap Blend
+
+설명:
+이 펀드는 시장 부문과 산업 그룹 전반에 걸쳐 다양한 미국 중형 기업 그룹에 주로 투자합니다. 이 펀드는 펀드의 중형주 투자 영역 내에서 다른 기업에 비해 수익성과 가치 특성이 높고 시가총액이 작은 기업의 증권에 중점을 두어 자문가가 더 높은 수익을 낼 것으로 기대하는 기업의 증권에 투자하려고 합니다.
+
+편입종목 상위 5개:
+- Diamondback Energy Inc (FANG): 0.83%
+- Royal Caribbean Group (RCL): 0.82%
+- United Rentals Inc (URI): 0.72%
+- Vistra Corp (VST): 0.71%
+- Discover Financial Services (DFS): 0.66%
+
+==================================================
+
+티커: AUSF
+이름: Global X Adaptive U.S. Factor ETF
+카테고리: Mid-Cap Value
+
+설명:
+이 펀드는 총 자산의 최소 80%를 지수 증권에 투자합니다. 80% 투자 정책은 비기본적이며 변경되기 전에 주주들에게 60일 사전 서면 통지가 필요합니다. 이 지수는 가치, 모멘텀, 낮은 변동성이라는 세 가지 주요 요소 중 하나의 특성을 나타내는 미국 주식에 대한 노출을 제공하는 세 가지 하위 지수에 동적으로 배분하도록 설계되었습니다.
+
+편입종목 상위 5개:
+- Verizon Communications Inc (VZ): 1.98%
+- AT&T Inc (T): 1.92%
+- International Business Machines Corp (IBM): 1.84%
+- Walmart Inc (WMT): 1.66%
+- T-Mobile US Inc (TMUS): 1.60%
+
+==================================================
+
+티커: AVMU
+이름: Avantis Core Municipal Fixed Income ETF
+카테고리: Muni National Interm
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 연방 소득세가 면제되는 이자 지급을 받는 지방 고정 수입 증권에 투자합니다. 이 펀드는 독립적인 평가 기관이 평가한 투자 등급 증권에 주로 투자하거나, 평가가 불가능할 경우 자문가가 비슷한 신용도를 가지고 있다고 판단한 투자 등급 증권에 투자합니다.
+
+
+==================================================
+
+티커: AVLV
+이름: Avantis US Large Cap Value ETF
+카테고리: Large Value
+
+설명:
+이 펀드는 주로 시장 부문과 산업 그룹 전반에 걸쳐 다양한 미국 기업 그룹에 투자합니다. 자산의 최소 80%를 미국 대형 기업의 주식에 투자할 예정이다. 회사가 미국 회사인지 여부를 결정하기 위해 포트폴리오 관리자는 회사의 본사 소재지, 회사의 주요 사업장이 위치한 곳, 회사 수익의 대부분이 창출되는 곳, 주요 거래 시장이 위치한 곳 등 다양한 요소를 고려합니다. , 회사가 합법적으로 조직된 국가, 회사가 펀드 벤치마크에 포함되어 있는지 여부.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 3.28%
+- Meta Platforms Inc Class A (META): 2.95%
+- JPMorgan Chase & Co (JPM): 2.57%
+- Costco Wholesale Corp (COST): 2.42%
+- Exxon Mobil Corp (XOM): 2.29%
+
+==================================================
+
+티커: AVMA
+이름: Avantis Moderate Allocation ETF
+카테고리: Moderate Allocation
+
+설명:
+이 펀드는 "펀드 오브 펀드"로, 다른 Avantis ETF(총칭하여 기초 펀드)에 투자하여 목표를 달성하고자 합니다. 기초 펀드는 주식과 채권 증권의 광범위하게 분산된 바스켓을 나타내며, 수동적 시가총액 가중 지수보다 수익률이 높거나 위험 특성이 더 좋을 것으로 예상되는 증권을 선택하거나 과대평가합니다. 관리자는 원하는 할당을 달성하기 위해 지역과 투자 스타일에 따라 기초 펀드에 할당합니다.
+
+편입종목 상위 5개:
+- Avantis US Equity ETF (AVUS): 29.55%
+- Avantis Core Fixed Income ETF (AVIG): 21.48%
+- Avantis Short-Term Fixed Income ETF (AVSF): 10.61%
+- Avantis US Large Cap Value ETF (AVLV): 10.11%
+- Avantis International Equity ETF (AVDE): 6.95%
+
+==================================================
+
+티커: AVNM
+이름: Avantis All International Markets Equity ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 "펀드 오브 펀드"입니다. 즉, 다른 Avantis 상장지수펀드(ETF)(총칭하여 기본 펀드)에 투자하여 목표를 달성하고자 한다는 의미입니다. 기초 펀드는 패시브 시가총액 가중 지수보다 더 높은 수익률이나 더 나은 위험 특성을 가질 것으로 예상되는 증권을 선택하거나 비중을 늘리려는 광범위하게 다양한 지분 증권 바스켓을 나타냅니다.
+
+편입종목 상위 5개:
+- Avantis International Equity ETF (AVDE): 40.52%
+- Avantis International Large Cap Val ETF (AVIV): 20.07%
+- Avantis Emerging Markets Equity ETF (AVEM): 18.79%
+- Avantis Emerging Markets Value ETF (AVES): 12.31%
+- Avantis International Small Cap Val ETF (AVDV): 8.27%
+
+==================================================
+
+티커: AVMV
+이름: Avantis U.S. Mid Cap Value ETF
+카테고리: Mid-Cap Value
+
+설명:
+이 펀드는 시장 부문과 산업 그룹 전반에 걸쳐 다양한 미국 중형 기업 그룹에 주로 투자합니다. 이 펀드는 펀드의 중형주 투자 유니버스 내에서 수익성과 가치 특성이 더 높고 시가총액이 다른 기업에 비해 작은 기업의 증권을 선택하여 더 높은 기대 수익을 달성하고자 합니다.
+
+편입종목 상위 5개:
+- United Rentals Inc (URI): 1.95%
+- Royal Caribbean Group (RCL): 1.78%
+- Vistra Corp (VST): 1.59%
+- Diamondback Energy Inc (FANG): 1.39%
+- Arch Capital Group Ltd (ACGL): 1.33%
+
+==================================================
+
+티커: AVRE
+이름: Avantis Real Estate ETF
+카테고리: Global Real Estate
+
+설명:
+이 펀드는 전 세계적으로 다양한 부동산 증권 그룹, 특히 다양한 부동산 부문에 걸쳐 부동산 투자 신탁(REIT) 및 REIT와 유사한 기업에 주로 투자합니다. 정상적인 시장 상황에서 자산의 최소 80%를 REIT 및 기타 부동산 산업에 종사하는 회사가 발행한 증권(총칭하여 부동산 증권)에 투자합니다. 또한 운용사는 증권 대출에 참여하고 정부 머니 마켓 펀드와 같은 적격 증권에 펀드의 담보를 투자할 수도 있습니다.
+
+편입종목 상위 5개:
+- Prologis Inc (PLD): 6.07%
+- American Tower Corp (AMT): 5.88%
+- Equinix Inc (EQIX): 4.69%
+- Welltower Inc (WELL): 3.86%
+- Goodman Group (GMG.AX): 3.20%
+
+==================================================
+
+티커: AVNV
+이름: Avantis All International Markets Value ETF
+카테고리: Foreign Large Value
+
+설명:
+이 펀드는 "펀드 오브 펀드"입니다. 즉, 다른 Avantis 상장지수펀드(ETF)(총칭하여 기본 펀드)에 투자하여 목표를 달성하고자 한다는 의미입니다. 기초 펀드는 패시브 시가총액 가중 지수보다 더 높은 수익률이나 더 나은 위험 특성을 가질 것으로 예상되는 증권을 선택하거나 비중을 늘리려는 광범위하게 다양한 지분 증권 바스켓을 나타냅니다.
+
+편입종목 상위 5개:
+- Avantis International Large Cap Val ETF (AVIV): 45.67%
+- Avantis Emerging Markets Value ETF (AVES): 30.91%
+- Avantis International Small Cap Val ETF (AVDV): 23.33%
+
+==================================================
+
+티커: AVSF
+이름: Avantis Short-Term Fixed Income ETF
+카테고리: Short-Term Bond
+
+설명:
+이 펀드는 주로 미국 및 미국 이외의 발행인으로 구성된 다양한 그룹의 투자 등급 채무 채권에 투자합니다. 정상적인 시장 상황에서 순자산의 80% 이상과 투자 목적의 차입금을 채권에 투자합니다. 3년 이하의 가중평균 만기를 유지하려고 합니다. 이 펀드는 독립적인 평가 기관이 평가한 투자 등급 증권에 주로 투자하거나, 평가가 불가능할 경우 자문가가 비슷한 신용도를 가지고 있다고 판단한 투자 등급 증권에 투자합니다.
+
+
+==================================================
+
+티커: AVUV
+이름: Avantis US Small Cap Value ETF
+카테고리: Small Value
+
+설명:
+이 펀드는 주로 시장 부문과 산업 그룹 전반에 걸쳐 다양한 미국 소형주 회사 그룹에 투자합니다. 정상적인 시장 상황에서 자산의 최소 80%를 미국에 위치한 소규모 자본 회사의 증권에 투자합니다. 또한 펀드는 선물계약, 통화선도, 스왑계약과 같은 파생상품에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Abercrombie & Fitch Co Class A (ANF): 1.14%
+- Matson Inc (MATX): 0.94%
+- Jackson Financial Inc (JXN): 0.91%
+- KB Home (KBH): 0.89%
+- Air Lease Corp Class A (AL): 0.87%
+
+==================================================
+
+티커: AVSU
+이름: Avantis Responsible U.S. Equity ETF
+카테고리: Large Blend
+
+설명:
+그는 주로 시장 부문과 산업 그룹에 걸쳐 다양한 미국 기업 그룹에 투자합니다. 본 펀드는 모든 시가총액의 기업에 투자할 수 있습니다. 포트폴리오 관리팀은 여러 ESG 지표에 대한 팀의 평가를 기반으로 우려를 제기하는 기업을 선별하여 투자 가능한 기업의 범위를 제한합니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 5.61%
+- Apple Inc (AAPL): 5.35%
+- NVIDIA Corp (NVDA): 2.96%
+- Amazon.com Inc (AMZN): 2.45%
+- Meta Platforms Inc Class A (META): 2.39%
+
+==================================================
+
+티커: AVSD
+이름: Avantis Responsible International Equity ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 주로 다양한 국가, 시장 부문 및 산업 그룹에 걸쳐 미국이 아닌 다양한 기업 그룹에 투자합니다. 모든 시가총액의 기업에 투자할 수 있습니다. 정상적인 시장 상황에서 이 펀드는 자산의 최소 80%를 주식 증권에 투자합니다. 이 펀드는 외화로 표시된 증권에 투자할 수 있으며 미국 및 기타 증권 시장에서 미국 예탁증서(ADR), 글로벌 예탁증서(GDR) 및 기타 유사한 예탁 약정으로 대표되는 외국 증권에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S ADR (NVO): 1.82%
+- ASML Holding NV ADR (ASML): 1.13%
+- Novartis AG ADR (NVS): 0.90%
+- HSBC Holdings PLC ADR (HSBC): 0.88%
+- Roche Holding AG (ROG.SW): 0.83%
+
+==================================================
+
+티커: AVSE
+이름: Avantis Responsible Emerging Markets Equity ETF
+카테고리: Diversified Emerging Mkts
+
+설명:
+이 펀드는 시장 부문, 산업 그룹 및 국가 전반에 걸쳐 신흥 시장과 관련된 다양한 기업 그룹에 주로 투자합니다. 본 펀드는 모든 시가총액의 기업에 투자할 수 있습니다. 포트폴리오 관리팀은 여러 ESG 지표에 대한 팀의 평가를 기반으로 우려를 제기하는 기업을 선별하여 투자 가능한 기업의 범위를 제한합니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 5.16%
+- Tencent Holdings Ltd (0700.HK): 2.74%
+- Samsung Electronics Co Ltd DR (SMSN): 2.35%
+- Alibaba Group Holding Ltd ADR (BABA): 1.27%
+- China Construction Bank Corp Class H (00939): 1.13%
+
+==================================================
+
+티커: AVXC
+이름: American Century ETF Trust - Avantis Emerging Markets ex-China Equity ETF
+카테고리: N/A
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: AVUS
+이름: Avantis US Equity ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 주로 시장 부문과 산업 그룹 전반에 걸쳐 다양한 미국 기업 그룹에 투자합니다. 모든 시가총액의 회사에 투자할 수 있습니다. 정상적인 시장 상황에서 이 펀드는 자산의 최소 80%를 미국 기업의 지분증권에 투자합니다. 또한 선물계약, 통화선도, 스왑계약과 같은 파생상품에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Apple Inc (AAPL): 4.49%
+- Microsoft Corp (MSFT): 4.05%
+- NVIDIA Corp (NVDA): 3.23%
+- Amazon.com Inc (AMZN): 2.70%
+- Meta Platforms Inc Class A (META): 2.18%
+
+==================================================
+
+티커: AVSC
+이름: Avantis US Small Cap Equity ETF
+카테고리: Small Value
+
+설명:
+정상적인 시장 상황에서 이 펀드는 자산의 최소 80%를 미국에 위치한 소규모 자본 회사의 지분 증권에 투자합니다. 또한 펀드는 증권 대출에 참여하고 정부 머니 마켓 펀드와 같은 적격 증권에 담보물을 투자할 수도 있습니다. 이 펀드는 특정 지수의 성과를 복제하려고 하지 않는 적극적으로 관리되는 상장지수펀드(ETF)입니다. 포트폴리오 관리자는 지속적으로 시장 및 재무 데이터를 분석하여 구매, 판매 및 보유 결정을 내립니다.
+
+편입종목 상위 5개:
+- Abercrombie & Fitch Co Class A (ANF): 0.50%
+- Avidity Biosciences Inc Ordinary Shares (RNA): 0.48%
+- SkyWest Inc (SKYW): 0.41%
+- InterDigital Inc (IDCC): 0.36%
+- WSFS Financial Corp (WSFS): 0.36%
+
+==================================================
+
+티커: AWEG
+이름: Alger Weatherbie Enduring Growth ETF
+카테고리: Mid-Cap Growth
+
+설명:
+이 펀드는 구매 당시 제3자 ESG 평가 기관인 Sustainalytics에서 평가한 환경, 사회 및 지배구조(“ESG”) 등급이 중간 이상인 중형 성장 기업의 주식에 주로 투자합니다. 정상적인 상황에서는 순자산을 기준으로 펀드 포트폴리오에 있는 회사의 80%가 Sustainalytics ESG 등급을 갖게 됩니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- TransDigm Group Inc (TDG): 12.00%
+- Casella Waste Systems Inc Class A (CWST): 7.23%
+- FirstService Corp Ordinary Shares (FSV.TO): 6.13%
+- Glaukos Corp (GKOS): 6.04%
+- Waste Connections Inc (WCN): 4.71%
+
+==================================================
+
+티커: AZTD
+이름: Aztlan Global Stock Selection Dm SMID ETF
+카테고리: Global Small/Mid Stock
+
+설명:
+이 지수는 다음 3개 선진시장(DM) 지역 기업의 지분증권으로 구성됩니다. 정상적인 상황에서 펀드 순자산의 최소 80%와 투자 목적 차입금은 선진 시장에 설립되거나 상장된 SMID 자본화 회사의 지분 증권에 투자됩니다.
+
+편입종목 상위 5개:
+- Cinemark Holdings Inc (CNK): 4.75%
+- Pro Medicus Ltd (PME.AX): 4.56%
+- Progyny Inc (PGNY): 4.04%
+- Maplebear Inc (CART): 4.01%
+- Konami Group Corp (9766.T): 3.92%
+
+==================================================
+
+티커: BAB
+이름: Invesco Taxable Municipal Bond ETF
+카테고리: Long-Term Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 지수를 구성하는 증권에 투자합니다. 기본 지수는 미국 국내 시장에서 미국 주와 준주, 그리고 정치적 하위 부문이 공개적으로 발행한 미국 달러 표시 과세 지방채의 성과를 측정하도록 설계되었습니다.
+
+
+==================================================
+
+티커: BALI
+이름: Blackrock Advantage Large Cap Income ETF
+카테고리: Derivative Income
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%(투자 목적의 차입금 포함)를 이러한 증권과 유사한 경제적 특성을 가진 대형 주식 증권 및 파생상품에 투자합니다. 이 펀드는 분산 투자되지 않습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 8.04%
+- Apple Inc (AAPL): 7.46%
+- NVIDIA Corp (NVDA): 6.03%
+- Amazon.com Inc (AMZN): 4.77%
+- Alphabet Inc Class A (GOOGL): 3.28%
+
+==================================================
+
+티커: BALT
+이름: Innovator Defined Wealth Shield ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 최소 80%를 SPDR® S&P 500® ETF Trust(이하 "기초 ETF")를 참조하는 FLexible EXchange® Options(이하 "FLEX Options")에 투자합니다. FLEX Options는 고유하게 사용자 정의 가능한 조건을 가진 거래소 상장 옵션 계약입니다. 이 펀드는 분산되지 않습니다.
+
+
+==================================================
+
+티커: BAMA
+이름: Brookstone Active ETF
+카테고리: Moderate Allocation
+
+설명:
+이 펀드는 시가총액에 관계없이 외국 및 국내 주식(신흥시장 포함), 채권(정크본드 포함) 및 해당 자산군에 대한 자문가의 상대적인 전망을 바탕으로 현금 및 현금 등가물을 산정합니다.
+
+편입종목 상위 5개:
+- SPDR® Portfolio S&P 500 Growth ETF (SPYG): 22.65%
+- SPDR® Portfolio S&P 500® ETF (SPLG): 21.27%
+- SPDR® Portfolio S&P 500 Value ETF (SPYV): 19.65%
+- SPDR® Portfolio Aggregate Bond ETF (SPAB): 17.21%
+- iShares® 0-3 Month Treasury Bond ETF (SGOV): 16.87%
+
+==================================================
+
+티커: BABX
+이름: GraniteShares 2x Long BABA Daily ETF
+카테고리: Trading--Leveraged Equity
+
+설명:
+펀드는 하루에서 1년 이상의 특정 기간 동안 주요 금융 기관과 하나 이상의 스왑 계약을 체결하여 펀드와 금융 기관이 얻은 수익(또는 수익률의 차이)을 교환하기로 합의합니다. 기초주식에서 실현됩니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BAMO
+이름: Brookstone Opportunities ETF
+카테고리: Moderate Allocation
+
+설명:
+이 펀드는 시가총액에 관계없이 외국 및 국내 주식(신흥시장 포함), 채권(정크본드 포함) 및 해당 자산군에 대한 자문가의 상대적인 전망을 바탕으로 레버리지 ETF를 포함한 현금 및 현금 등가물.
+
+편입종목 상위 5개:
+- Invesco NASDAQ 100 ETF (QQQM): 22.74%
+- Vanguard S&P 500 ETF (VOO): 21.36%
+- SPDR® Dow Jones Industrial Avrg ETF Tr (DIA): 19.53%
+- SPDR® Blmbg 1-3 Mth T-Bill ETF (BIL): 17.07%
+- iShares® 0-3 Month Treasury Bond ETF (SGOV): 17.06%
+
+==================================================
+
+티커: BAMD
+이름: Brookstone Dividend Stock ETF
+카테고리: Large Value
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드(“ETF”)로, 정상적인 상황에서 순자산(투자 목적으로 차입금 포함)의 80% 이상을 수익을 창출하는 공개 거래 미국 주식 또는 구매한 비계열 ETF에 투자합니다. 2차 시장에서.
+
+편입종목 상위 5개:
+- HP Inc (HPQ): 3.69%
+- International Paper Co (IP): 3.68%
+- Prudential Financial Inc (PRU): 3.62%
+- ONEOK Inc (OKE): 3.56%
+- AT&T Inc (T): 3.53%
+
+==================================================
+
+티커: BAMB
+이름: Brookstone Intermediate Bond ETF
+카테고리: Intermediate Core Bond
+
+설명:
+이 펀드는 정상적인 상황에서 순자산의 80% 이상을 미국 국채와 비계열사를 포함하여 0~10년 가중 평균 만기 범위의 투자 등급 회사채에 투자하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 2차 시장에서 구매한 ETF로 자산의 대부분을 그러한 채권 상품에 투자합니다.
+
+편입종목 상위 5개:
+- iShares 7-10 Year Treasury Bond ETF (IEF): 20.00%
+- SPDR® Portfolio Intmdt Term Trs ETF (SPTI): 19.89%
+- Schwab Intermediate-Term US Trs ETF™ (SCHR): 19.89%
+- iShares 3-7 Year Treasury Bond ETF (IEI): 19.88%
+- iShares 1-5 Year invmt Grd Corp Bd ETF (IGSB): 19.76%
+
+==================================================
+
+티커: BAMU
+이름: Brookstone Ultra-Short Bond ETF
+카테고리: Ultrashort Bond
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드("ETF")로, 정상적인 상황에서 순자산의 80% 이상을 미국 국채와 만기 0~2년의 투자 등급 회사채(구매한 비계열 ETF 포함)에 투자합니다. 자산의 대부분을 해당 채권 상품에 투자하는 유통 시장.
+
+편입종목 상위 5개:
+- iShares iBonds Dec 2024 Term Tr ETF (IBTE): 19.62%
+- Invesco Short Term Treasury ETF (TBLL): 19.56%
+- SPDR® Blmbg 1-3 Mth T-Bill ETF (BIL): 19.54%
+- iShares® 0-3 Month Treasury Bond ETF (SGOV): 19.54%
+- SPDR® Bloomberg 3-12 Mth TBill ETF (BILS): 19.51%
+
+==================================================
+
+티커: BAPR
+이름: Innovator U.S. Equity Buffer ETF - April
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust를 참조하는 FLexible EXchange® 옵션("FLEX 옵션")에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 펀드의 모든 FLEX 옵션에 대한 참조 자산은 비용 이전에 일반적으로 S&P 500® 지수의 가격 및 수익률 성과에 해당하는 투자 결과를 제공하고자 하는 상장지수단위 투자 신탁인 기본 ETF입니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BAMY
+이름: Brookstone Yield ETF
+카테고리: Moderate Allocation
+
+설명:
+이 펀드는 폐쇄형 펀드와 비계열 상장지수펀드(“ETF”)를 포함한 기초 펀드를 통해 배당주, 우선주, 정크본드 및 채권을 포함한 수익 창출 투자 수단의 조합에 투자하는 적극적으로 관리되는 펀드 오브 펀드입니다. ”) 유통시장에서 구매하며 풋옵션과 콜옵션을 사용할 수 있는 ETF를 포함합니다.
+
+편입종목 상위 5개:
+- JPMorgan Equity Premium Income ETF (JEPI): 20.11%
+- SPDR® Blackstone Senior Loan ETF (SRLN): 19.89%
+- JPMorgan Nasdaq Equity Premium Inc ETF (JEPQ): 19.86%
+- Invesco Senior Loan ETF (BKLN): 19.61%
+- Panagram BBB-B Clo ETF (CLOZ): 10.01%
+
+==================================================
+
+티커: BAR
+이름: GraniteShares Gold Trust
+카테고리: Commodities Focused
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: BAUG
+이름: Innovator U.S. Equity Buffer ETF - August
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BAMV
+이름: Brookstone Value Stock ETF
+카테고리: Large Value
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드("ETF")로, 자문가의 조사를 바탕으로 강력한 가치를 제공한다고 믿는 기업에 투자합니다. 정상적인 상황에서 이 펀드는 순자산(투자 목적의 차입금 포함)의 최소 80%를 공개적으로 거래되는 미국 주식에 투자합니다.
+
+편입종목 상위 5개:
+- Fidelity National Information Services Inc (FIS): 4.17%
+- Wells Fargo & Co (WFC): 4.15%
+- The Goldman Sachs Group Inc (GS): 4.14%
+- JPMorgan Chase & Co (JPM): 4.12%
+- Bank of America Corp (BAC): 4.11%
+
+==================================================
+
+티커: BATT
+이름: Amplify Lithium & Battery Technology ETF
+카테고리: Natural Resources
+
+설명:
+펀드는 일반적으로 순자산의 최소 80%를 지수를 구성하는 증권에 투자합니다. 이 지수는 리튬 배터리 기술의 개발, 생산 및 사용과 관련하여 물질적 수익을 창출하는 글로벌 기업에 대한 노출을 제공하고자 합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- BHP Group Ltd (BHP.AX): 7.56%
+- Contemporary Amperex Technology Co Ltd Class A (300750.SZ): 6.60%
+- Tesla Inc (TSLA): 6.04%
+- BYD Co Ltd Class H (01211): 5.66%
+- TDK Corp (6762.T): 3.20%
+
+==================================================
+
+티커: BBAG
+이름: JPMorgan BetaBuilders U.S. Aggregate Bond ETF
+카테고리: Intermediate Core Bond
+
+설명:
+기본 지수는 미국 투자 등급 고정 금리 채권 시장을 다루며, 정부 및 기업 증권, 모기지 통과 증권, 자산 유동화 증권에 대한 지수 구성요소를 포함합니다. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBAX
+이름: JPMorgan BetaBuilders Developed Asia Pacific ex-Japan ETF
+카테고리: Pacific/Asia ex-Japan Stk
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기초지수는 시가총액 기준으로 각 국가 또는 지역의 1차 거래소에서 거래되는 주식의 85%를 대상으로 하며, 주로 대형주와 중형주를 포함합니다.
+
+편입종목 상위 5개:
+- BHP Group Ltd (BHP.AX): 8.33%
+- Commonwealth Bank of Australia (CBA.AX): 8.17%
+- CSL Ltd (CSL.AX): 5.45%
+- AIA Group Ltd (1299.HK): 4.38%
+- National Australia Bank Ltd (NAB.AX): 4.30%
+
+==================================================
+
+티커: BBBL
+이름: Bondbloxx BBB Rated 10+ Year Corporate Bond ETF
+카테고리: Long-Term Bond
+
+설명:
+이 지수는 미국 및 비미국 산업, 유틸리티 및 금융 발행자가 발행한 BBB 고정 금리, 과세 대상 미국 달러화 표시 기업 채권의 성과를 반영하도록 설계되었습니다. 정상적인 상황에서 이 펀드는 순자산의 최소 80%를 미국 및 비미국 기업 발행자가 발행한 BBB 등급의 미국 달러화 표시 투자 등급 기업 채권 포트폴리오에 직접 또는 간접적으로 투자하며, 잔여 만기는 10년 이상입니다. 이 펀드는 분산 투자되지 않습니다.
+
+
+==================================================
+
+티커: BAMG
+이름: Brookstone Growth Stock ETF
+카테고리: Large Growth
+
+설명:
+이 펀드는 적극적으로 관리되는 상장지수펀드("ETF")로, 자문가의 조사를 바탕으로 향후 몇 년 동안 강력한 수익 성장 잠재력이 있다고 판단하는 회사에 투자합니다. 정상적인 상황에서 이 펀드는 순자산(투자 목적의 차입금 포함)의 최소 80%를 공개적으로 거래되는 미국 주식에 투자합니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 6.30%
+- Netflix Inc (NFLX): 4.19%
+- Teradyne Inc (TER): 4.09%
+- Meta Platforms Inc Class A (META): 3.99%
+- Qualcomm Inc (QCOM): 3.96%
+
+==================================================
+
+티커: BBC
+이름: Virtus LifeSci Biotech Clinical Trials ETF
+카테고리: Health
+
+설명:
+정상적인 시장 상황에서 펀드는 자산의 80% 이상을 지수 구성 증권에 투자합니다. 이 지수는 일반적으로 임상 1상, 2상 또는 3상 개발 단계에 있지만 1차 제품 제공("선도 약물")을 갖춘 미국 상장 생명공학 회사의 보통주의 성과를 추적하려고 합니다. 마케팅 승인을 받기 위해.
+
+편입종목 상위 5개:
+- Longboard Pharmaceuticals Inc (LBPH): 1.21%
+- Nurix Therapeutics Inc Ordinary Shares (NRIX): 1.12%
+- Morphic Holding Inc (MORF): 1.10%
+- Disc Medicine Inc Ordinary Shares (IRON): 1.03%
+- Erasca Inc (ERAS): 0.97%
+
+==================================================
+
+티커: BBBS
+이름: Bondbloxx BBB Rated 1-5 Year Corporate Bond ETF
+카테고리: Short-Term Bond
+
+설명:
+이 지수는 미국 및 미국 이외의 산업, 유틸리티 및 금융 발행자가 발행한 BBB 고정 금리, 과세 대상 미국 달러 표시 회사채의 성과를 반영하도록 설계되었습니다. 정상적인 상황에서 이 펀드는 순자산의 최소 80%를 미국 및 미국 외 기업 발행인이 발행한 미국 달러 표시 투자 등급 회사채 포트폴리오에 직간접적으로 투자합니다. 또는 1년 이상 5년 미만입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BBBI
+이름: Bondbloxx BBB Rated 5-10 Year Corporate Bond ETF
+카테고리: Corporate Bond
+
+설명:
+이 지수는 미국 및 미국 이외의 산업, 유틸리티 및 금융 발행자가 발행한 BBB 고정 금리, 과세 대상 미국 달러 표시 회사채의 성과를 반영하도록 설계되었습니다. 정상적인 상황에서 이 펀드는 순자산의 최소 80%를 미국 및 미국 외 기업 발행인이 발행한 미국 달러 표시 투자 등급 회사채 포트폴리오에 직간접적으로 투자합니다. 또는 5년 이상 10년 미만입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BBCA
+이름: JPMorgan BetaBuilders Canada ETF
+카테고리: Miscellaneous Region
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 주로 토론토 증권 거래소에서 거래되는 주식으로 구성된 자유 유동 조정 시가 총액 가중 지수입니다. 펀드는 기초지수에 상응하는 성과를 추구하기 위해 자산의 최대 20%를 상장지수선물 및 외환선물계약에 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Royal Bank of Canada (RY): 7.85%
+- The Toronto-Dominion Bank (TD): 5.04%
+- Shopify Inc Registered Shs -A- Subord Vtg (SHOP): 4.14%
+- Canadian Natural Resources Ltd (CNQ.TO): 3.95%
+- Enbridge Inc (ENB.TO): 3.94%
+
+==================================================
+
+티커: BBCB
+이름: JPMorgan BetaBuilders USD Investment Grade Corporate Bond ETF
+카테고리: Corporate Bond
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 시가총액 가중 지수이며 미국 국내 시장에서 공개적으로 발행된 미국 달러 표시 투자 등급 회사채의 성과를 측정하도록 설계되었습니다. 기본 지수는 Bloomberg U.S. Credit 및 Bloomberg U.S. Aggregate 지수의 구성요소입니다.
+
+
+==================================================
+
+티커: BBH
+이름: VanEck Biotech ETF
+카테고리: Health
+
+설명:
+이 펀드는 일반적으로 총 자산의 최소 80%를 펀드의 벤치마크 지수를 구성하는 증권에 투자합니다. 바이오텍 지수에는 바이오텍 산업의 미국 거래소 상장 기업의 보통주와 예탁증서가 포함됩니다. 이러한 기업에는 미국 거래소에 상장된 중형 자본화 기업과 외국 기업이 포함될 수 있습니다. 비분산형입니다.
+
+편입종목 상위 5개:
+- Amgen Inc (AMGN): 15.41%
+- Vertex Pharmaceuticals Inc (VRTX): 9.95%
+- Regeneron Pharmaceuticals Inc (REGN): 8.27%
+- Gilead Sciences Inc (GILD): 7.24%
+- argenx SE ADR (ARGX): 5.04%
+
+==================================================
+
+티커: BBEU
+이름: JPMorgan BetaBuilders Europe ETF
+카테고리: Europe Stock
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 오스트리아, 벨기에, 덴마크, 핀란드, 프랑스, ​​독일, 아일랜드, 이탈리아, 네덜란드, 노르웨이, 포르투갈 등 유럽 선진 국가 또는 지역의 주식으로 구성된 자유 유동 조정 시가총액 가중 지수입니다. 스페인, 스웨덴, 스위스, 영국.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S Class B (NOVO-B.CO): 4.53%
+- ASML Holding NV (ASML.AS): 3.75%
+- Nestle SA (NESN.SW): 2.50%
+- AstraZeneca PLC (AZN.L): 2.26%
+- Shell PLC (SHEL.L): 2.13%
+
+==================================================
+
+티커: BBEM
+이름: JPMorgan Betabuilders Emerging Markets Equity ETF
+카테고리: Diversified Emerging Mkts
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 신흥 국가 또는 지역의 지분 증권으로 구성된 자유 유동 조정 시가 총액 가중 지수입니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 8.81%
+- Samsung Electronics Co Ltd (005930.KS): 3.66%
+- Tencent Holdings Ltd (0700.HK): 3.59%
+- Reliance Industries Ltd (RELIANCE.NS): 1.89%
+- Alibaba Group Holding Ltd Ordinary Shares (9988.HK): 1.86%
+
+==================================================
+
+티커: BBJP
+이름: JPMorgan BetaBuilders Japan ETF
+카테고리: Japan Stock
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 주로 도쿄 증권 거래소 또는 나고야 증권 거래소에서 거래되는 주식으로 구성된 유동 조정 시가 총액 가중 지수입니다. 펀드는 기초지수에 상응하는 성과를 추구하기 위해 자산의 최대 20%를 상장지수선물 및 외환선물계약에 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Toyota Motor Corp (7203.T): 5.96%
+- Mitsubishi UFJ Financial Group Inc (8306.T): 3.11%
+- Hitachi Ltd (6501.T): 2.56%
+- Sony Group Corp (6758.T): 2.47%
+- Tokyo Electron Ltd (8035.T): 2.40%
+
+==================================================
+
+티커: BBIP
+이름: Jpmorgan Betabuilders U.S. Tips 0-5 Year ETF
+카테고리: Short-Term Inflation-Protected Bond
+
+설명:
+이 펀드는 수수료 및 비용 이전에 미국 정부가 국내 시장에서 공개적으로 발행한 미국 달러 표시 국채의 성과를 추적하는 기초 지수의 성과와 밀접하게 일치하는 투자 결과를 추구하며 이자와 원금 지급액은 인플레이션에 연계됩니다. , 최종 만기까지 남은 기간은 5년 이하입니다. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBIN
+이름: JPMorgan BetaBuilders International Equity ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 자산의 최소 80%를 기본 지수에 포함된 증권에 투자합니다." 기본 지수는 선진국 또는 지역의 지분 증권으로 구성된 자유 유동 조정 시가총액 가중 지수입니다.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S Class B (NOVO-B.CO): 2.92%
+- ASML Holding NV (ASML.AS): 2.42%
+- Nestle SA (NESN.SW): 1.61%
+- Toyota Motor Corp (7203.T): 1.47%
+- AstraZeneca PLC (AZN.L): 1.46%
+
+==================================================
+
+티커: BBIB
+이름: Jpmorgan Betabuilders U.S. Treasury Bond 3-10 Year ETF
+카테고리: Intermediate Government
+
+설명:
+이 펀드는 수수료 및 비용 이전에 최소 만기가 3년 이상 3년 이하인 미국 달러 표시 고정 금리 증권의 성과를 측정하는 기본 지수의 성과와 밀접하게 일치하는 투자 결과를 추구합니다. 십 년. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBHY
+이름: JPMorgan BetaBuilders USD High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+발행인의 미결제 부채의 현재 시장 가치를 기준으로 시가총액 가중을 적용하는 기본 지수는 미국 국내 시장에서 공개적으로 발행된 투자 등급 이하(일반적으로 "정크"라고 함) 회사 부채로 표시된 미국 달러의 성과를 측정하도록 설계되었습니다. . 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBLB
+이름: Jpmorgan Betabuilders U.S. Treasury Bond 20+ Year ETF
+카테고리: Long Government
+
+설명:
+이 펀드는 수수료 및 비용 이전에 최소 만기가 20년 이상인 미국 달러 표시 고정 금리 증권의 성과를 측정하는 기본 지수의 성과와 밀접하게 일치하는 투자 결과를 추구합니다. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBP
+이름: Virtus LifeSci Biotech Products ETF
+카테고리: Health
+
+설명:
+정상적인 시장 상황에서 펀드는 자산의 80% 이상을 지수 구성 증권에 투자합니다. 이 지수는 미국 식품의약청("FDA")이 마케팅을 위해 승인한 최소 하나의 약물 치료법을 갖춘 미국 상장 생명공학 기업의 보통주의 성과를 추적하려고 합니다.
+
+편입종목 상위 5개:
+- Alnylam Pharmaceuticals Inc (ALNY): 2.43%
+- Mirum Pharmaceuticals Inc (MIRM): 2.05%
+- Sarepta Therapeutics Inc (SRPT): 2.02%
+- Ionis Pharmaceuticals Inc (IONS): 1.85%
+- Ardelyx Inc (ARDX): 1.83%
+
+==================================================
+
+티커: BBMC
+이름: JPMorgan BetaBuilders U.S. Mid Cap Equity ETF
+카테고리: Mid-Cap Blend
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 주로 미국에서 거래되는 지분 증권으로 구성되며 유동 유동 조정 투자 가능 영역의 시가 총액에서 85~95번째 백분위수 사이에 속하는 증권을 대상으로 합니다.
+
+편입종목 상위 5개:
+- MicroStrategy Inc Class A (MSTR): 0.60%
+- Pure Storage Inc Class A (PSTG): 0.56%
+- Carlisle Companies Inc (CSL): 0.55%
+- DraftKings Inc Ordinary Shares - Class A (DKNG): 0.52%
+- AppLovin Corp Ordinary Shares - Class A (APP): 0.49%
+
+==================================================
+
+티커: BBLU
+이름: Ea Bridgeway Blue Chip ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 주로 우량주에 투자하고 다음을 통해 투자 목표를 달성하고자 하는 Bridgeway Capital Management, LLC(“보조 자문사”)의 하위 자문을 받는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 일부 수입은 거의 독점적으로 펀드 포트폴리오에 속한 회사가 지급하는 배당금에서 파생됩니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 5.26%
+- Eli Lilly and Co (LLY): 4.54%
+- Microsoft Corp (MSFT): 4.06%
+- JPMorgan Chase & Co (JPM): 3.99%
+- Meta Platforms Inc Class A (META): 3.93%
+
+==================================================
+
+티커: BBSB
+이름: Jpmorgan Betabuilders U.S. Treasury Bond 1-3 Year ETF
+카테고리: Short Government
+
+설명:
+이 펀드는 수수료와 비용을 공제하기 전에 기초 지수의 실적과 긴밀하게 일치하는 투자 성과를 추구합니다. 기초 지수는 1년 이상 3년 이하의 최소 만기 기간을 가진 미국 달러화 고정 금리 증권의 실적을 측정합니다. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBSA
+이름: JPMorgan BetaBuilders 1-5 Year U.S. Aggregate Bond ETF
+카테고리: Short-Term Bond
+
+설명:
+이 지수는 유효 만기가 1년에서 5년 사이로 남아 있는 미국 달러 표시 투자 등급 과세 채권의 성과를 측정합니다. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+
+==================================================
+
+티커: BBRE
+이름: JPMorgan BetaBuilders MSCI U.S. REIT ETF
+카테고리: Real Estate
+
+설명:
+이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다. 기본 지수는 미국 주식 부동산 투자 신탁("REIT") 증권의 성과를 측정하기 위해 고안된 자유 유동 조정 시가총액 가중 지수입니다. 펀드는 기초 지수에 상응하는 성과를 추구하기 위해 자산의 최대 20%를 상장지수 선물에 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Prologis Inc (PLD): 9.97%
+- Equinix Inc (EQIX): 6.85%
+- Welltower Inc (WELL): 5.08%
+- Simon Property Group Inc (SPG): 4.48%
+- Digital Realty Trust Inc (DLR): 4.28%
+
+==================================================
+
+티커: BBSC
+이름: JPMorgan BetaBuilders U.S. Small Cap Equity ETF
+카테고리: Small Blend
+
+설명:
+이 펀드는 자산의 최소 80%를 지수에 포함된 증권에 투자하고 자산의 최소 80%를 소규모 자본화 기업의 증권에 투자합니다. 이 지수는 주로 미국에서 거래되는 주식 증권으로 구성되며, 유통주식 조정 투자 가능 유니버스의 시가총액에서 95~99% 백분위수에 속하는 증권을 타겟으로 합니다.
+
+편입종목 상위 5개:
+- Insmed Inc (INSM): 0.78%
+- Glaukos Corp (GKOS): 0.43%
+- Carpenter Technology Corp (CRS): 0.39%
+- Marathon Digital Holdings Inc (MARA): 0.38%
+- CommVault Systems Inc (CVLT): 0.38%
+
+==================================================
+
+티커: BCHP
+이름: Principal Focused Blue Chip ETF
+카테고리: Large Growth
+
+설명:
+정상적인 상황에서 이 펀드는 순자산의 80% 이상과 투자 목적 차입금을 Principal Global Investors, LLC(“ PGI')는 펀드의 투자자문사로서 '우량기업'의 특성을 보여준다. PGI의 관점에서 우량 기업은 해당 산업에서 확고한 입지를 확보하고 자본 성장 가능성이 있으며 평균 이상의 수익을 기대할 수 있는 기업입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 14.29%
+- Alphabet Inc Class C (GOOG): 12.95%
+- Amazon.com Inc (AMZN): 12.26%
+- Mastercard Inc Class A (MA): 6.37%
+- TransDigm Group Inc (TDG): 4.55%
+
+==================================================
+
+티커: BBUS
+이름: JPMorgan BetaBuilders U.S. Equity ETF
+카테고리: Large Blend
+
+설명:
+기본 지수는 주로 미국에서 거래되는 지분 증권으로 구성된 자유 유동 조정 시가 총액 가중 지수입니다. 기본 지수는 시가총액 기준으로 해당 주식의 85%를 대상으로 하며 주로 대형 및 중형 기업을 포함합니다. 이 펀드는 자산의 최소 80%를 기초 지수에 포함된 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 6.99%
+- Apple Inc (AAPL): 6.40%
+- NVIDIA Corp (NVDA): 6.19%
+- Amazon.com Inc (AMZN): 3.82%
+- Meta Platforms Inc Class A (META): 2.33%
+
+==================================================
+
+티커: BCDF
+이름: Horizon Kinetics Blockchain Development ETF
+카테고리: Digital Assets
+
+설명:
+본 펀드는 어드바이저가 수혜를 기대하는 국내외 상장 블록체인 개발회사의 지분증권, 미국예탁증서(“ADR”) 및 글로벌예탁증서(“GDR”)에 주로 투자하는 액티브 운용형 ETF입니다. 암호화폐를 포함한 디지털 자산의 발행, 촉진, 보관, 거래 및 관리와 관련된 블록체인 기술의 사용으로 인해 직간접적으로 발생합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- CACI International Inc Class A (CACI): 7.49%
+- Deutsche Boerse AG (DB1.DE): 6.23%
+- Cboe Global Markets Inc (CBOE): 5.59%
+- Intercontinental Exchange Inc (ICE): 5.52%
+- TMX Group Ltd (X.TO): 5.36%
+
+==================================================
+
+티커: BCIL
+이름: Exchange Listed Funds Trust - Bancreek International Large Cap ETF
+카테고리: N/A
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: BCI
+이름: abrdn Bloomberg All Commodity Strategy K-1 Free ETF
+카테고리: Commodities Broad Basket
+
+설명:
+이 지수는 실물 상품에 대한 선물 계약으로 구성되고 상품 선물 투자를 위한 매우 유동적이고 광범위한 벤치마크로 설계된 Bloomberg Commodity IndexSM(“BCOM”)의 완전 담보 투자 수익을 반영합니다. 본 펀드는 케이먼 제도 법률에 따라 조직된 펀드의 전액 출자 자회사(“자회사”)를 통해 상장 거래 상품 선물 계약에 투자합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BCD
+이름: abrdn Bloomberg All Commodity Longer Dated Strategy K-1 Free ETF
+카테고리: Commodities Broad Basket
+
+설명:
+이 지수는 Bloomberg Commodity Index Total ReturnSM(“BCOMTR”)의 3개월 선행 버전으로, Bloomberg Commodity IndexSM(“BCOM”)에 대한 완전 담보 투자 수익을 반영합니다. 본 펀드는 케이먼 제도 법률에 따라 조직된 펀드의 전액 출자 자회사(“자회사”)를 통해 상장 거래 상품 선물 계약에 투자합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BCUS
+이름: Bancreek U.S. Large Cap ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 주로 보통주와 우선주로 구성된 지분증권과 보통주로 전환할 수 있는 증권에 투자하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 정상적인 상황에서 이 펀드는 순자산(투자 목적으로 차입한 금액 포함)의 최소 80%를 미국 상장 대형 자본 회사의 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Broadcom Inc (AVGO): 4.78%
+- Motorola Solutions Inc (MSI): 4.35%
+- Apple Inc (AAPL): 4.32%
+- Eaton Corp PLC (ETN): 4.18%
+- Quanta Services Inc (PWR): 4.14%
+
+==================================================
+
+티커: BDCZ
+이름: UBS ETRACS Wells Fargo Business Development Company Index ETN
+카테고리: Financial
+
+설명:
+2041년 4월 26일 만기인 ETRACS Wells Fargo® 비즈니스 개발 회사 지수 ETN 시리즈 B는 UBS AG가 발행한 선순위 무담보 채무 증권입니다. 이 지수는 특정 시가총액 및 기타 자격 요건을 충족하는 NYSE 또는 NASDAQ에 상장된 모든 사업 개발 회사의 성과를 측정하기 위한 것입니다. Wells Fargo® 비즈니스 개발 회사 지수에 포함된 비즈니스 개발 회사를 "지수 구성종목"으로 지칭합니다. 이 지수는 Wells Fargo Securities, LLC의 독점 지수입니다.
+
+
+==================================================
+
+티커: BCIM
+이름: abrdn Bloomberg Industrial Metals Strategy K-1 Free ETF
+카테고리: Commodities Focused
+
+설명:
+이 지수는 특정 산업용 금속 상품 선물 계약에 대한 선물 계약으로 구성된 Bloomberg Industrial Metals SubindexSM에 대한 완전 담보 투자 수익을 반영합니다. 이 펀드는 시장 상황, 추세 또는 방향에 관계없이 지수 수익률을 추적하는 금융 상품에 항상 완전히 투자하는 것을 추구합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BDCX
+이름: ETRACS Quarterly Pay 1.5X Leveraged Wells Fargo BDC Index ETN
+카테고리: Trading--Leveraged Equity
+
+설명:
+이 지수는 특정 시가총액 및 기타 자격 요건을 충족하는 뉴욕 증권 거래소(“NYSE”), NYSE AMEX 또는 The Nasdaq Stock Market, Inc.(“NASDAQ”)에 상장된 모든 사업 개발 회사의 성과를 측정하기 위한 것입니다. . Wells Fargo Securities, LLC의 독점 지수입니다.
+
+
+==================================================
+
+티커: BDRY
+이름: Breakwave Dry Bulk Shipping ETF
+카테고리: Miscellaneous Region
+
+설명:
+이 펀드는 현재 벤치마크 포트폴리오를 구성하고 있는 화물선물에 자산의 대부분을 투자함으로써 투자 목적을 달성하고자 합니다. 벤치마크 포트폴리오에는 Capesize, Panamax 및 Supramax Freight Futures의 조합이 포함됩니다.
+
+편입종목 상위 5개:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 21.34%
+
+==================================================
+
+티커: BDGS
+이름: Bridges Capital Tactical ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 패시브적으로 관리되는 미국 주가지수 ETF, 대규모 자본주식, 현금 또는 현금 등가물을 혼합하여 투자하여 투자 목적을 달성하고자 하는 액티브하게 관리되는 다각화된 상장지수펀드("ETF")입니다. 이 펀드는 일반적으로 미국 대형주 주식과 미국 중소형 주가 지수(“지수”)를 추적하는 수동적으로 관리되는 지수 ETF를 포함하는 유니버스에서 선택된 5~20개 투자를 보유할 것으로 예상됩니다.
+
+편입종목 상위 5개:
+- Alpha Architect 1-3 Month Box ETF (BOXX): 24.90%
+- SPDR® S&P 500® ETF Trust (SPY): 9.95%
+- iShares Russell 2000 ETF (IWM): 8.07%
+- Tesla Inc (TSLA): 2.13%
+- Exxon Mobil Corp (XOM): 2.10%
+
+==================================================
+
+티커: BDVG
+이름: iMGP Berkshire Dividend Growth ETF
+카테고리: Large Value
+
+설명:
+이 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 매년 배당금을 지급하는 미국 기업의 보통주에 투자하여 목표를 달성하고자 하는 적극적으로 관리되는 상장지수펀드("ETF")입니다. 분기별 배당금 지급 실적이 우수하거나 향후 1~5년 동안 배당금을 늘릴 것으로 예상되는 주식에 중점을 둡니다.
+
+편입종목 상위 5개:
+- Bank of America Corp (BAC): 4.90%
+- Chevron Corp (CVX): 4.66%
+- Microsoft Corp (MSFT): 4.60%
+- JPMorgan Chase & Co (JPM): 4.35%
+- Nucor Corp (NUE): 4.31%
+
+==================================================
+
+티커: BDEC
+이름: Innovator U.S. Equity Buffer ETF - December
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. Options Clearing Corporation("OCC")에 의해 결제가 보장되기는 하지만 FLEX 옵션은 여전히 ​​OCC의 거래상대방 위험에 노출되어 있으며 전통적인 상장 거래 옵션 계약보다 유동성이 낮을 수 있습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BECO
+이름: BlackRock Future Climate and Sustainable Economy ETF
+카테고리: Global Large-Stock Blend
+
+설명:
+정상적인 시장 상황에서 이 펀드는 청정 전력, 자원 효율성, 지속 가능한 영양, 생물 다양성 및 청정 운송을 포함하되 이에 국한되지 않는 미래 기후 주제를 기반으로 하는 여러 하위 주제에 걸쳐 상대적으로 집중된 지분 증권 포트폴리오에 투자하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- DSM Firmenich AG (DSFIR.AS): 3.15%
+- Ecolab Inc (ECL): 3.11%
+- Avery Dennison Corp (AVY): 3.02%
+- Republic Services Inc (RSG): 2.99%
+- Symrise AG (SY1.DE): 2.94%
+
+==================================================
+
+티커: BEDZ
+이름: AdvisorShares Hotel ETF
+카테고리: Consumer Cyclical
+
+설명:
+이 펀드는 정상적인 상황에서 순자산의 최소 80%(투자 목적 차입금 포함)를 순수익의 최소 50%를 창출하는 기업의 증권에 투자하여 투자 목적을 달성하고자 하는 적극적 ETF입니다. 호텔 사업에서. 또한 기타 숙박 및 여행 관련 서비스와 관련된 회사에 투자할 수도 있습니다. 이 펀드는 보통주와 우선주, 부동산 투자 신탁, ADR 등 미국 거래소에 상장된 주식에 주로 투자합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Target Hospitality Corp Class A (TH): 5.77%
+- Expedia Group Inc (EXPE): 5.60%
+- Booking Holdings Inc (BKNG): 5.46%
+- Trip.com Group Ltd ADR (TCOM): 5.37%
+- Royal Caribbean Group (RCL): 5.14%
+
+==================================================
+
+티커: BEEZ
+이름: Honeytree U.S. Equity ETF
+카테고리: Large Blend
+
+설명:
+본 펀드는 Honeytree Investment Management Ltd.(“보조 자문사”)가 하위 자문을 제공하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 본 펀드는 특정 지수의 성과를 복제하려고 하지 않습니다. 이 펀드는 펀드 순자산의 최소 80%와 투자 목적의 차입금을 미국 대형주 및 중형주 상장 주식으로 구성된 집중 포트폴리오에 투자함으로써 투자 목적을 달성하고자 합니다.
+
+편입종목 상위 5개:
+- Universal Display Corp (OLED): 4.67%
+- Lam Research Corp (LRCX): 4.50%
+- Costco Wholesale Corp (COST): 4.35%
+- ServiceNow Inc (NOW): 4.29%
+- Equinix Inc (EQIX): 4.25%
+
+==================================================
+
+티커: BEMB
+이름: Ishares J.P. Morgan Broad USD Emerging Markets Bond ETF
+카테고리: Emerging Markets Bond
+
+설명:
+펀드는 자산의 최소 80%를 기본 지수의 구성 증권에 투자하고, 펀드는 자산의 최소 90%를 BFA가 판단하는 기본 지수에 포함된 유형의 채권에 투자합니다. 펀드는 기본 지수를 추적합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BERZ
+이름: MicroSectors Solactive FANG & Innovation -3X Inverse Leveraged ETNs
+카테고리: Trading--Inverse Equity
+
+설명:
+가능한 설명이 없습니다.
+
+편입종목 상위 5개:
+- Advanced Micro Devices Inc (AMD): 6.67%
+- Alphabet Inc Class A (GOOGL): 6.67%
+- Amazon.com Inc (AMZN): 6.67%
+- Apple Inc (AAPL): 6.67%
+- Broadcom Inc (AVGO): 6.67%
+
+==================================================
+
+티커: BELT
+이름: BlackRock Long-Term U.S. Equity ETF
+카테고리: Large Blend
+
+설명:
+정상적인 상황에서 이 펀드는 순자산의 최소 80%와 투자 목적으로 차입한 금액을 미국 발행인의 지분증권 및 경제적 특성이 유사한 파생상품에 투자합니다. ADR 및 GDR을 포함한 외국 발행인의 지분증권에 자산의 최대 20%까지 투자할 수 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 12.84%
+- Alphabet Inc Class C (GOOG): 7.97%
+- Cadence Design Systems Inc (CDNS): 6.17%
+- Meta Platforms Inc Class A (META): 6.06%
+- Novo Nordisk A/S ADR (NVO): 6.01%
+
+==================================================
+
+티커: BETE
+이름: Proshares Bitcoin & Ether Equal Weight Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 주로 비트코인 ​​및 에테르 선물 계약에 대한 노출 관리를 통해 투자 목표를 달성하려고 합니다.
+
+
+==================================================
+
+티커: BETH
+이름: ProShares Bitcoin & Ether Market Cap Weight Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 ProShare Advisors가 조합하여 지수 성과를 추적해야 한다고 믿는 금융 상품에 투자합니다. 이 지수는 Chicago Mercantile Exchange에서 거래되는 가장 가까운 만기 월간 비트코인 ​​및 에테르 선물 계약의 매수 포지션을 유지하는 성과를 측정합니다.
+
+
+==================================================
+
+티커: BETZ
+이름: Roundhill Sports Betting & iGaming ETF
+카테고리: Consumer Cyclical
+
+설명:
+이 지수는 Morningstar, Inc.에서 개발했으며 스포츠 및 온라인 베팅 주제에 대한 순수한 노출을 제공하도록 설계되었습니다. 펀드는 일반적으로 자산의 전부 또는 실질적으로 전부를 지수 구성 증권에 투자하지만, 지수 구성 요소를 나타내는 예탁 영수증과 기타 ETF에 대한 투자를 포함하되 이에 국한되지 않는 유사한 노출을 제공하는 투자에도 투자할 수도 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Flutter Entertainment PLC (FLUT): 10.61%
+- DraftKings Inc Ordinary Shares - Class A (DKNG): 8.58%
+- Evolution AB (EVO.ST): 6.80%
+- Churchill Downs Inc (CHDN): 6.45%
+- Kindred Group PLC SEDR (KIND-SDB.ST): 6.23%
+
+==================================================
+
+티커: BFOR
+이름: Barron's 400 ETF
+카테고리: Mid-Cap Blend
+
+설명:
+기본 지수는 투자자에게 미국 기업의 고성과 지분 증권의 전반적인 성과를 추적하는 수단을 제공하기 위한 규칙 기반 지수입니다. 이 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 지분 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Abercrombie & Fitch Co Class A (ANF): 0.38%
+- Vistra Corp (VST): 0.37%
+- Boot Barn Holdings Inc (BOOT): 0.36%
+- NVIDIA Corp (NVDA): 0.36%
+- Texas Pacific Land Corp (TPL): 0.35%
+
+==================================================
+
+티커: BGIG
+이름: Bahl & Gaynor Income Growth ETF
+카테고리: Large Value
+
+설명:
+이 펀드는 주로 시가총액이 70억 달러 이상인 대형 자본 회사의 배당금을 지급하는 미국 상장 주식에 투자하는 적극적으로 관리되는 상장지수펀드("ETF")입니다.
+
+편입종목 상위 5개:
+- Broadcom Inc (AVGO): 6.95%
+- Eli Lilly and Co (LLY): 5.82%
+- Merck & Co Inc (MRK): 4.39%
+- AbbVie Inc (ABBV): 4.23%
+- PepsiCo Inc (PEP): 3.61%
+
+==================================================
+
+티커: BFIX
+이름: Build Bond Innovation ETF
+카테고리: Intermediate Core Bond
+
+설명:
+이 펀드는 미국 달러화 표시, 미국 및 비미국 발행인의 투자 등급 채권으로 구성된 비분산 포트폴리오에 직접 또는 비계열 ETF를 통해 간접적으로 투자하고 주식, ETF 또는 지수의 성과에 연계된 롱 콜 또는 롱 풋 옵션을 통해 투자 목표를 달성하고자 하는 적극적으로 관리되는 거래소 상장 펀드("ETF")입니다. 비분산입니다.
+
+
+==================================================
+
+티커: BGLD
+이름: FT Cboe Vest Gold Strategy Quarterly Buffer ETF
+카테고리: Options Trading
+
+설명:
+정상적인 시장 상황에서 펀드는 실질적으로 모든 자산을 미국 국채, 현금 및 현금 등가물, SPDR ® Gold의 가격 성과를 참조하는 FLexible EXchange ® 옵션을 보유하고 있는 전액 출자 자회사의 주식에 투자합니다. 신뢰하다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BHYB
+이름: Xtrackers USD High Yield BB-B ex Financials ETF
+카테고리: High Yield Bond
+
+설명:
+패시브 또는 인덱스 투자 접근법을 사용하는 펀드는 수수료 및 비용을 제외하고 기본 인덱스의 성과에 일반적으로 대응하는 투자 결과를 추구합니다. 기본 지수는 ICE BofA 미국 고수익 지수(ICE BofA U.S. High Yield Index)의 하위 집합으로, 이는 미국 국내 시장에서 공개적으로 발행된 투자 등급 이하 회사채로 표시된 미국 달러의 성과를 추적하도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BGRN
+이름: iShares USD Green Bond ETF
+카테고리: Global Bond-USD Hedged
+
+설명:
+이 펀드는 직접적인 환경 혜택이 있는 프로젝트에 자금을 지원하기 위해 미국 및 미국 이외의 발행자가 발행한 미국 달러 표시 투자 등급 녹색 채권의 성과를 측정하는 기본 지수의 투자 결과를 추적하려고 합니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 2.71%
+
+==================================================
+
+티커: BFEB
+이름: Innovator U.S. Equity Buffer ETF - February
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust("기초 ETF")를 참조하는 FLexible EXchange® 옵션("FLEX 옵션")에 순자산의 최소 80%를 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. Options Clearing Corporation("OCC")에 의해 결제가 보장되기는 하지만 FLEX 옵션은 여전히 ​​OCC의 거래상대방 위험에 노출되어 있으며 전통적인 상장 거래 옵션 계약보다 유동성이 낮을 수 있습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BIB
+이름: ProShares Ultra Nasdaq Biotechnology
+카테고리: Trading--Leveraged Equity
+
+설명:
+이 펀드는 ProShare Advisors가 결합하면 Daily Target과 일치하는 일일 수익을 낼 수 있다고 믿는 금융 상품에 투자합니다. 이 지수는 생명공학 또는 제약으로 분류되는 Nasdaq 상장 기업의 증권을 포함하는 수정 자본화 가중 지수입니다. 이 펀드는 분산되지 않습니다.
+
+편입종목 상위 5개:
+- Regeneron Pharmaceuticals Inc (REGN): 5.69%
+- Gilead Sciences Inc (GILD): 5.66%
+- Vertex Pharmaceuticals Inc (VRTX): 5.46%
+- Amgen Inc (AMGN): 5.42%
+- Moderna Inc (MRNA): 3.21%
+
+==================================================
+
+티커: BGRO
+이름: BlackRock Large Cap Growth ETF
+카테고리: Large Growth
+
+설명:
+정상적인 상황에서 펀드는 순자산의 최소 80%에 투자 목적으로 차입금을 더한 금액을 해당 증권과 유사한 경제적 특성을 갖는 대형 지분 증권 및 파생상품에 투자하려고 합니다. 펀드의 80% 정책 목적에 따라 대형주 지분증권은 구매 당시 Russell 1000® Growth Index에 포함된 회사 범위 내에서 시가총액을 갖는 지분증권입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 13.25%
+- Microsoft Corp (MSFT): 11.28%
+- Amazon.com Inc (AMZN): 10.37%
+- Apple Inc (AAPL): 7.05%
+- Meta Platforms Inc Class A (META): 5.73%
+
+==================================================
+
+티커: BILS
+이름: SPDR Bloomberg 3-12 Month T-Bill ETF
+카테고리: Ultrashort Bond
+
+설명:
+지수 성과를 추적하기 위해 펀드는 샘플링 전략을 사용하는데, 이는 펀드가 지수에 포함된 모든 증권을 매입할 필요가 없음을 의미합니다. 이 지수는 남은 만기가 3개월 이상 12개월 미만인 미국 재무부의 공공 의무 성과를 측정하도록 설계되었습니다.
+
+
+==================================================
+
+티커: BIL
+이름: SPDR Bloomberg 1-3 Month T-Bill ETF
+카테고리: Ultrashort Bond
+
+설명:
+펀드는 지수를 구성하는 증권과 자문가가 지수를 구성하는 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 가지고 있다고 판단하는 증권에 총자산의 거의 전부(최소 80%)를 투자합니다. 이 지수는 남은 만기가 1개월 이상 3개월 미만인 미국 재무부의 공공 의무 성과를 측정합니다.
+
+
+==================================================
+
+티커: BILD
+이름: Macquarie Global Listed Infrastructure ETF
+카테고리: Infrastructure
+
+설명:
+정상적인 상황에서 ETF는 순자산의 최소 80%와 투자 목적의 차입 금액을 펀드의 지속 가능한 투자 기준을 충족하는 글로벌 상장 인프라 기업에 투자합니다. 이 펀드는 미국을 포함한 전 세계에 위치한 기업의 증권에 투자합니다.
+
+편입종목 상위 5개:
+- United Utilities Group PLC Class A (UU.L): 7.25%
+- Severn Trent PLC (SVT.L): 5.68%
+- National Grid PLC (NG.L): 5.13%
+- Essential Utilities Inc (WTRG): 4.94%
+- SSE PLC (SSE.L): 4.64%
+
+==================================================
+
+티커: BIBL
+이름: Inspire 100 ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 일반적으로 전체 자산의 최소 80%를 100 지수 구성 증권에 투자합니다. 지수 제공자는 성서적 가치에 대한 증권의 일치와 회사가 기업에 미치는 긍정적인 영향을 기반으로 특정 증권에 점수를 부여하도록 고안된 독점적인 선택 방법인 Inspire Impact Score®를 사용하여 국내 대규모 자본 주식을 선택합니다. 고객, 지역사회, 직장 그리고 세계.
+
+편입종목 상위 5개:
+- Caterpillar Inc (CAT): 4.54%
+- Intuitive Surgical Inc (ISRG): 4.42%
+- Progressive Corp (PGR): 3.43%
+- KLA Corp (KLAC): 3.23%
+- Prologis Inc (PLD): 3.12%
+
+==================================================
+
+티커: BILZ
+이름: PIMCO Ultra Short Government Active Exchange-Traded Fund
+카테고리: Ultrashort Bond
+
+설명:
+이 펀드는 총 자산의 100%를 (i) 현금, (ii) 미국 재무부 채권, 채권, 기타 미국 정부가 발행했거나 원리금에 대해 보장한 채권(포함)과 같은 미국 정부 증권에 투자합니다. 해당 기관 및 대행 기관) 및 (iii) 해당 미국 정부 증권 또는 현금을 완전히 담보로 하는 환매 계약.
+
+
+==================================================
+
+티커: BINC
+이름: Blackrock Flexible Income ETF
+카테고리: Multisector Bond
+
+설명:
+정상적인 시장 상황에서 펀드는 다음을 포함하되 이에 국한되지 않는 채권 조합에 투자합니다. 미국 정부, 그 기관 또는 기관이 발행하거나 보장한 의무, 미국 정부나 그 기관 또는 기관이 발행하거나 보증한 모기지 담보 증권입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Instl SL Agency (BISXX): 4.42%
+- iShares iBoxx $ High Yield Corp Bd ETF (HYG): 2.11%
+
+==================================================
+
+티커: BINV
+이름: Brandes International ETF
+카테고리: Foreign Large Value
+
+설명:
+이 펀드는 주로 외국 기업의 지분증권에 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 이 펀드는 일반적으로 구매 당시 시가총액(공모 주식의 시장 가치)이 50억 달러를 초과하는 외국 기업에 투자합니다.
+
+편입종목 상위 5개:
+- Takeda Pharmaceutical Co Ltd (4502.T): 3.10%
+- JPMorgan US Treasury Plus MMkt Capital (JTCXX): 2.67%
+- Alibaba Group Holding Ltd ADR (BABA): 2.66%
+- Sanofi SA (SAN.PA): 2.60%
+- Heineken Holding NV (HEIO.AS): 2.53%
+
+==================================================
+
+티커: BITB
+이름: Bitwise Bitcoin ETF
+카테고리: Digital Assets
+
+설명:
+투자 목표를 달성하기 위해 신탁은 비트코인을 보유하고 후원자의 관리 수수료(이하 "후원자 수수료")를 미국 달러로 적립합니다. 신탁은 BRRNY에 따라 비트코인 ​​보유량, 순자산 및 주식을 매일 평가합니다. 수동적으로 관리되며 적극적인 관리 투자 전략을 추구하지 않으며 후원자는 신탁이 보유한 비트코인을 적극적으로 관리하지 않습니다.
+
+
+==================================================
+
+티커: BIS
+이름: ProShares UltraShort Nasdaq Biotechnology
+카테고리: Trading--Inverse Equity
+
+설명:
+이 펀드는 ProShare Advisors가 조합하여 일일 목표와 일치하는 일일 수익을 창출해야 한다고 믿는 금융 상품에 투자합니다. 이 지수는 생명공학 또는 제약으로 분류되는 나스닥 상장 기업의 증권을 포함하는 수정된 자본화 가중 지수입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BITC
+이름: Bitwise Bitcoin Strategy Optimum Roll ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 비트코인 ​​선물 계약(“비트코인 선물 계약”)에 대한 노출 관리와 단기 채무 증권에 대한 투자를 통해 투자 목적을 달성하고자 합니다. 본 펀드는 비트코인에 직접 투자하지 않습니다. 이 펀드는 가장 높은 내재 롤 수익률을 제공하는 비트코인 ​​선물 계약에 투자하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- DWS Government Money Market Series Instl (ICAXX): 56.42%
+
+==================================================
+
+티커: BITI
+이름: ProShares Short Bitcoin Strategy ETF
+카테고리: Trading--Miscellaneous
+
+설명:
+이 펀드는 ProShare Advisors가 조합하여 일일 목표와 일치하는 일일 수익을 창출해야 한다고 믿는 금융 상품에 투자합니다. 하루 동안 비트코인 ​​선물 계약 가격이 하락해 이익을 얻으려는 것입니다. 이 지수는 USD로 거래되는 단일 비트코인의 성과를 측정하도록 설계되었으며 비트코인 ​​시장에 대한 프록시를 제공하려고 합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BITO
+이름: ProShares Bitcoin Strategy ETF
+카테고리: Digital Assets
+
+설명:
+펀드 자문사는 주로 비트코인 ​​선물 계약에 대한 노출 관리를 통해 투자 목표를 달성하려고 합니다. 본 펀드는 비트코인에 직접 투자하지 않습니다. 펀드 자문사는 일반적으로 비트코인과 비트코인 ​​선물의 가치가 정체되거나 하락하는 기간뿐만 아니라 비트코인이나 비트코인 ​​선물의 가치가 상승하는 기간에도 비트코인 ​​선물 계약을 보유합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BITQ
+이름: Bitwise Crypto Industry Innovators ETF
+카테고리: Digital Assets
+
+설명:
+이 지수는 Bitwise Index Services, LLC에서 암호화폐 시장에 서비스를 제공하는 회사, 즉 암호화폐 채굴 회사, 암호화폐 채굴 장비 공급업체, 암호화폐 금융 서비스 회사 또는 주로 암호화폐 관련 고객(즉, 암호화폐 생태계)에게 서비스를 제공하는 기타 금융 기관의 성과를 측정하기 위해 설계되었습니다. 일반적으로 이 펀드는 순자산의 최소 80%를 Crypto Innovators의 증권에 투자합니다. 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- Marathon Digital Holdings Inc (MARA): 9.76%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 8.63%
+- MicroStrategy Inc Class A (MSTR): 8.18%
+- TeraWulf Inc (WULF): 5.56%
+- Core Scientific Inc (CORZ): 5.10%
+
+==================================================
+
+티커: BITU
+이름: Proshares Ultra Bitcoin ETF
+카테고리: Digital Assets
+
+설명:
+이 지수는 USD로 거래되는 단일 비트코인의 성과를 측정하도록 설계되었으며 비트코인 ​​시장에 대한 프록시를 제공하려고 합니다. 정상적인 상황에서 펀드는 ProShare Advisors가 조합하여 일일 목표와 일치하는 일일 수익을 창출해야 한다고 믿는 금융 상품에 펀드 자산의 최소 80%를 투자하거나 이에 대한 노출을 제공합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BITS
+이름: Global X Blockchain & Bitcoin Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 미국 및 미국 이외의 “블록체인 회사”의 지분 ​​증권에 직간접적으로 투자하고 미국 상장 비트코인 ​​선물 계약의 매수 포지션에 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 ETF입니다. 정상적인 상황에서 펀드는 순자산의 최소 80%와 투자 목적으로 차입한 금액을 블록체인 회사와 미국 상장 비트코인 ​​선물 계약의 롱 포지션에 투자합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Global X Blockchain ETF (BKCH): 54.10%
+- Global X 1-3 Month T-Bill ETF (CLIP): 30.55%
+
+==================================================
+
+티커: BITX
+이름: 2x Bitcoin Strategy ETF
+카테고리: Digital Assets
+
+설명:
+해당 펀드는 현재 시카고상업거래소(Chicago Mercantile Exchange)인 상품선물거래위원회(Commodity Futures Trading Commission)에 등록된 거래소에서만 거래되는 현금결제형 비트코인 ​​선물계약과 현금,현금 선물 계약에 자산을 주로 투자하여 투자 목적을 달성하고자 하는 ETF입니다. -비트코인 선물 계약에 대한 펀드의 투자에 대한 담보 역할을 하는 유사한 상품 또는 고품질 증권. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 9.87%
+
+==================================================
+
+티커: BIV
+이름: Vanguard Intermediate-Term Bond Index Fund
+카테고리: Intermediate Core Bond
+
+설명:
+이 지수에는 만기가 5년에서 10년 사이이고 공개적으로 발행되는 모든 중형 및 대형 미국 정부 채권, 투자 등급 기업 채권 및 투자 등급 국제 달러화 채권이 포함됩니다. 펀드의 모든 투자는 샘플링 프로세스를 통해 선정되며 자산의 최소 80%는 지수에 포함된 채권에 투자됩니다.
+
+
+==================================================
+
+티커: BJK
+이름: VanEck Gaming ETF
+카테고리: Consumer Cyclical
+
+설명:
+펀드는 일반적으로 총자산의 최소 80%를 펀드의 벤치마크 지수를 구성하는 증권에 투자합니다. 처음에 지수에 참여할 자격을 얻으려면 회사는 수익의 최소 50%를 게임에서 창출해야 합니다. 게임에는 카지노, 카지노 호텔, 스포츠 베팅(인터넷 도박 및 경마장 포함), 복권 서비스는 물론 게임 서비스, 게임 기술 및 게임 장비가 포함됩니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- VICI Properties Inc Ordinary Shares (VICI): 8.06%
+- Flutter Entertainment PLC (FLUT): 7.96%
+- DraftKings Inc Ordinary Shares - Class A (DKNG): 6.85%
+- Evolution AB (EVO.ST): 6.31%
+- Las Vegas Sands Corp (LVS): 5.94%
+
+==================================================
+
+티커: BJAN
+이름: Innovator U.S. Equity Buffer ETF - January
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust("기초 ETF")를 참조하는 FLexible EXchange® 옵션("FLEX 옵션")에 순자산의 최소 80%를 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 기본 ETF에 대한 FLEX 옵션을 사용함으로써 이 펀드는 정보 기술 부문의 회사에 상당한 노출을 갖습니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BJUL
+이름: Innovator U.S. Equity Buffer ETF - July
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. Options Clearing Corporation(“OCC”)에 의해 결제가 보장되기는 하지만 FLEX 옵션은 여전히 ​​OCC의 거래상대방 위험에 노출되어 있으며 전통적인 상장 거래 옵션 계약보다 유동성이 낮을 수 있습니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BIZD
+이름: VanEck BDC Income ETF
+카테고리: Financial
+
+설명:
+펀드는 일반적으로 총 자산의 80% 이상을 펀드의 벤치마크 지수를 구성하는 증권 및/또는 벤치마크 지수를 구성하는 증권에 대한 투자 노출이 있는 투자 또는 상품에 투자합니다. BDC 인덱스는 BDC로 구성됩니다.
+
+편입종목 상위 5개:
+- Ares Capital Corp (ARCC): 21.05%
+- Blue Owl Capital Corp Ordinary Shares (OBDC): 9.25%
+- FS KKR Capital Corp (FSK): 9.08%
+- Blackstone Secured Lending Fund Ordinary Shares (BXSL): 8.33%
+- Main Street Capital Corp (MAIN): 4.83%
+
+==================================================
+
+티커: BKCH
+이름: Global X Blockchain ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 총 자산의 80% 이상과 투자 목적의 차입금(있는 경우)을 지수 증권과 미국예탁증서("ADR") 및 글로벌예탁증서("GDR")에 투자합니다. 기본 지수의 증권. 기본 지수는 블록체인 기술 분야의 추가 발전으로 이익을 얻을 수 있는 기업에 대한 노출을 제공하도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Marathon Digital Holdings Inc (MARA): 10.64%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 9.80%
+- Iris Energy Ltd (IREN): 8.68%
+- Cleanspark Inc (CLSK): 8.64%
+- TeraWulf Inc (WULF): 7.04%
+
+==================================================
+
+티커: BKAG
+이름: BNY Mellon Core Bond ETF
+카테고리: Intermediate Core Bond
+
+설명:
+이 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 채권, 채권을 대표하는 TBA 거래 및 해당 증권에 대한 노출을 제공하는 ETF에 투자합니다. Bloomberg US Aggregate Total Return Index는 투자 등급, 미국 달러 표시, 고정 금리 과세 채권 시장을 측정하도록 설계되었습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BJUN
+이름: Innovator U.S. Equity Buffer ETF - June
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 최소 80%를 SPDR® S&P 500® ETF Trust를 참조하는 FLexible EXchange® 옵션에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 가진 거래소 상장 옵션 계약입니다. Options Clearing Corporation에서 결제를 보장하지만 FLEX 옵션은 여전히 ​​OCC와의 상대방 위험에 노출되어 있으며 보다 전통적인 거래소 상장 옵션보다 유동성이 낮을 수 있습니다. 분산되지 않습니다.
+
+
+==================================================
+
+티커: BKEM
+이름: BNY Mellon Emerging Markets Equity ETF
+카테고리: Diversified Emerging Mkts
+
+설명:
+이 펀드는 일반적으로 Solactive GBS Emerging Markets Large & Mid Cap USD Index NTR을 구성하는 주식 증권, 이 지수를 구성하는 증권을 기반으로 하는 예탁증서, 이러한 증권에 대한 노출을 제공하는 ETF, 이러한 증권 또는 지수와 유사한 경제적 특성을 가진 파생상품에 자산의 대부분을 투자합니다. 이 지수는 신흥시장 대형 및 중형 자본화 기업의 성과를 측정하도록 설계된 유통주식시가총액 가중 지수입니다. 분산되지 않습니다.
+
+편입종목 상위 5개:
+- Taiwan Semiconductor Manufacturing Co Ltd (2330.TW): 8.74%
+- Tencent Holdings Ltd (0700.HK): 3.58%
+- Samsung Electronics Co Ltd (005930.KS): 3.52%
+- Alibaba Group Holding Ltd Ordinary Shares (9988.HK): 1.72%
+- Reliance Industries Ltd (RELIANCE.NS): 1.57%
+
+==================================================
+
+티커: BKCI
+이름: BNY Mellon Concentrated International ETF
+카테고리: Foreign Large Growth
+
+설명:
+이 펀드는 일반적으로 미국을 제외한 선진 시장에 위치한 외국 기업의 지분 증권에 주로 투자합니다. 자문가는 "선진 시장"을 Morgan Stanley Capital International(MSCI) 유럽, 호주 및 극동(EAFE®) 지수에 포함된 국가로 간주합니다. 그리고 캐나다. 본 펀드는 시가총액에 상관없이 기업의 지분증권에 투자할 수 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S Class B (NOVO-B.CO): 5.85%
+- Alimentation Couche-Tard Inc (ATD.TO): 5.27%
+- Taiwan Semiconductor Manufacturing Co Ltd ADR (TSM): 5.16%
+- Compass Group PLC (CPG.L): 4.76%
+- ASML Holding NV (ASML.AS): 4.50%
+
+==================================================
+
+티커: BKIV
+이름: BNY Mellon Innovators ETF
+카테고리: Mid-Cap Growth
+
+설명:
+목표를 추구하기 위해 이 펀드는 일반적으로 미국 혁신 주도 기업의 지분 증권에 주로 투자합니다. 펀드의 하위 자문사는 혁신 주도 기업을 (i) 지적 재산을 통해 기존 비즈니스 모델 및 관행을 파괴적이고 변혁할 수 있는 획기적이고/또는 혁신적인 제품과 서비스를 제공하는 선도적인 기업으로 간주합니다. ii) 해당 제품이나 서비스의 사용을 통한 비즈니스 모델 및 관행의 변화로 긍정적인 영향을 받는 기업. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 14.28%
+- Alphabet Inc Class C (GOOG): 5.75%
+- Insmed Inc (INSM): 3.91%
+- CoStar Group Inc (CSGP): 3.60%
+- Netflix Inc (NFLX): 3.49%
+
+==================================================
+
+티커: BKGI
+이름: Bny Mellon Global Infrastructure Income ETF
+카테고리: Infrastructure
+
+설명:
+목표를 달성하기 위해 이 펀드는 일반적으로 순자산(투자 목적으로 차입한 금액 포함)의 최소 80%를 배당금을 지급하는 인프라 회사가 발행한 증권에 투자합니다. 이 펀드는 미국을 포함한 전 세계에 위치한 회사의 증권에 투자합니다. 정상적인 시장 상황에서 펀드는 뉴튼이 시장 상황이 불리하다고 판단하지 않는 한 순자산의 최소 40%(모든 경우 순자산의 최소 30%)를 외국 회사에 투자합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Dominion Energy Inc (D): 8.26%
+- Orange SA (ORA.PA): 6.79%
+- Eversource Energy (ES): 6.56%
+- Enel SpA (ENEL.MI): 6.18%
+- Fortum Oyj (FORTUM.HE): 5.48%
+
+==================================================
+
+티커: BKIE
+이름: BNY Mellon International Equity ETF
+카테고리: Foreign Large Blend
+
+설명:
+이 펀드는 미국 대형 및 중형 기업의 USD 지수 NTR을 제외한 Solactive GBS 선진 시장으로 구성된 주식 증권, 지수를 구성하는 유가 증권에 기초한 예탁 영수증, 해당 유가 증권에 대한 노출을 제공하는 ETF 및 다음과 유사한 경제적 특성을 가진 파생 상품에 모든 자산을 투자합니다. 그러한 증권이나 지수. 이 지수는 선진국 시장의 대형 및 중형 기업의 성과를 측정하기 위해 고안된 유동 시가 총액 가중 지수입니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Novo Nordisk A/S Class B (NOVO-B.CO): 2.43%
+- ASML Holding NV (ASML.AS): 2.16%
+- Nestle SA (NESN.SW): 1.44%
+- AstraZeneca PLC (AZN.L): 1.24%
+- Toyota Motor Corp (7203.T): 1.23%
+
+==================================================
+
+티커: BKLN
+이름: Invesco Senior Loan ETF
+카테고리: Bank Loan
+
+설명:
+일반적으로 펀드는 총자산의 최소 80%를 지수 구성요소에 투자합니다. Morningstar, Inc.(“Morningstar” 또는 “지수 제공자”)는 지침 및 필수 절차에 따라 엄격하게 시장 가중치를 기준으로 최대 기관 레버리지 대출의 시장 가치 가중 성과를 추적하는 기본 지수를 편집, 유지 및 계산합니다. , 스프레드 및 이자 지급.
+
+편입종목 상위 5개:
+- Invesco Premier US Government Money Inst (IUGXX): 10.32%
+
+==================================================
+
+티커: BKHY
+이름: BNY Mellon High Yield ETF
+카테고리: High Yield Bond
+
+설명:
+이 펀드는 미국 고수익 채권 시장에 대한 다양한 투자 노출을 제공하고자 합니다. 정상적인 상황에서 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 고수익 증권 및 해당 증권에 대한 노출을 제공하는 ETF에 투자합니다. 순자산의 최소 80%에 대한 투자에 관한 정책은 주주들에게 60일 전에 통지한 후 펀드 이사회에 의해 변경될 수 있습니다. 펀드 운용사는 고수익 증권을 지수에 포함될 자격이 있는 등급의 증권으로 간주합니다.
+
+
+==================================================
+
+티커: BKLC
+이름: BNY Mellon US Large Cap Core Equity ETF
+카테고리: Large Blend
+
+설명:
+정상적인 상황에서 펀드는 일반적으로 지수 내 가중치에 비례하여 지수 내 모든 주식에 투자합니다. 이 지수는 미국 주식 시장에 상장된 500대 기업의 성과를 측정하기 위해 고안된 유동주식수 조정 시가총액 가중 지수입니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 7.01%
+- Apple Inc (AAPL): 6.68%
+- NVIDIA Corp (NVDA): 6.28%
+- Amazon.com Inc (AMZN): 3.72%
+- Meta Platforms Inc Class A (META): 2.37%
+
+==================================================
+
+티커: BKMC
+이름: BNY Mellon US Mid Cap Core Equity ETF
+카테고리: Mid-Cap Blend
+
+설명:
+정상적인 상황에서 펀드는 순자산의 80% 이상과 투자 목적 차입금을 중형 미국 기업의 지분 증권, 해당 증권에 대한 노출을 제공하는 ETF 및 해당 증권과 유사한 경제적 특성을 가진 파생상품에 투자합니다. . 이 지수는 미국 주식시장에 상장된 400개 중형 기업의 성과를 측정하기 위해 고안된 자유 유동 시가총액 가중 지수입니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Leidos Holdings Inc (LDOS): 0.62%
+- Pure Storage Inc Class A (PSTG): 0.62%
+- GoDaddy Inc Class A (GDDY): 0.58%
+- Domino's Pizza Inc (DPZ): 0.57%
+- EMCOR Group Inc (EME): 0.54%
+
+==================================================
+
+티커: BKWO
+이름: BNY Mellon Women's Opportunities ETF
+카테고리: Large Blend
+
+설명:
+목표를 추구하기 위해 이 펀드는 일반적으로 펀드의 하위 자문가가 보기에 매력적인 재정적 특성을 보여주고 "여성의 기회"를 장려하는 미국 회사의 지분 증권에 주로 투자합니다. "여성의 기회"는 여성의 전문성 개발 및 발전 및/또는 가사 책임, 부양가족/노인 돌봄 책임, 성별에 따른 건강 관리. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 9.00%
+- NVIDIA Corp (NVDA): 8.24%
+- Amazon.com Inc (AMZN): 6.30%
+- JPMorgan Chase & Co (JPM): 3.47%
+- Apple Inc (AAPL): 3.29%
+
+==================================================
+
+티커: BKUI
+이름: BNY Mellon Ultra Short Income ETF
+카테고리: Ultrashort Bond
+
+설명:
+이 펀드는 일반적으로 순자산의 80% 이상을 투자 등급, 미국 달러 표시 고정, 변동, 변동 금리 부채 또는 현금 등가물에 투자합니다. 자문가는 일반적으로 1년 이하의 유효 기간을 유지하려고 노력하지만, 금리 및 스프레드의 변동성이 심한 기간과 같은 특정 시장 상황에서는 기간이 1년보다 길어질 수 있습니다. 정상적인 시장 상황에서 펀드의 포트폴리오는 최소 A 또는 이에 상응하는 평균 신용 등급을 갖습니다.
+
+
+==================================================
+
+티커: BLCN
+이름: Siren Nasdaq NexGen Economy ETF
+카테고리: Digital Assets
+
+설명:
+정상적인 상황에서는 펀드 자산의 최소 80%가 지수 구성 종목에 투자됩니다. 이 지수는 독점 사용 또는 타인의 사용을 위해 블록체인 기술을 개발, 연구, 지원, 혁신 또는 활용하는 데 물질적 자원을 투자하는 회사("블록체인 회사")의 수익을 측정하도록 설계되었습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 4.51%
+- Marathon Digital Holdings Inc (MARA): 4.43%
+- MicroStrategy Inc Class A (MSTR): 4.31%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 4.19%
+- Meta Platforms Inc Class A (META): 4.13%
+
+==================================================
+
+티커: BKSE
+이름: BNY Mellon US Small Cap Core Equity ETF
+카테고리: Small Blend
+
+설명:
+정상적인 상황에서 펀드는 순자산의 80% 이상과 투자 목적 차입금을 미국 소형 기업의 지분 증권, 해당 증권에 대한 노출을 제공하는 ETF 및 해당 증권과 유사한 경제적 특성을 가진 파생 상품에 투자합니다. . 이 지수는 미국 주식시장에 상장된 600개 소규모 기업의 성과를 측정하기 위해 고안된 자유 유동 시가총액 가중 지수입니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Insmed Inc (INSM): 0.54%
+- Abercrombie & Fitch Co Class A (ANF): 0.48%
+- Sprouts Farmers Market Inc (SFM): 0.47%
+- Kirby Corp (KEX): 0.39%
+- DT Midstream Inc Ordinary Shares (DTM): 0.38%
+
+==================================================
+
+티커: BLDG
+이름: Cambria Global Real Estate ETF
+카테고리: Global Real Estate
+
+설명:
+이 펀드는 정상적인 시장 상황에서 주로 선진국 및 신흥 시장, 부동산 분야에 종사하는 회사 및 부동산 관련 산업을 포함한 국내외 증권에 투자함으로써 적극적으로 관리되고 투자 목적을 달성하려고 합니다. 펀드의 투자 자문사인 Cambria Investment Management, L.P.(“Cambria”)가 개발한 정량적 방법론에 따라 가치, 품질 및 모멘텀과 같은 유리한 다중 요소 지표를 나타내는 총칭하여 “부동산 회사”).
+
+편입종목 상위 5개:
+- First American Treasury Obligs X (FXFXX): 3.10%
+- Reysas Gayrimenkul Yatirim Ortakligi AS (RYGYO.IS): 2.86%
+- Torunlar Gayrimenkul Yatirim Ortakligi AS (TRGYO.IS): 1.90%
+- Elme Communities (ELME): 1.61%
+- Ozak Gayrimenkul Yatirim Ortakligi (OZKGY.IS): 1.56%
+
+==================================================
+
+티커: BLES
+이름: Inspire Global Hope ETF
+카테고리: Global Large-Stock Blend
+
+설명:
+이 펀드는 일반적으로 총 자산의 80% 이상을 지수 구성 증권에 투자합니다. 지수 제공자는 대형 자본 회사의 상장 주식으로 구성된 전 세계에서 Inspire Impact Score™가 0 이상인 외국(신흥 시장 포함) 및 국내 주식을 선택합니다.
+
+편입종목 상위 5개:
+- Corpay Inc (CPAY): 0.60%
+- PT Chandra Asri Pacific Tbk (TPIA.JK): 0.40%
+- Bim Birlesik Magazalar AS (BIMAS.IS): 0.39%
+- Mahindra & Mahindra Ltd DR (MHID): 0.38%
+- First Solar Inc (FSLR): 0.34%
+
+==================================================
+
+티커: BLCV
+이름: Blackrock Large Cap Value ETF
+카테고리: Large Value
+
+설명:
+정상적인 상황에서 펀드는 순자산의 최소 80%에 투자 목적으로 차입금을 더한 금액을 해당 증권과 유사한 경제적 특성을 갖는 대형 지분 증권 및 파생상품에 투자하려고 합니다. 이 펀드는 BFA가 저평가되었다고 믿는 지분증권에 주로 투자합니다. 즉, 그 가격은 BFA가 가치 있다고 믿는 것보다 낮습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Wells Fargo & Co (WFC): 3.75%
+- Citigroup Inc (C): 3.62%
+- CVS Health Corp (CVS): 2.67%
+- Cardinal Health Inc (CAH): 2.62%
+- L3Harris Technologies Inc (LHX): 2.57%
+
+==================================================
+
+티커: BLCR
+이름: Blackrock Large Cap Core ETF
+카테고리: Large Blend
+
+설명:
+일반적으로 펀드는 순자산의 최소 80%와 투자 목적의 차입금을 대형 주식 증권 및 이러한 증권과 유사한 경제적 특성을 가진 파생 상품에 투자합니다. 펀드는 주로 보통주 매수를 추구하며 우선주 및 전환 증권에도 투자할 수 있습니다. 펀드는 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- Microsoft Corp (MSFT): 8.63%
+- Amazon.com Inc (AMZN): 6.16%
+- Apple Inc (AAPL): 3.87%
+- Alphabet Inc Class A (GOOGL): 3.66%
+- Meta Platforms Inc Class A (META): 3.47%
+
+==================================================
+
+티커: BLOK
+이름: Amplify Transformational Data Sharing ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 '변형적 데이터 공유 기술'의 개발 및 활용에 적극적으로 참여하는 기업의 지분증권에 순자산의 최소 80%를 투자하여 총 수익 제공을 추구하는 적극적으로 관리되는 ETF입니다. 예탁증서를 포함하여 미국 외 지분 증권에 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- Core Scientific Inc (CORZ): 5.24%
+- Galaxy Digital Holdings Ltd (GLXY.TO): 5.15%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 3.96%
+- MicroStrategy Inc Class A (MSTR): 3.73%
+- Robinhood Markets Inc Class A (HOOD): 3.45%
+
+==================================================
+
+티커: BLLD
+이름: JPMorgan Sustainable Infrastructure ETF
+카테고리: Infrastructure
+
+설명:
+이 펀드는 주로 보통주, 부동산 투자 신탁(REIT) 및 예탁증서에 투자합니다. 이 펀드는 지수에 따라 관리되지 않으며 미국 및 신흥 시장을 포함한 해외 시장의 지분 증권에 투자할 수 있습니다. 펀드는 자산의 상당 부분을 소규모 자본 회사에 투자할 수 있으며 때때로 특정 부문이나 시장에서 중요한 위치를 차지할 수 있습니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- SSE PLC (SSE.L): 4.14%
+- E.ON SE (EOAN.DE): 3.77%
+- Digital Realty Trust Inc (DLR): 3.58%
+- Engie SA (ENGI.PA): 3.43%
+- NextEra Energy Inc (NEE): 3.40%
+
+==================================================
+
+티커: BMAR
+이름: Innovator U.S. Equity Buffer ETF - March
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. Options Clearing Corporation("OCC")에 의해 결제가 보장되기는 하지만 FLEX 옵션은 여전히 ​​OCC의 거래상대방 위험에 노출되어 있으며 전통적인 장내 거래 옵션보다 유동성이 낮을 수 있습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BMAY
+이름: Innovator U.S. Equity Buffer ETF- May
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 최소 80%를 기본 ETF를 참조하는 FLEX 옵션에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BMDL
+이름: VictoryShares WestEnd Economic Cycle Bond ETF
+카테고리: N/A
+
+설명:
+가능한 설명이 없습니다.
+
+
+==================================================
+
+티커: BLV
+이름: Vanguard Long-Term Bond Fund
+카테고리: Long-Term Bond
+
+설명:
+이 지수에는 만기가 10년을 넘고 공개적으로 발행되는 모든 중형 및 대형 미국 정부 채권, 투자 등급 기업 채권, 투자 등급 국제 달러화 채권이 포함됩니다. 펀드의 모든 투자는 샘플링 프로세스를 통해 선정되며, 펀드 자산의 최소 80%는 지수에 포함된 채권에 투자됩니다.
+
+
+==================================================
+
+티커: BMVP
+이름: N/A
+카테고리: Mid-Cap Blend
+
+설명:
+일반적으로 펀드는 총 자산의 90% 이상을 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 집계된 부문 중립적 "MVP" 점수를 기준으로 가장 강력한 모멘텀, 가장 조용한 변동성, 가장 저렴한 가치 평가 및 가장 높은 수익성을 갖춘 50개 증권을 포함하려고 합니다. 주식은 전체 시장과 유사한 부문 및 규모 분포를 갖는 지수를 생성하도록 고안된 방식으로 각 부문 및 규모 범주의 최상위에서 선택됩니다.
+
+편입종목 상위 5개:
+- NetApp Inc (NTAP): 2.37%
+- KLA Corp (KLAC): 2.28%
+- Walmart Inc (WMT): 2.18%
+- Iron Mountain Inc (IRM): 2.16%
+- Leidos Holdings Inc (LDOS): 2.15%
+
+==================================================
+
+티커: BMED
+이름: BlackRock Future Health ETF
+카테고리: Health
+
+설명:
+정상적인 시장 상황에서 이 펀드는 주로 건강 과학 산업 분야에 종사하는 회사의 지분 증권에 투자 목적으로 차입금을 더한 순자산의 최소 80%를 투자합니다. 이 펀드는 주로 인류 건강을 위한 제품과 서비스를 제공하는 회사에 투자하지만, 동식물의 성장이나 생존과 관련된 제품이나 서비스를 제공하는 회사에도 투자할 수도 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 3.99%
+- Boston Scientific Corp (BSX): 3.75%
+- Cencora Inc (COR): 3.28%
+- Intuitive Surgical Inc (ISRG): 2.81%
+- West Pharmaceutical Services Inc (WST): 2.65%
+
+==================================================
+
+티커: BND
+이름: Vanguard Total Bond Market Index Fund
+카테고리: Intermediate Core Bond
+
+설명:
+이 지수는 정부, 기업 및 국제 달러 표시 채권은 물론 모기지 담보 및 자산 담보 증권을 포함하여 미국의 광범위한 공공, 투자 등급, 과세, 고정 수입 증권의 성과를 측정합니다. 모두 1년 이상의 만기를 가지고 있습니다. 펀드의 모든 투자는 샘플링 과정을 통해 선택되며 자산의 최소 80%는 지수에 포함된 채권에 투자됩니다.
+
+
+==================================================
+
+티커: BNDC
+이름: FlexShares Core Select Bond Fund
+카테고리: Intermediate Core Bond
+
+설명:
+이 펀드는 순자산의 80% 이상을 미국 달러 표시 투자 등급 채권에 직간접적으로 투자하거나 상장지수펀드(ETF) 및 기타 등록된 투자 회사를 통해 간접적으로 투자합니다. 본 펀드는 향후 발표되는 거래를 포함하여 주택담보대출 또는 자산유동화증권에 제한 없이 투자할 수 있으며, 발행시점, 지연인도 또는 선도약정 방식으로 증권을 매매할 수 있습니다.
+
+편입종목 상위 5개:
+- iShares MBS ETF (MBB): 24.30%
+- iShares 20+ Year Treasury Bond ETF (TLT): 12.91%
+- FlexShares Disciplined Duration MBS ETF (MBSD): 12.50%
+- iShares 3-7 Year Treasury Bond ETF (IEI): 11.96%
+- FlexShares Credit-Scored US Corp Bd ETF (SKOR): 9.39%
+
+==================================================
+
+티커: BNDD
+이름: Quadratic Deflation ETF
+카테고리: Long Government
+
+설명:
+이 펀드는 다양한 만기의 국채에 직접 투자하거나 국채에 투자하는 기타 상장지수펀드를 통해 투자합니다. 펀드가 사용하는 '옵션 전략'은 미국 금리스왑 곡선의 형태에 연계되어 펀드의 손실을 제한하도록 구성된 다양한 만기의 옵션 전략으로 옵션 매수, 스프레드 매수, 버터플라이 등을 포함합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Vanguard Long-Term Treasury ETF (VGLT): 75.83%
+
+==================================================
+
+티커: BNDI
+이름: Neos Enhanced Income Aggregate Bond ETF
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+이 펀드는 (i) 자산의 80% 이상을 채권에 투자하거나 자산의 80% 이상을 채권 및 관련 선도, 옵션 또는 선물 계약에 투자하는 ETF에 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 ETF입니다. 채권에 투자하고 미국 총채권 시장의 성과에 대한 노출을 추구하거나 해당 ETF가 보유한 증권에 직접 노출되도록 노력하고 (ii) S&P 500® 지수 풋 옵션을 판매 및 구매하여 펀드에서 받는 것 이상으로 수익을 창출합니다. 기초 투자.
+
+편입종목 상위 5개:
+- Vanguard Total Bond Market ETF (BND): 49.94%
+- iShares Core US Aggregate Bond ETF (AGG): 49.90%
+- First American Treasury Obligs X (FXFXX): 0.20%
+
+==================================================
+
+티커: BNDW
+이름: Vanguard Total World Bond ETF
+카테고리: Global Bond-USD Hedged
+
+설명:
+이 펀드는 펀드 오브 펀드로서 글로벌 투자 등급 채권 시장의 시가총액 가중치를 추적하도록 설계된 맞춤형 USD 헤지 지수인 지수의 성과를 추적하도록 설계된 지수 투자 접근 방식을 사용하며 다음과 같이 구성됩니다. Bloomberg 미국 총 유동 조정 지수 및 Bloomberg Global Aggregate ex-USD 유동 조정 RIC Capped 지수.
+
+편입종목 상위 5개:
+- Vanguard Total Bond Market ETF (BND): 51.99%
+- Vanguard Total International Bond ETF (BNDX): 48.00%
+
+==================================================
+
+티커: BNDX
+이름: Vanguard Total International Bond Index Fund
+카테고리: Global Bond-USD Hedged
+
+설명:
+이 펀드는 Bloomberg Global Aggregate ex-USD Float adjusted RIC Capped Index(USD Hedged)의 성과를 추적하도록 설계된 지수 투자 접근법을 사용합니다. 이 지수는 전 세계 투자 등급 고정 금리 부채 시장에 대한 광범위한 측정값을 제공합니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BNE
+이름: Blue Horizon BNE ETF
+카테고리: Global Small/Mid Stock
+
+설명:
+이 지수는 에너지가 생산, 저장, 분배 및 소비되는 방식의 변혁적 변화의 리더, 조력자, 수혜자인 기업 포트폴리오의 성과를 추적하려고 합니다. 펀드는 일반적으로 투자 목적을 달성하기 위해 "복제" 전략을 사용합니다. 즉, 일반적으로 지수에서와 동일한 대략적인 비율로 지수의 모든 구성 증권에 투자한다는 의미입니다.
+
+편입종목 상위 5개:
+- Siemens Energy AG Ordinary Shares (ENR.DE): 1.70%
+- CMOC Group Ltd Class H (3993.HK): 1.52%
+- First Solar Inc (FSLR): 1.48%
+- AeroVironment Inc (AVAV): 1.43%
+- Lundin Mining Corp (LUN.TO): 1.34%
+
+==================================================
+
+티커: BNGE
+이름: First Trust S-Network Streaming & Gaming ETF
+카테고리: Communications
+
+설명:
+펀드는 일반적으로 순자산의 최소 80%를 지수를 구성하는 증권에 투자합니다. 이 지수는 원격 사용자가 온라인 콘텐츠에 액세스할 수 있도록 하는 미국 및 미국 외 기업이 발행한 보통주 및 예탁증서로 구성됩니다. 온라인 콘텐츠 게시 예상 베팅에 참여합니다. 경쟁적인 비디오 게임을 관전하거나 참가하는 행위 스트리밍 및 게임 산업에 필요한 제품, 서비스 및 기술을 제공합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 6.07%
+- Tencent Holdings Ltd (0700.HK): 5.32%
+- Electronic Arts Inc (EA): 4.80%
+- Netflix Inc (NFLX): 4.77%
+- Nintendo Co Ltd (7974.T): 4.66%
+
+==================================================
+
+티커: BNKU
+이름: MicroSectors U.S. Big Banks Index 3X Leveraged ETNs
+카테고리: Trading--Leveraged Equity
+
+설명:
+해당 채권은 몬트리올 은행이 발행한 선순위 무담보 중기 채권으로, 지수 성과에 대한 3배의 레버리지 참여와 연결된 수익을 가지며 일일 복리로 계산되며 일일 투자자 수수료, 일일 금융 수수료 및 해당되는 경우 환매수수료 금액. 이 지수는 은행 부문에서 시가총액이 가장 큰 미국 주식 10개를 대표하도록 설계된 동일 달러 가중 지수입니다.
+
+편입종목 상위 5개:
+- Bank of America Corp (BAC): 10.00%
+- Charles Schwab Corp (SCHW): 10.00%
+- Citigroup Inc (C): 10.00%
+- JPMorgan Chase & Co (JPM): 10.00%
+- Morgan Stanley (MS): 10.00%
+
+==================================================
+
+티커: BNKD
+이름: MicroSectors U.S. Big Banks Index -3X Inverse Leveraged ETNs
+카테고리: Trading--Inverse Equity
+
+설명:
+채권은 몬트리올 은행이 발행한 선순위 무담보 중기 채권으로, 지수의 역실적에 대한 3배의 레버리지 참여와 연결된 수익을 가지며 일일 복리, 일일 투자자 수수료, 마이너스 일일 이자 및 해당되는 경우 상환 수수료 금액. 이 지수는 은행 부문에서 시가총액이 가장 큰 미국 주식 10개를 대표하도록 설계된 동일 달러 가중 지수입니다.
+
+편입종목 상위 5개:
+- Bank of America Corp (BAC): 10.00%
+- Charles Schwab Corp (SCHW): 10.00%
+- Citigroup Inc (C): 10.00%
+- JPMorgan Chase & Co (JPM): 10.00%
+- Morgan Stanley (MS): 10.00%
+
+==================================================
+
+티커: BNOV
+이름: Innovator U.S. Equity Buffer ETF - November
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. Options Clearing Corporation("OCC")에 의해 결제가 보장되기는 하지만 FLEX 옵션은 여전히 ​​OCC의 거래상대방 위험에 노출되어 있으며 전통적인 상장 거래 옵션 계약보다 유동성이 낮을 수 있습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BNO
+이름: United States Brent Oil Fund, LP
+카테고리: Commodities Focused
+
+설명:
+벤치마크 선물 계약은 만료되는 근월 계약인 Ice Futures Europe Exchange에서 거래되는 브렌트 원유에 대한 선물 계약입니다. 단, 근월 계약이 만료 2주 이내에 있는 경우에는 다음과 같이 측정됩니다. 만료되는 다음 달 계약인 선물 계약.
+
+편입종목 상위 5개:
+- Brent Crude Future Sept 24 (BRNX24): 50.35%
+
+==================================================
+
+티커: BOCT
+이름: Innovator U.S. Equity Buffer ETF October
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. 펀드의 모든 FLEX 옵션에 대한 참조 자산은 S&P 500® 지수의 가격 및 수익률 성과에 일반적으로 대응하는 투자 결과를 제공하고자 하는 상장지수단위 투자 신탁인 기본 ETF입니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BOIL
+이름: ProShares Ultra Bloomberg Natural Gas
+카테고리: Trading--Leveraged Commodities
+
+설명:
+이 펀드는 천연가스 선물 계약에 정상적으로 투자함으로써 투자 목적을 달성하고자 합니다. 또한 특정 선물 계약 시장에 긴급 상황(예: 자연재해, 테러 공격 또는 불가항력)이나 중단(예: 거래 중단 또는 돌발 충돌)이 발생하는 경우 또는 스폰서가 선물 계약을 매수 또는 매도하는 것이 (예: 시장 변동성 또는 비유동성 기간 동안) 비실용적이거나 바람직하지 않다고 간주합니다.
+
+
+==================================================
+
+티커: BOAT
+이름: SonicShares Global Shipping ETF
+카테고리: Industrials
+
+설명:
+이 지수는 수상 운송 산업에 종사하는 것으로 확인된 기업의 글로벌 포트폴리오에 대한 노출을 제공하고자 하는 규칙 기반 지수입니다. 정상적인 상황에서는 펀드 순자산의 최소 80%와 투자 목적의 차입금이 글로벌 해운 회사에 투자됩니다. 또한 지수에 포함되지 않았지만 펀드의 투자 자문가가 지수를 추적하는 데 도움이 될 것이라고 믿는 증권이나 기타 투자에 투자할 수도 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- A. P. Moller Maersk A/S Class B (MAERSK-B.CO): 5.84%
+- SITC International Holdings Co Ltd (1308.HK): 5.73%
+- HMM (011200.KS): 5.65%
+- Kawasaki Kisen Kaisha Ltd (9107.T): 5.41%
+- COSCO SHIPPING Holdings Co Ltd Class H (1919.HK): 5.34%
+
+==================================================
+
+티커: BOTT
+이름: Themes Robotics & Automation ETF
+카테고리: Technology
+
+설명:
+이 지수는 산업적 맥락에서 로봇 공학 및 자동화 솔루션에 초점을 맞춘 제품과 서비스를 제공하는 기업에 대한 노출을 제공하도록 설계되었습니다. 정상적인 상황에서 펀드는 순자산의 최소 80%에 투자 목적의 차입금을 더한 금액을 지수를 구성하는 증권과 지수의 증권을 기반으로 하는 ADR 및 GDR에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Credo Technology Group Holding Ltd (CRDO): 4.90%
+- NVIDIA Corp (NVDA): 4.59%
+- Halma PLC (HLMA.L): 4.02%
+- Cargotec Oyj Class B (CGCBV.HE): 3.93%
+- Qualcomm Inc (QCOM): 3.88%
+
+==================================================
+
+티커: BOTZ
+이름: Global X Robotics & Artificial Intelligence ETF
+카테고리: Miscellaneous Sector
+
+설명:
+이 펀드는 총 자산의 최소 80%를 기초 지수의 증권에 투자합니다. 기본 지수는 기본 지수 제공업체인 Indxx가 정의한 대로 로봇 공학 및/또는 인공 지능 개발과 관련된 선진국 시장의 거래소 상장 기업에 대한 노출을 제공하도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 12.64%
+- ABB Ltd (ABBN.SW): 9.72%
+- Intuitive Surgical Inc (ISRG): 9.34%
+- Keyence Corp (6861.T): 7.58%
+- SMC Corp (6273.T): 6.38%
+
+==================================================
+
+티커: BOND
+이름: PIMCO Active Bond Exchange-Traded Fund
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+펀드는 일반적으로 자산의 최소 80%를 옵션, 선물 계약 또는 스왑 계약과 같은 선도 또는 파생 상품으로 대표될 수 있는 다양한 만기의 다양한 고정 수익 상품 포트폴리오에 투자합니다. 주로 투자 등급 채무 증권에 투자하지만 Moody's, S&P 또는 Fitch가 평가한 고수익 증권에 총 자산의 최대 30%까지 투자할 수 있으며, 등급이 없는 경우 PIMCO가 결정한 고수익 증권에 투자할 수도 있습니다.
+
+
+==================================================
+
+티커: BOUT
+이름: Innovator IBD Breakout Opportunities ETF
+카테고리: Mid-Cap Growth
+
+설명:
+펀드는 일반적으로 순자산(투자 목적 차입금 포함)의 80% 이상을 지수를 구성하는 지분 증권에 투자합니다. 이 지수는 다양한 시장 상황을 고려하여 해당 주식의 최근 "저항 수준"을 넘어서 지속적인 가격 상승 기간을 경험하거나 "돌출"할 가능성이 있는 주식에 기회주의적 투자 노출을 제공하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Viking Holdings Ltd (VIK): 4.18%
+- Qorvo Inc (QRVO): 3.97%
+- KLA Corp (KLAC): 3.93%
+- PACS Group Inc (PACS): 3.88%
+- NXP Semiconductors NV (NXPI): 3.86%
+
+==================================================
+
+티커: BOXX
+이름: Alpha Architect 1-3 Month Box ETF
+카테고리: Ultrashort Bond
+
+설명:
+정상적인 시장 상황에서 펀드는 일반적으로 총 자산의 대부분(80% 이상)을 박스 스프레드에 투자하므로 만기일을 기준으로 박스 스프레드의 가중 평균 만기가 90일 미만이 됩니다. 본 펀드의 주요 투자 전략은 박스 스프레드(“박스 스프레드”)라고 불리는 거래소 상장 옵션 전략을 활용하는 것입니다.
+
+
+==================================================
+
+티커: BPAY
+이름: BlackRock Future Financial and Technology ETF
+카테고리: Financial
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 80% 이상과 투자 목적의 차입금을 유사한 경제적 특성을 가진 금융 및 정보 기술 기업과 파생상품의 지분 증권에 투자합니다. 혁신적이고 신흥 기술을 제공하는 금융 및 기술 산업의 신생 기업 및/또는 소규모 기업과 확고한 기업 및/또는 대규모 기업 모두에 투자할 수 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Discover Financial Services (DFS): 5.46%
+- Global Payments Inc (GPN): 4.88%
+- Kaspi.kz JSC ADS (KSPI): 4.64%
+- PayPal Holdings Inc (PYPL): 4.17%
+- Fidelity National Information Services Inc (FIS): 4.13%
+
+==================================================
+
+티커: BRLN
+이름: BlackRock Floating Rate Loan ETF
+카테고리: Bank Loan
+
+설명:
+펀드는 일반적으로 자산의 최소 80%를 변동금리 대출 및 변동금리 대출과 경제적으로 동등한 투자에 투자하여 펀드가 변동금리 수익을 효과적으로 달성할 수 있도록 합니다. 본 펀드는 또한 다른 변동금리 채무상품 및 변동금리 채무상품과 경제적으로 동등한 투자에도 투자할 수 있습니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 16.81%
+- iShares iBoxx $ High Yield Corp Bd ETF (HYG): 2.73%
+- iShares 0-5 Year High Yield Corp Bd ETF (SHYG): 2.71%
+- iShares Broad USD High Yield Corp Bd ETF (USHY): 1.54%
+
+==================================================
+
+티커: BRF
+이름: VanEck Brazil Small-Cap ETF
+카테고리: Latin America Stock
+
+설명:
+펀드는 일반적으로 총자산의 최소 80%를 펀드의 벤치마크 지수를 구성하는 증권에 투자합니다. 이 지수에는 브라질 중소기업의 증권이 포함되어 있습니다. 회사가 브라질에 설립되었거나 브라질 외부에 설립되었지만 수익/관련 자산의 최소 50%가 브라질에 있는 경우 일반적으로 브라질 회사로 간주됩니다.
+
+편입종목 상위 5개:
+- Ero Copper Corp (ERO.TO): 4.14%
+- Alupar Investimento SA Unit Cons of 1 Sh + 2 Pfd Shs (ALUP11): 3.65%
+- Santos Brasil Participacoes SA (STBP3.SA): 3.47%
+- Inter & Co Inc BRDR (INBR32): 3.29%
+- Cyrela Brazil Realty SA Empreend e Part (CYRE3.SA): 2.74%
+
+==================================================
+
+티커: BRAZ
+이름: Global X Brazil Active ETF
+카테고리: Latin America Stock
+
+설명:
+이 펀드는 Global X Management Company LLC(“고문”)가 조언하는 적극적으로 관리되는 상장지수펀드(“ETF”)로, 정상적인 상황에서 순자산의 최소 80%를 투자하여 투자 목표를 달성하려고 합니다. 구매 시점에 측정된 투자 목적의 지분 증권 차입금: (i) 브라질에 주소를 둔 발행인; 및/또는 (ii) 경제적으로 브라질과 연결되어 있습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Petroleo Brasileiro SA Petrobras ADR (PBR): 9.72%
+- Vale SA ADR (VALE): 9.53%
+- Itau Unibanco Holding SA ADR (ITUB): 8.73%
+- PRIO SA (PRIO3.SA): 5.11%
+- Weg SA (WEGE3.SA): 4.79%
+
+==================================================
+
+티커: BRNY
+이름: Burney U.S. Factor Rotation ETF
+카테고리: Mid-Cap Blend
+
+설명:
+이 펀드는 장기적으로 자본 성장을 추구하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 이 펀드는 정상적인 상황에서 펀드 순자산의 최소 80%와 투자 목적으로 차입한 금액을 미국 상장 보통주에 투자함으로써 투자 목적을 달성하려고 합니다. 이 펀드는 대·중·소규모 기업의 보통주에 자산을 투자할 예정이다.
+
+편입종목 상위 5개:
+- Alphabet Inc Class A (GOOGL): 5.82%
+- NVIDIA Corp (NVDA): 5.22%
+- Vertex Pharmaceuticals Inc (VRTX): 5.22%
+- Fortinet Inc (FTNT): 5.05%
+- Texas Roadhouse Inc (TXRH): 4.92%
+
+==================================================
+
+티커: BRTR
+이름: Blackrock Total Return ETF
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+이 펀드는 일반적으로 자산의 90% 이상을 회사채 및 채권, 모기지 담보부 증권, 자산 담보부 증권, 전환사채, 우선주, 정부채 등 고정 수입 증권으로 구성된 다양한 포트폴리오에 투자합니다. 미국 및 외국 기업과 정부 모두 이러한 증권을 발행할 수 있습니다. 일반적인 상황에서 이 펀드는 주로 채권에 투자합니다. 어떠한 기간이나 만기의 채권에도 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Instl SL Agency (BISXX): 3.85%
+
+==================================================
+
+티커: BSCO
+이름: Invesco BulletShares 2024 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2024년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채(통칭하여 "2024 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+편입종목 상위 5개:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 6.60%
+
+==================================================
+
+티커: BRHY
+이름: BlackRock High Yield ETF
+카테고리: High Yield Bond
+
+설명:
+본 펀드는 만기가 10년 이하인 비투자등급 채권에 주로 투자합니다. 일반적으로 순자산의 80% 이상과 투자 목적의 차입금을 고수익 투자 및 그러한 투자와 유사한 경제적 특성을 가진 기타 금융 상품에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- BlackRock Cash Funds Treasury SL Agency (XTSLA): 11.93%
+
+==================================================
+
+티커: BSCP
+이름: Invesco BulletShares 2025 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+이 펀드는 일반적으로 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기초 지수는 2025년에 만기 또는 어떤 경우에는 "유효 만기"가 있는 미국 달러화 표시 투자 등급 기업 채권 포트폴리오의 성과를 측정하고자 합니다(총칭하여 "2025 채권").
+
+
+==================================================
+
+티커: BRZU
+이름: Direxion Daily MSCI Brazil Bull 2X Shares
+카테고리: Trading--Leveraged Equity
+
+설명:
+이 지수는 브라질 발행사의 유동시가총액 조정 시가총액의 약 85%를 포괄하는 브라질 주식 시장의 대형 및 중형 자본 부문의 성과를 측정합니다. 이 펀드는 순자산의 80% 이상을 스왑 계약, 지수 증권, 지수를 추적하는 상장지수펀드("ETF") 등 금융 상품에 투자하며, 이를 조합하여 일일 레버리지 노출의 2배를 제공합니다. 펀드의 투자 목적에 부합하도록 지수에 적용합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- iShares MSCI Brazil ETF (EWZ): 52.15%
+
+==================================================
+
+티커: BSCR
+이름: Invesco BulletShares 2027 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2027년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채(총칭하여 "2027 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSCQ
+이름: Invesco BulletShares 2026 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2026년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채(통칭하여 "2026 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSCS
+이름: Invesco BulletShares 2028 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2028년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채(통칭하여 "2028 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSCW
+이름: Invesco Bulletshares 2032 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 지수를 구성하는 증권에 투자합니다. 이 지수는 2032년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채 포트폴리오의 성과를 측정하려고 합니다. 이는 다양화되지 않습니다.
+
+
+==================================================
+
+티커: BSCU
+이름: Invesco BulletShares 2030 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+이 펀드는 일반적으로 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기초 지수는 2030년에 만기 또는 어떤 경우에는 "실질 만기"가 있는 미국 달러화 표시 투자 등급 기업 채권 포트폴리오의 성과를 측정하고자 합니다. 이 펀드는 지수의 모든 증권을 매수하지 않습니다. 대신 이 펀드는 "샘플링" 방법론을 활용하여 투자 목표를 달성하고자 합니다.
+
+
+==================================================
+
+티커: BSCT
+이름: Invesco BulletShares 2029 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2029년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채(총칭하여 "2029 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSCV
+이름: Invesco BulletShares 2031 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2031년 만기 또는 경우에 따라 “유효 만기”인 미국 달러 표시 투자 등급 회사채(총칭하여 “2031 채권”) 포트폴리오의 성과를 측정하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BSCY
+이름: Invesco BulletShares 2034 Corporate Bond ETF
+카테고리: Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2034년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 회사채 포트폴리오의 성과를 측정하려고 합니다. 이 펀드는 다양화되지 않습니다.
+
+
+==================================================
+
+티커: BSJQ
+이름: Invesco BulletShares 2026 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2026년(통칭하여 "2026년")에 만기 또는 경우에 따라 "유효 만기"를 갖는 미국 달러 표시 고수익 회사채(일반적으로 "정크 본드"로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. 채권').
+
+
+==================================================
+
+티커: BSJR
+이름: Invesco BulletShares 2027 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2027년(통칭하여 "2027년")에 만기 또는 경우에 따라 "유효 만기"를 갖는 미국 달러 표시 고수익 회사채(일반적으로 "정크 본드"로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. 채권').
+
+
+==================================================
+
+티커: BSJP
+이름: Invesco BulletShares 2025 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2025년(통칭하여 "2025년")에 만기 또는 경우에 따라 "유효 만기"를 갖는 미국 달러 표시 고수익 회사채(일반적으로 "정크 본드"로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. 채권').
+
+편입종목 상위 5개:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 8.97%
+
+==================================================
+
+티커: BSJO
+이름: Invesco BulletShares 2024 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2024년(통칭하여 "2024년")에 만기 또는 경우에 따라 "유효 만기"를 갖는 미국 달러 표시 고수익 회사채(일반적으로 "정크 본드"로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. 채권').
+
+
+==================================================
+
+티커: BSEP
+이름: Innovator U.S. Equity Buffer ETF - September
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산의 80% 이상을 SPDR® S&P 500® ETF Trust(“기초 ETF”)를 참조하는 FLexible EXchange® 옵션(“FLEX 옵션”)에 투자합니다. FLEX 옵션은 고유하게 사용자 정의 가능한 조건을 갖춘 거래소에서 거래되는 옵션 계약입니다. Options Clearing Corporation("OCC")에 의해 결제가 보장되기는 하지만 FLEX 옵션은 여전히 ​​OCC의 거래상대방 위험에 노출되어 있으며 전통적인 장내 거래 옵션보다 유동성이 낮을 수 있습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BSJU
+이름: Invesco Bulletshares 2030 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 지수를 구성하는 증권에 투자합니다. 이 지수는 2030년의 만기 또는 경우에 따라 “유효 만기”의 미국 달러 표시 고수익 회사채(일반적으로 “정크 본드”로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. .
+
+
+==================================================
+
+티커: BSJT
+이름: Invesco BulletShares 2029 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2029년(통칭하여 "2029년")에 만기 또는 경우에 따라 "유효 만기"를 갖는 미국 달러 표시 고수익 회사채(일반적으로 "정크 본드"로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. 채권”). 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 0.88%
+
+==================================================
+
+티커: BSJS
+이름: Invesco BulletShares 2028 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 이 지수는 2028년에 만기가 있거나 경우에 따라 '유효 만기'인 미국 달러 표시 고수익 회사채(일반적으로 "정크 본드"로 알려짐) 포트폴리오의 성과를 측정하려고 합니다. 모든 것을 매입하지는 않습니다. 지수에 포함된 증권의 수; 대신에 펀드는 투자 목적을 달성하기 위해 "샘플링" 방법론을 활용합니다.
+
+편입종목 상위 5개:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 1.15%
+
+==================================================
+
+티커: BSJW
+이름: Invesco BulletShares 2032 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2032년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 고수익 회사채 포트폴리오의 성과를 측정하려고 합니다. 이 펀드는 다양화되지 않습니다.
+
+
+==================================================
+
+티커: BSMO
+이름: Invesco BulletShares (R) 2024 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2024년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채 포트폴리오(총칭하여 "2024 채권")의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSJV
+이름: Invesco BulletShares 2031 High Yield Corporate Bond ETF
+카테고리: High Yield Bond
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2031년 만기 또는 경우에 따라 "유효 만기"인 미국 달러 표시 고수익 회사채 포트폴리오의 성과를 측정하려고 합니다. 이 펀드는 다양화되지 않습니다.
+
+
+==================================================
+
+티커: BSMC
+이름: Brandes U.S. Small-Mid Cap Value ETF
+카테고리: Small Value
+
+설명:
+이 펀드는 소규모와 중규모 시장 자본금(공개적으로 거래되는 주식 증권의 시장 가치)을 가진 미국 기업의 주식 증권에 주로 투자하여 투자 목표를 달성하는 것을 목표로 하는 적극적으로 관리되는 거래소 상장 펀드("ETF")입니다.
+
+편입종목 상위 5개:
+- JPMorgan US Treasury Plus MMkt Capital (JTCXX): 5.67%
+- Amdocs Ltd (DOX): 2.93%
+- Premier Inc Class A (PINC): 2.45%
+- Edgewell Personal Care Co (EPC): 2.32%
+- Netgear Inc (NTGR): 2.06%
+
+==================================================
+
+티커: BSMP
+이름: Invesco BulletShares (R) 2025 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+이 펀드는 일반적으로 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기초 지수는 2025년에 만기 또는 어떤 경우에는 "실질 만기"가 있는 미국 달러화 표시 투자 등급 지방 채권 포트폴리오의 성과를 측정하고자 합니다(총칭하여 "2025 채권").
+
+
+==================================================
+
+티커: BSMR
+이름: Invesco BulletShares (R) 2027 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2027년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채 포트폴리오(총칭하여 "2027 채권")의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSMS
+이름: Invesco BulletShares (R) 2028 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+이 펀드는 일반적으로 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기초 지수는 2028년에 만기 또는 어떤 경우에는 "실질 만기"가 있는 미국 달러화 표시 투자 등급 지방 채권 포트폴리오의 성과를 측정하고자 합니다(총칭하여 "2028 채권").
+
+
+==================================================
+
+티커: BSMQ
+이름: Invesco BulletShares (R) 2026 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2026년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채(통칭하여 "2026 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSMT
+이름: Invesco BulletShares 2029 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2029년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채(통칭하여 "2029 채권") 포트폴리오의 성과를 측정하려고 합니다.
+
+
+==================================================
+
+티커: BSMU
+이름: Invesco BulletShares 2030 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2030년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채(총칭하여 "2030 채권") 포트폴리오의 성과를 측정하려고 합니다. 지수의 모든 증권을 구매하지는 않습니다. 대신에 펀드는 투자 목적을 달성하기 위해 "샘플링" 방법론을 활용합니다.
+
+
+==================================================
+
+티커: BSMW
+이름: Invesco Bulletshares 2032 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2032년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채(통칭하여 "2032 채권") 포트폴리오의 성과를 측정하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BSSX
+이름: Invesco Bulletshares 2033 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2033년에 만기 또는 경우에 따라 "유효 만기"가 있는 미국 달러 표시 투자 등급 지방채 포트폴리오의 성과를 측정하려고 합니다. 이 펀드는 다양화되지 않습니다.
+
+
+==================================================
+
+티커: BSMV
+이름: Invesco BulletShares 2031 Municipal Bond ETF
+카테고리: Muni Target Maturity
+
+설명:
+일반적으로 펀드는 총 자산의 최소 80%를 기초 지수를 구성하는 증권에 투자합니다. 기본 지수는 2031년에 만기가 있거나 경우에 따라 "유효 만기"인 미국 달러 표시 투자 등급 지방채(통칭하여 "2031 채권") 포트폴리오의 성과를 측정하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BSR
+이름: Beacon Selective Risk ETF
+카테고리: Tactical Allocation
+
+설명:
+이 펀드는 적극적으로 거래할 수 있는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 펀드 자문가는 "펀드 오브 펀드" 접근 방식을 사용하며 Vanguard Sector 상장지수펀드의 주식에 투자하여 펀드의 투자 목적을 달성하려고 합니다.
+
+편입종목 상위 5개:
+- Vanguard Information Technology ETF (VGT): 11.06%
+- Vanguard Communication Services ETF (VOX): 10.76%
+- Vanguard Financials ETF (VFH): 9.51%
+- Vanguard Industrials ETF (VIS): 9.33%
+- Vanguard Energy ETF (VDE): 9.24%
+
+==================================================
+
+티커: BSTP
+이름: Innovator Buffer Step-Up Strategy ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust(“기초 ETF”)에 위험 관리 투자 노출을 제공하고자 하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 이는 기초 ETF의 상장지수 옵션 계약에 자산의 대부분을 투자함으로써 투자 목적을 달성하고자 합니다. 자문가는 만기일이 1년인 기초 ETF를 참조하는 FLexible EXchange® 옵션으로 구성된 옵션 포트폴리오를 통해 투자 전략을 실행할 계획입니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BSVO
+이름: EA Bridgeway Omni Small-Cap Value ETF
+카테고리: Small Value
+
+설명:
+이 펀드는 하위 자문가가 가치주로 판단하는 광범위하고 다양한 소형주 그룹에 주로 투자함으로써 투자 목적을 달성하고자 합니다. 정상적인 상황에서 펀드는 순자산(투자 목적 차입금 포함)의 80%를 매입 시점에 소형 기업의 주식 또는 주식 관련 증권(“보통주”)에 투자합니다.
+
+편입종목 상위 5개:
+- SkyWest Inc (SKYW): 1.11%
+- Golden Ocean Group Ltd (GOGL.OL): 0.96%
+- United States Cellular Corp (USM): 0.90%
+- Warrior Met Coal Inc (HCC): 0.83%
+- Teekay Tankers Ltd Class A (TNK): 0.81%
+
+==================================================
+
+티커: BTAL
+이름: AGF U.S. Market Neutral Anti-Beta Fund
+카테고리: Equity Market Neutral
+
+설명:
+이 펀드는 부문 내에서 달러 중립 기준으로 베타가 낮은 미국 주식에 대한 매수 포지션과 베타가 높은 미국 주식에 대한 매도 포지션에 주로 투자할 것입니다. 다우존스 미국 주제별 시장 중립 로우 베타 지수의 구성 증권에 주로 지수에 나타나는 것과 동일한 가중치로 투자함으로써 미국 주식의 롱 및 숏 포지션으로 구성된 달러 중립 포트폴리오를 구축할 것입니다. 지수의 유니버스는 REIT를 포함하여 시가총액 기준으로 상위 1,000개의 적격 증권으로 구성됩니다.
+
+편입종목 상위 5개:
+- Chewy Inc (CHWY): 0.68%
+- Sarepta Therapeutics Inc (SRPT): 0.58%
+- Rivian Automotive Inc Class A (RIVN): 0.54%
+- PENN Entertainment Inc (PENN): 0.54%
+- Texas Pacific Land Corp (TPL): 0.53%
+
+==================================================
+
+티커: BTCO
+이름: Invesco Galaxy Bitcoin ETF
+카테고리: Digital Assets
+
+설명:
+벤치마크는 주요 시장에서의 비트코인 ​​실행 가격을 기반으로 비트코인의 예상 공정 시장 가치 가격을 제공하도록 설계되었습니다. 신탁이 보유한 비트코인의 가치는 비트코인의 추정 공정 시장 가치(“FMV”) 가격을 기준으로 결정되며, 이는 독립적인 제3자인 Lukka Inc.가 매일 결정하는 주요 시장의 비트코인 ​​실행 가격을 반영합니다. 디지털 자산 데이터 회사입니다.
+
+
+==================================================
+
+티커: BTCW
+이름: WisdomTree Bitcoin Fund
+카테고리: Digital Assets
+
+설명:
+투자 목적을 달성하기 위해 신탁은 비트코인을 보유할 것이며 CME CF 비트코인 ​​기준율 – 뉴욕 변형(“기준율”)에 반영된 비트코인 ​​가치를 기준으로 매일 주식의 가치를 평가할 것입니다. 주요 비트코인 ​​현물 플랫폼의 실행된 거래 흐름을 집계하여 계산된 가치입니다.
+
+
+==================================================
+
+티커: BSV
+이름: Vanguard Short-Term Bond Index Fund ETF Shares
+카테고리: Short-Term Bond
+
+설명:
+이 지수에는 공개 발행된 1~5년 만기의 미국 정부, 투자 등급 기업, 투자 등급 국제 달러 표시 채권의 모든 중대형 발행이 포함됩니다. 펀드의 모든 투자는 샘플링 과정을 통해 선택되며 자산의 최소 80%는 지수에 포함된 채권에 투자됩니다.
+
+
+==================================================
+
+티커: BTCL
+이름: T-Rex 2X Long Bitcoin Daily Target ETF
+카테고리: Trading--Miscellaneous
+
+설명:
+정상적인 상황에서 펀드는 순자산의 최소 80%에 해당하는 기준 자산에 대해 일일 200% 노출을 제공하는 스왑 계약에 투자합니다. 주요 글로벌 금융 기관과 하나 이상의 스왑 계약을 체결하여 펀드와 글로벌 금융 기관이 투자에서 얻은 수익을 교환하는 데 동의합니다. 펀드는 매일 동일한 기준 자산에 투자하여 펀드 순자산 가치의 200%. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BTCZ
+이름: T-Rex 2X Inverse Bitcoin Daily Target ETF
+카테고리: Trading--Miscellaneous
+
+설명:
+정상적인 상황에서 펀드는 펀드 순자산(투자 목적 차입금 포함)의 최소 80%에 해당하는 기준 자산에 대한 200% 역(반대) 일일 노출을 제공하는 스왑 계약에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BTEK
+이름: BlackRock Future Tech ETF
+카테고리: Technology
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 80% 이상과 투자 목적의 차입금을 모든 시가총액 범위의 미국 및 비미국 기술 및 기술 관련 기업이 발행한 지분증권에 투자합니다. 기술의 개발, 발전 및 사용을 통한 지속 가능한 성장 잠재력. 신흥 시장에 위치한 회사를 포함하여 전 세계 어느 곳에든 위치한 모든 시가총액의 회사에 투자할 수 있습니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 10.24%
+- Synopsys Inc (SNPS): 3.47%
+- ASM International NV (ASM.AS): 3.43%
+- SK Hynix Inc (000660.KS): 3.22%
+- Pure Storage Inc Class A (PSTG): 2.56%
+
+==================================================
+
+티커: BTFX
+이름: Valkyrie Bitcoin Futures Leveraged Strategy ETF
+카테고리: Digital Assets
+
+설명:
+본 펀드는 현재 시카고상업거래소인 상품선물거래위원회(Commodity Futures Trading Commission)에 등록된 거래소에서만 거래되는 현금결제형 비트코인 ​​선물계약에 주로 자산을 투자하여 투자목적을 달성하고자 하는 ETF입니다. 비트코인 선물 계약에 대한 펀드 투자에 대한 담보 역할을 하는 상품이나 고품질 증권과 같습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Treasury Obligs X (FXFXX): 10.05%
+
+==================================================
+
+티커: BTF
+이름: Valkyrie Bitcoin and Ether Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 비트코인과 이더리움에 대한 상장지수 선물 계약(통칭하여 “비트코인 및 이더리움 선물”)에 자산의 전부 또는 실질적 전부를 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 계약”) 및 “담보 투자. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- First American Treasury Obligs X (FXFXX): 55.20%
+
+==================================================
+
+티커: BTEC
+이름: Principal Healthcare Innovators ETF
+카테고리: Health
+
+설명:
+정상적인 상황에서 이 펀드는 순자산의 80% 이상과 투자 목적의 차입금을 의료 부문 기업의 지분 증권에 투자합니다. 아직 지속적으로 수익성이 좋지 않은 의료 장비 및 용품, 제약, 생명공학, 생명과학 산업 분야의 초기 단계 기업에 막대한 투자를 하고 있습니다.
+
+편입종목 상위 5개:
+- Alnylam Pharmaceuticals Inc (ALNY): 5.20%
+- Moderna Inc (MRNA): 3.58%
+- Sarepta Therapeutics Inc (SRPT): 3.19%
+- Natera Inc (NTRA): 2.82%
+- Illumina Inc (ILMN): 2.44%
+
+==================================================
+
+티커: BTOP
+이름: Bitwise Bitcoin And Ether Equal Weight Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 적극적으로 거래할 수 있는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 펀드 자문가는 "펀드 오브 펀드" 접근 방식을 사용하며 시장 부문 상장지수펀드의 지분에 투자함으로써 펀드의 투자 목적을 달성하려고 합니다.
+
+편입종목 상위 5개:
+- DWS Government Money Market Series Instl (ICAXX): 66.28%
+
+==================================================
+
+티커: BTHM
+이름: Blackrock Future U.S. Themes ETF
+카테고리: Large Growth
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%와 투자 목적의 모든 차입금을 BFA가 평균 이상의 수익 성장 잠재력이 있다고 믿는 미국 주식 증권에 투자합니다. 주식 증권에는 보통주, 우선주, 전환 증권, 워런트 및 예탁증서가 포함되며, 가격은 보통주 가치에 연동됩니다. 이 펀드는 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 8.72%
+- Microsoft Corp (MSFT): 6.97%
+- Apple Inc (AAPL): 4.87%
+- Amazon.com Inc (AMZN): 3.99%
+- TJX Companies Inc (TJX): 3.30%
+
+==================================================
+
+티커: BTRN
+이름: Global X Bitcoin Trend Strategy ETF
+카테고리: Digital Assets
+
+설명:
+이 펀드는 총 자산의 최소 80%와 투자 목적의 차입금을 지수 구성 요소와, 자문자가 기본 지수를 구성하는 구성 요소의 경제적 특성과 실질적으로 동일한 경제적 특성을 지닌 것으로 판단하는 기타 증권(예: 미국 상장 비트코인 ​​선물 ETF)에 투자합니다. 이 펀드는 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- Global X 1-3 Month T-Bill ETF (CLIP): 67.97%
+
+==================================================
+
+티커: BUCK
+이름: Simplify Stable Income ETF
+카테고리: Intermediate Government
+
+설명:
+펀드의 투자 자문가는 (1) 이자 소득 전략과 (2) 소득 창출 옵션 전략이라는 두 가지 소득 전략을 사용하여 펀드의 투자 목적을 달성하려고 합니다. 이 펀드는 주로 미국 국채에 투자하는 채권, 채권, 채권 등 미국 재무부 증권을 생산하는 이자 소득과 채권 ETF에 투자합니다. 추가 수익을 창출하기 위해 이 펀드는 주식 ETF와 채권 ETF에 대한 옵션 스프레드 쓰기 전략을 사용합니다.
+
+
+==================================================
+
+티커: BUFB
+이름: Innovator Laddered Allocation Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산(투자 차입 포함)의 최소 80%를 지수를 구성하는 ETF에 투자합니다. 이 지수는 기초 ETF에 "사다리형" 투자를 제공하려고 합니다. 사다리 투자는 단일 투자에 대한 투자와 관련된 타이밍 위험을 완화하려는 목표로 재설정 날짜가 다른 여러 유사한 증권에 투자하는 것을 말합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Innovator U.S. Equity Buffer ETF™- May (BMAY): 8.47%
+- Innovator U.S. Equity Buffer ETF Aug (BAUG): 8.42%
+- Innovator U.S. Equity Buffer ETF™ - Apr (BAPR): 8.36%
+- Innovator U.S. Equity Buffer ETF™ - Mar (BMAR): 8.36%
+- Innovator US Equity Buffer ETF-Sep (BSEP): 8.33%
+
+==================================================
+
+티커: BUFC
+이름: AB Conservative Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 정상적인 조건에서 기본 ETF에 대한 상장지수 옵션 계약의 조합에 자산의 대부분을 투자함으로써 투자 목적을 달성하려고 합니다. 기본 ETF(처음에는 SPDR® S&P 500® ETF Trust로 예상됨)는 다음과 같이 미국 주식 시장의 대규모 자본 부문의 성과를 측정하는 S&P 500 지수의 투자 결과를 추적하려는 ETF입니다. S&P Dow Jones Indices LLC에 의해 결정됩니다. 펀드는 다양화되지 않았습니다.
+
+
+==================================================
+
+티커: BTR
+이름: Beacon Tactical Risk ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 적극적으로 거래할 수 있는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 펀드 자문가는 "펀드 오브 펀드" 접근 방식을 사용하며 시장 부문 상장지수펀드의 지분에 투자함으로써 펀드의 투자 목적을 달성하려고 합니다.
+
+편입종목 상위 5개:
+- Vanguard Information Technology ETF (VGT): 9.65%
+- Vanguard Utilities ETF (VPU): 9.46%
+- Vanguard Communication Services ETF (VOX): 9.29%
+- Vanguard Energy ETF (VDE): 9.24%
+- Vanguard Industrials ETF (VIS): 9.09%
+
+==================================================
+
+티커: BUFF
+이름: Innovator Laddered Allocation Power Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 순자산(투자 차입 포함)의 80% 이상을 지수를 구성하는 상장지수펀드("ETF")에 투자합니다. 이 지수는 12개의 Innovator U.S. Equity Power Buffer ETF 주식으로 구성됩니다. 펀드는 지수에 따라 각 기초 ETF에 지속적으로 투자되며, 기초 ETF에 동일한 가중치를 부여하기 위해 기초 ETF를 매매하여 반기마다 재조정됩니다.
+
+편입종목 상위 5개:
+- Innovator U.S. Equity PowerBffrETF™-Apr (PAPR): 8.43%
+- Innovator U.S. Equity Power BffrETF™-May (PMAY): 8.40%
+- Innovator U.S. Equity Power BufferETFAug (PAUG): 8.39%
+- Innovator U.S. Equity Power BffrETF™-Mar (PMAR): 8.39%
+- Innovator US Equity Power Buff ETF™ Jan (PJAN): 8.35%
+
+==================================================
+
+티커: BUFD
+이름: FT Vest Laddered Deep Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 투자자들에게 미국 대형주 주식 시장 노출을 제공하는 동시에 12개의 FT Cboe Vest U.S. Equity Deep Buffer ETF로 구성된 포트폴리오를 통해 하락 위험을 제한함으로써 투자 목표를 달성하고자 합니다. "사다리형 포트폴리오"라는 용어는 롤링 또는 주기적으로 발생하는 목표 결과 기간 만료일이 있는 여러 기본 ETF에 대한 펀드의 투자를 의미합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest US Equity Deep Bffr ETF May (DMAY): 8.38%
+- FT Cboe Vest US Equity Deep Bffr ETF Mar (DMAR): 8.37%
+- FT Cboe Vest US Equity Dp Bffr ETF Apr (DAPR): 8.36%
+- FT Cboe Vest US Equity Deep Bffr ETF Feb (DFEB): 8.36%
+- FT Cboe Vest US Equity Dp Bffr ETF Jan (DJAN): 8.35%
+
+==================================================
+
+티커: BUFG
+이름: FT Cboe Vest Buffered Allocation Growth ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust("SPY")의 가격 수익률을 기준으로 투자자에게 수익(수수료 및 비용 전)을 제공하는 ETF 포트폴리오에 투자하여 투자 목표를 달성하려고 합니다. 정의된 1년 기간 동안 SPY 손실에 대해 정의된 완충 장치를 제공하면서 미리 결정된 한도를 제공합니다. SPY의 투자 목적은 비용 이전에 일반적으로 S&P 500® 지수의 가격 및 수익률 성과에 상응하는 투자 결과를 제공하는 것입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest US Equity Buffer ETF Jun (FJUN): 15.75%
+- FT Cboe Vest US Equity Buffer ETF May (FMAY): 15.24%
+- FT Cboe Vest US Equity Buffer ETF Mar (FMAR): 14.94%
+- FT Cboe Vest US Equity Buffer ETF Feb (FFEB): 14.14%
+- FT Cboe Vest US Equity Buffer ETF Apr (FAPR): 13.65%
+
+==================================================
+
+티커: BUFP
+이름: PGIM Laddered Fund of Buffer 12 ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 투자자에게 미국 대형주 주식 시장 노출을 제공하는 동시에 '사다리형 포트폴리오'를 통해 하방 위험을 제한함으로써 투자 목적을 달성하고자 합니다. 12개의 PGIM US Large-Cap Buffer 12 ETF 중. 정상적인 시장 상황에서 펀드는 순자산(투자 목적 차입금 포함)의 최소 80%를 ETF에 투자합니다.
+
+편입종목 상위 5개:
+- PGIM US Large-Cap Buffer 12 ETF - April (APRP): 8.34%
+- PGIM US Large-Cap Buffer 12 ETF - March (MRCP): 8.33%
+- PGIM US Large-Cap Buffer 12 ETF - June (JUNP): 8.32%
+- PGIM US Large-Cap Buffer 12 ETF - May (MAYP): 8.31%
+- PGIM US Large-Cap Buffer 12 ETF - Dec (DECP): 8.30%
+
+==================================================
+
+티커: BUFQ
+이름: FT Vest Laddered Nasdaq Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 4개의 FT Cboe Vest Nasdaq-100® Buffer ETF로 구성된 포트폴리오를 통해 하락 위험을 제한하면서 투자자들에게 대규모 주식 시장 노출을 제공함으로써 투자 목표를 달성하고자 합니다. 기본 ETF는 실질적으로 모든 자산을 QQQ의 FLEX 옵션에 투자합니다. FLEX 옵션은 Options Clearing Corporation이 정산을 보장하는 맞춤형 거래소 거래 옵션 계약입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest Nasdaq-100 Buffer ETF – Dec (QDEC): 25.02%
+- FT Cboe Vest Nasdaq-100 Buffer ETF – Mar (QMAR): 25.01%
+- FT Cboe Vest Nasdaq-100® Buffer ETF Sep (QSPT): 24.98%
+- FT Cboe Vest Nasdaq-100 Buffer ETF - Jun (QJUN): 24.95%
+- Morgan Stanley Instl Lqudty Trs Instl (MISXX): 0.03%
+
+==================================================
+
+티커: BUFR
+이름: FT Vest Laddered Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 투자자들에게 미국 대형주 주식 시장 노출을 제공하는 동시에 12개의 FT Cboe Vest U.S. Equity Buffer ETF로 구성된 포트폴리오를 통해 하락 위험을 제한함으로써 투자 목표를 달성하고자 합니다. 정상적인 시장 상황에서 이 회사는 실질적으로 모든 자산을 기초 ETF에 투자할 것입니다. 이 ETF는 투자자에게 SPDR S&P 500 ETF Trust의 가격 수익률과 일치하는 수익률을 사전에 결정된 상승 상한선까지 제공하는 동시에 이에 대한 완충 장치를 제공하려고 합니다. 정의된 1년 기간 동안 SPY 손실의 처음 10%. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest US Equity Buffer ETF May (FMAY): 8.37%
+- FT Cboe Vest US Equity Buffer ETF Mar (FMAR): 8.37%
+- FT Cboe Vest US Equity Buffer ETF Apr (FAPR): 8.36%
+- FT Cboe Vest US Equity Buffer ETF Feb (FFEB): 8.36%
+- FT Cboe Vest US Equity Buffer ETF Jan (FJAN): 8.35%
+
+==================================================
+
+티커: BUFS
+이름: N/A
+카테고리: Options Trading
+
+설명:
+"사다리형 포트폴리오"라는 용어는 롤링 또는 주기적으로 발생하는 목표 결과 기간 만료일이 있는 여러 기본 ETF에 대한 펀드의 투자를 의미합니다. 기본 ETF는 IWM의 FLexible EXchange® 옵션(“FLEX 옵션”)에 자산의 대부분을 투자합니다. FLEX 옵션은 옵션 청산 회사의 결제를 보장하는 맞춤형 장내 거래 옵션 계약입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest U.S. Sm Cp Mod Buf ETF -Nov (SNOV): 25.09%
+- FT Cboe Vest US Sm Cp Mod Buffr ETF- May (SMAY): 25.02%
+- FT Cboe Vest U.S. Sm Cp Mod Buf ETF -Aug (SAUG): 24.97%
+- FT Vest U.S. Small Cap Mod Buf ETF-Feb (SFEB): 24.87%
+
+==================================================
+
+티커: BUG
+이름: Global X Cybersecurity ETF
+카테고리: Technology
+
+설명:
+이 펀드는 총 자산의 80% 이상을 기본 지수의 증권과 해당 지수의 증권을 기반으로 하는 미국예탁증서("ADR") 및 글로벌예탁증서("GDR")에 투자합니다. 기본 지수는 사이버 보안 기술 채택 증가로 이익을 얻을 수 있는 상장 기업에 대한 노출을 제공하도록 설계되었습니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- CrowdStrike Holdings Inc Class A (CRWD): 7.35%
+- Palo Alto Networks Inc (PANW): 6.69%
+- Check Point Software Technologies Ltd (CHKP): 6.43%
+- Zscaler Inc (ZS): 6.35%
+- Okta Inc Class A (OKTA): 5.71%
+
+==================================================
+
+티커: BUFT
+이름: FT Cboe Vest Buffered Allocation Defensive ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 SPDR® S&P 500® ETF Trust의 가격 수익률을 기반으로 투자자에게 수익(수수료 및 비용 전)을 제공하고자 하는 상장지수펀드("ETF") 포트폴리오에 투자하여 투자 목표를 달성하려고 합니다. (“SPY”), 미리 결정된 한도까지, 정의된 1년 기간 동안 SPY 손실에 대해 정의된 완충 장치를 제공합니다(“기초 ETF”). 정상적인 시장 상황에서는 실질적으로 모든 자산을 기초 ETF에 투자합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest US Eq Enh & Mod Buf ETF-Oct (XOCT): 17.25%
+- FT Cboe Vest U.S. Eq Enh & ModBufETF-Sep (XSEP): 15.45%
+- FT Cboe Vest U.S. Eq Mod Buffr ETF - Oct (GOCT): 14.45%
+- FT Cboe Vest US Equity Deep Bffr ETF Oct (DOCT): 14.36%
+- FT Cboe Vest US Eq Enh & Mod Buf ETF-Nov (XNOV): 13.06%
+
+==================================================
+
+티커: BUFZ
+이름: FT Cboe Vest Laddered Moderate Buffer ETF
+카테고리: Options Trading
+
+설명:
+이 펀드는 FT Cboe Vest U.S. Equity Moderate Buffer ETF의 사다리형 포트폴리오를 통해 하락 위험을 제한하는 동시에 미국 대형 주식 시장 노출을 투자자에게 제공하여 투자 목표를 달성하고자 합니다. "사다리형 포트폴리오"라는 용어는 롤링 또는 주기적 방식으로 발생하는 목표 결과 기간 만료일이 있는 여러 기초 ETF에 대한 투자를 말합니다. 이 펀드는 분산되지 않습니다.
+
+편입종목 상위 5개:
+- FT Cboe Vest U.S. Eq Mod Buffr ETF - Feb (GFEB): 8.37%
+- FT Cboe Vest U.S. Eq Mod Buffr ETF - May (GMAY): 8.37%
+- FT Cboe Vest U.S. Eq Mod Buffr ETF - Mar (GMAR): 8.36%
+- FT Cboe Vest U.S. Eq Mod Buf ETF - Apr (GAPR): 8.35%
+- FT Cboe Vest U.S. Eq Mod Buffr ETF - Jan (GJAN): 8.34%
+
+==================================================
+
+티커: BULZ
+이름: MicroSectors Solactive FANG Innovation 3X Leveraged ETNs
+카테고리: Trading--Leveraged Equity
+
+설명:
+가능한 설명이 없습니다.
+
+편입종목 상위 5개:
+- Advanced Micro Devices Inc (AMD): 6.67%
+- Alphabet Inc Class A (GOOGL): 6.67%
+- Amazon.com Inc (AMZN): 6.67%
+- Apple Inc (AAPL): 6.67%
+- Broadcom Inc (AVGO): 6.67%
+
+==================================================
+
+티커: BUSA
+이름: Brandes U.S. Value ETF
+카테고리: Large Value
+
+설명:
+이 펀드는 주로 미국 기업의 지분증권에 투자하여 투자 목적을 달성하고자 하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 정상적인 시장 상황에서 펀드는 구매 시점을 기준으로 순자산(투자 목적 차입금 포함)의 최소 80%를 미국 기업의 증권에 투자합니다.
+
+편입종목 상위 5개:
+- Chevron Corp (CVX): 3.60%
+- Bank of America Corp (BAC): 3.09%
+- Wells Fargo & Co (WFC): 2.98%
+- Alphabet Inc Class C (GOOG): 2.93%
+- Merck & Co Inc (MRK): 2.70%
+
+==================================================
+
+티커: BUL
+이름: Pacer US Cash Cows Growth ETF
+카테고리: Mid-Cap Blend
+
+설명:
+이 지수는 객관적인 규칙 기반 방법론을 사용하여 잉여현금흐름 수익률이 높은 미국 중대형 자본 기업에 대한 노출을 제공합니다. 정상적인 상황에서는 펀드 총 자산(증권 대출로 보유한 담보 제외)의 최소 80%가 지수 구성 증권에 투자됩니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Salesforce Inc (CRM): 5.53%
+- Booking Holdings Inc (BKNG): 5.12%
+- Meta Platforms Inc Class A (META): 4.99%
+- Fortinet Inc (FTNT): 4.94%
+- D.R. Horton Inc (DHI): 4.92%
+
+==================================================
+
+티커: BUXX
+이름: Strive Enhanced Income Short Maturity ETF
+카테고리: Ultrashort Bond
+
+설명:
+이 펀드는 강화된 현금 전략을 사용하여 정상적인 상황에서 순자산의 최소 80%를 미국 달러 표시에 투자함으로써 투자 목표를 달성하고자 하는 적극적으로 관리되는 상장지수펀드(“ETF”)입니다. 투자등급 고정 및 변동금리 채권, 채무증권입니다. 정상적인 상황에서 이 펀드는 2년 미만의 달러 가중 평균 만기와 1년 미만의 달러 가중 평균 듀레이션을 유지하려고 합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- First American Government Obligs X (FGXXX): 4.60%
+
+==================================================
+
+티커: BUYW
+이름: Main Buywrite ETF
+카테고리: Derivative Income
+
+설명:
+이 펀드는 국내외 상장지수펀드(ETF)에 투자하여 투자자에게 시간이 지남에 따라 국내외 주식시장에 대한 지속적인 노출을 제공합니다. 또한 이 펀드는 옵션 프리미엄에서 추가 수익을 창출하기 위해 펀드가 소유한 증권에 콜 옵션을 매도(매도)하는 투자 전략인 Adviser의 "BuyWrite" 전략을 사용합니다. 펀드는 또한 담보부 풋옵션을 발행(매도)하여 수익을 추구합니다.
+
+편입종목 상위 5개:
+- SPDR® S&P 500® ETF Trust (SPY): 57.06%
+- VanEck Semiconductor ETF (SMH): 15.77%
+- The CommunicationServicesSelSectSPDR®ETF (XLC): 12.25%
+- SPDR® S&P Biotech ETF (XBI): 11.73%
+- The Utilities Select Sector SPDR® ETF (XLU): 10.81%
+
+==================================================
+
+티커: BULD
+이름: Pacer BlueStar Engineering the Future ETF
+카테고리: Technology
+
+설명:
+이 지수는 지수 제공자가 결정한 대로 로봇 공학 및 3D 인쇄 회사에서 수익의 최소 50%를 창출하는 기업의 전 세계 상장 주식과 예탁증서로 구성된 규칙 기반 지수입니다. 펀드 자문사는 일반적으로 투자 목적을 달성하기 위해 "복제" 전략을 사용합니다. 즉, 지수의 모든 구성 증권에 투자한다는 의미입니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Autodesk Inc (ADSK): 8.85%
+- ASML Holding NV ADR (ASML): 7.84%
+- Applied Materials Inc (AMAT): 5.90%
+- Dassault Systemes SE (DSY.PA): 5.58%
+- Siemens AG (SIE.DE): 5.17%
+
+==================================================
+
+티커: BUYZ
+이름: Franklin Disruptive Commerce ETF
+카테고리: Global Large-Stock Growth
+
+설명:
+정상적인 시장 상황에서 이 펀드는 순자산의 최소 80%를 파괴적 상업이라는 투자 테마와 관련된 회사의 지분 증권에 투자합니다. 본 펀드는 주로 보통주에 투자합니다. 이 펀드는 경제 부문 전반에 걸쳐 투자할 수 있지만 임의 소비재 관련 산업에 투자를 집중합니다. 다양하지 않습니다.
+
+편입종목 상위 5개:
+- Amazon.com Inc (AMZN): 10.05%
+- Uber Technologies Inc (UBER): 7.31%
+- Costco Wholesale Corp (COST): 6.18%
+- Shopify Inc Registered Shs -A- Subord Vtg (SHOP): 5.69%
+- W.W. Grainger Inc (GWW): 4.81%
+
+==================================================
+
+티커: BWEB
+이름: Bitwise Web3 ETF
+카테고리: Technology
+
+설명:
+정상적인 시장 상황에서 펀드는 일반적으로 순자산과 차입금의 거의 전부(최소 80%)를 지수를 구성하는 증권에 투자합니다. 이 지수는 Web3 및 Web3 기술의 출현으로 이익을 얻을 수 있는 좋은 위치에 있는 기업의 지분 증권에 대한 집중적인 노출을 제공합니다. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Shopify Inc Registered Shs -A- Subord Vtg (SHOP): 8.43%
+- Roblox Corp Ordinary Shares - Class A (RBLX): 8.21%
+- Meta Platforms Inc Class A (META): 8.05%
+- Equinix Inc (EQIX): 7.90%
+- Coinbase Global Inc Ordinary Shares - Class A (COIN): 7.16%
+
+==================================================
+
+티커: BUZZ
+이름: VanEck Social Sentiment ETF
+카테고리: Large Growth
+
+설명:
+펀드는 일반적으로 총자산의 최소 80%를 펀드의 벤치마크 지수를 구성하는 증권에 투자합니다. 이 지수는 지수 제공업체가 개발한 규칙 기반 정량적 방법론에 의해 선정된 미국 기업의 보통주로 구성됩니다. 이 방법은 소셜 미디어, 뉴스 기사 등 온라인 소스에서 수집된 가장 "긍정적인 통찰력"을 갖춘 미국 보통주를 식별하도록 설계되었습니다. , 블로그 게시물 및 기타 대체 데이터 세트. 펀드는 다양화되지 않았습니다.
+
+편입종목 상위 5개:
+- Tesla Inc (TSLA): 3.39%
+- Palantir Technologies Inc Ordinary Shares - Class A (PLTR): 3.24%
+- Amazon.com Inc (AMZN): 3.10%
+- Advanced Micro Devices Inc (AMD): 3.07%
+- Apple Inc (AAPL): 3.00%
+
+==================================================
+
+티커: BWET
+이름: Breakwave Tanker Shipping ETF
+카테고리: Commodities Focused
+
+설명:
+화물 선물은 원유 운송의 미래 비용에 대한 시장 기대를 반영합니다. 각 참조 지수는 런던에 본사를 둔 Baltic Exchange Ltd.(“발틱 거래소”)가 영국 영업일마다 발표하며 특정 크기 범주의 화물선과 특정 경로로 원유 운송에 대한 용선료를 측정합니다.
+
+편입종목 상위 5개:
+- Invesco Shrt-Trm Inv Gov&Agcy Instl (AGPXX): 49.33%
+
+==================================================
+
+티커: BWX
+이름: SPDR Bloomberg International Treasury Bond ETF
+카테고리: Global Bond
+
+설명:
+펀드는 일반적으로 총 자산의 거의 전부(80% 이상)를 지수를 구성하는 증권과 자문가가 지수를 구성하는 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 가지고 있다고 판단하는 증권에 투자합니다. 이 지수는 미국 이외의 투자 등급 국가의 고정 금리 현지 통화 국가 부채를 추적하도록 설계되었습니다. 다양하지 않습니다.
+
+
+==================================================
+
+티커: BWTG
+이름: Brendan Wood TopGun ETF
+카테고리: Large Blend
+
+설명:
+이 펀드는 정상적인 시장 상황에서 펀드의 투자 하위 자문사가 제공한 모델 포트폴리오에 포함된 공개 상장 주식 증권에 자산의 상당 부분을 투자하여 투자 목표를 달성하고자 합니다. 모델 구축은 브렌던 우드의 "주주 확신 유니버스"를 구성하는 약 1,400개 회사를 식별하는 것으로 시작하는데, 이는 일반적으로 미국 내 국가 거래소에서 거래되는 ADR을 포함한 유동적인 대형 및 중형 자본화 회사의 주식입니다. 이 펀드는 분산 투자가 아닙니다.
+
+편입종목 상위 5개:
+- NVIDIA Corp (NVDA): 8.74%
+- CrowdStrike Holdings Inc Class A (CRWD): 5.30%
+- ASML Holding NV ADR (ASML): 4.65%
+- Alphabet Inc Class C (GOOG): 4.47%
+- Costco Wholesale Corp (COST): 4.44%
+
+==================================================
+
+티커: BYLD
+이름: iShares Yield Optimized Bond ETF
+카테고리: Intermediate Core-Plus Bond
+
+설명:
+펀드는 자산의 최소 80%를 기초 지수의 구성 증권과 기초 지수의 구성 증권의 경제적 특성과 실질적으로 동일한 경제적 특성을 지닌 예정된 거래(“TBA”)에 투자합니다. 색인. 기본 지수는 장기적 자본 가치 상승을 유지하면서 경상 소득을 제공하고자 하는 광범위하게 분산된 채권 지수입니다.
+
+편입종목 상위 5개:
+- iShares 10+ Year Invmt Grd Corp Bd ETF (IGLB): 20.87%
+- iShares® 0-3 Month Treasury Bond ETF (SGOV): 20.78%
+- iShares Broad USD High Yield Corp Bd ETF (USHY): 19.94%
+- iShares CMBS ETF (CMBS): 10.12%
+- iShares Floating Rate Bond ETF (FLOT): 9.96%
+
+==================================================
+

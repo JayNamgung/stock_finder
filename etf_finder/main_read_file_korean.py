@@ -9,7 +9,7 @@ import concurrent.futures
 from deep_translator import GoogleTranslator
 
 # 사용자가 원하는 ETF 개수를 지정할 수 있는 전역 변수
-ETF_COUNT = 10  # 원하는 ETF 수로 설정
+ETF_COUNT = 3602  # 원하는 ETF 수로 설정
 MAX_WORKERS = 10  # 동시에 실행할 최대 worker 수
 
 # Google Translate 객체 생성
@@ -137,6 +137,23 @@ def process_etf(symbol, processed_etfs):
     print(f"Completed processing {symbol}\n")
     return data
 
+# 새로운 함수: 자연어 처리된 결과물 생성
+def generate_natural_language_summary(data):
+    summaries = []
+    for etf in data:
+        info = etf['info']
+        summary = f"{info['longName']}(티커: {info['symbol']})은 {info['category']} 카테고리에 속하는 ETF입니다. "
+        summary += f"이 ETF에 대한 설명은 다음과 같습니다. {info['longBusinessSummary']}"
+        
+        if etf['top_holdings']:
+            summary += "주요 편입 종목으로는 "
+            holdings = [f"{h['name']}({h['percent']})" for h in etf['top_holdings'][:3]]
+            summary += ", ".join(holdings) + " 등이 있습니다."
+        
+        summaries.append(summary)
+    
+    return "\n\n".join(summaries)
+
 def main():
     symbol_file = "extracted_symbols.txt"  # 추출된 symbol 파일 이름
     print(f"Reading {ETF_COUNT} US ETFs from {symbol_file}...")
@@ -163,10 +180,17 @@ def main():
                 save_all_text(all_etf_data, f"data/etf_data_intermediate_korean_translated_{i}.txt")
     
     # ETF 정보와 top 5 보유 종목을 텍스트 파일로 저장
-    text_filename = "data/etf_data_final_korean_translated.txt"
+    text_filename = "data/etf_data_korean_translated.txt"
     os.makedirs(os.path.dirname(text_filename), exist_ok=True)
     save_all_text(all_etf_data, text_filename)
     print(f"Saved final ETF data to text file: {text_filename}")
+    
+    # 자연어 처리된 결과물 생성 및 저장
+    nl_summary = generate_natural_language_summary(all_etf_data)
+    nl_filename = "data/etf_data_natural_language_summary.txt"
+    with open(nl_filename, 'w', encoding='utf-8') as f:
+        f.write(nl_summary)
+    print(f"Saved natural language summary to: {nl_filename}")
 
 if __name__ == "__main__":
     main()
