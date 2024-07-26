@@ -1,6 +1,6 @@
 import os
 import time
-import pandas as pd
+import numpy as np
 import random
 import json
 import concurrent.futures
@@ -47,6 +47,12 @@ def safe_get(dictionary, key, default=""):
         return default
     return value
 
+def safe_get(dictionary, key, default=""):
+    value = dictionary.get(key, default)
+    if value in ["N/A", "None", None, "nan"] or (isinstance(value, float) and np.isnan(value)):
+        return default
+    return value
+
 def get_financial_data(ticker):
     try:
         income_stmt = ticker.financials
@@ -58,7 +64,7 @@ def get_financial_data(ticker):
             latest_balance = balance_sheet.iloc[:, 0]
             latest_cash_flow = cash_flow.iloc[:, 0]
             
-            return {
+            financials = {
                 "매출액": safe_get(latest_income, "Total Revenue", 0),
                 "영업이익": safe_get(latest_income, "Operating Income", 0),
                 "순이익": safe_get(latest_income, "Net Income", 0),
@@ -73,9 +79,22 @@ def get_financial_data(ticker):
                 "재무활동현금흐름": safe_get(latest_cash_flow, "Financing Cash Flow", 0),
                 "잉여현금흐름": safe_get(latest_cash_flow, "Free Cash Flow", 0),
                 "현금및현금성자산": safe_get(latest_balance, "Cash And Cash Equivalents", 0),
-                "부채비율": safe_get(latest_balance, "Total Liabilities Net Minority Interest", 0) / safe_get(latest_balance, "Total Assets", 1) * 100,
-                "유동비율": safe_get(latest_balance, "Current Assets", 0) / safe_get(latest_balance, "Current Liabilities", 1) * 100,
             }
+            
+            # 부채비율과 유동비율 계산 (0으로 나누는 경우 방지)
+            total_assets = financials["총자산"]
+            current_liabilities = financials["유동부채"]
+            if total_assets != 0:
+                financials["부채비율"] = (financials["총부채"] / total_assets) * 100
+            else:
+                financials["부채비율"] = 0
+            
+            if current_liabilities != 0:
+                financials["유동비율"] = (financials["유동자산"] / current_liabilities) * 100
+            else:
+                financials["유동비율"] = 0
+            
+            return financials
     except Exception as e:
         logging.error(f"Error in get_financial_data: {str(e)}")
     return {}
@@ -99,7 +118,7 @@ def get_stock_data(symbol, max_retries=3):
                     "industry": safe_get(info, "industry"),
                     "category": safe_get(info, "industry"),  # Using industry as category if not available
                     "longBusinessSummary": translated_summary,
-                    "financials": {k: f"{v:,.2f}" for k, v in financials.items() if v != 0}
+                    "financials": {k: (f"{v:,.2f}" if v != 0 else "") for k, v in financials.items()}
                 }
             }
         except Exception as e:
