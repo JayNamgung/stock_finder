@@ -37,17 +37,25 @@ def get_stock_data(symbol, max_retries=3):
             
             info = stock.info
             original_summary = info.get("longBusinessSummary", "No description available.")
-            translated_summary = translate_to_korean(original_summary)
+            translated_summary = translate_to_korean(original_summary)[:1000]  # 1000자로 제한
             
             # 섹터, 산업, 테마 정보 가져오기
-            sector = info.get("sector", "N/A")
-            industry = info.get("industry", "N/A")
-            category = info.get("category", "N/A")
+            sector = info.get("sector", "") or ""
+            industry = info.get("industry", "") or ""
+            category = info.get("category", "") or ""
             
-            # 추가 정보 가져오기
-            business_summary = info.get("longBusinessSummary", "N/A")
-            market_cap = info.get("marketCap", "N/A")
+            # 'N/A' 값을 빈 문자열로 대체
+            sector = "" if sector == "N/A" else sector
+            industry = "" if industry == "N/A" else industry
+            category = "" if category == "N/A" else category
             
+            # 재무제표 정보 가져오기
+            financials = stock.financials
+            if not financials.empty:
+                latest_financials = financials.iloc[:, 0]  # 최근 1년치 데이터
+            else:
+                latest_financials = pd.Series()
+
             required_info = {
                 "symbol": info.get("symbol", symbol),
                 "longName": info.get("longName", "N/A"),
@@ -55,7 +63,14 @@ def get_stock_data(symbol, max_retries=3):
                 "industry": industry,
                 "category": category,
                 "longBusinessSummary": translated_summary,
-                "marketCap": market_cap
+                "financials": {
+                    "총수익": str(latest_financials.get("Total Revenue", "N/A")),
+                    "영업이익": str(latest_financials.get("Operating Income", "N/A")),
+                    "순이익": str(latest_financials.get("Net Income", "N/A")),
+                    "총자산": str(latest_financials.get("Total Assets", "N/A")),
+                    "총부채": str(latest_financials.get("Total Liabilities Net Minority Interest", "N/A")),
+                    "총자본": str(latest_financials.get("Total Equity Gross Minority Interest", "N/A")),
+                }
             }
             
             return {
@@ -75,14 +90,13 @@ def save_all_text(data, filename):
             info = stock.get('info', {})
             content = f"티커: {info.get('symbol', 'N/A')}\n"
             content += f"이름: {info.get('longName', 'N/A')}\n"
-            content += f"섹터: {info.get('sector', 'N/A')}\n"
-            content += f"산업: {info.get('industry', 'N/A')}\n"
-            content += f"카테고리: {info.get('category', 'N/A')}\n"
-            content += f"시가총액: {info.get('marketCap', 'N/A')}\n"
-            content += f"\n설명:\n{info.get('longBusinessSummary', 'N/A')}\n\n"
-            
-            if len(content) > 1000:
-                content += "\n[참고 : 1000 글자가 넘는 내용입니다.]\n"
+            content += f"섹터: {info.get('sector', '')}\n"
+            content += f"산업: {info.get('industry', '')}\n"
+            content += f"카테고리: {info.get('category', '')}\n"
+            content += "\n재무제표 정보 (최근 1년):\n"
+            for key, value in info.get('financials', {}).items():
+                content += f"{key}: {value}\n"
+            content += f"\n설명:\n{info.get('longBusinessSummary', 'N/A')[:1000]}\n\n"
             
             content += '\n' + '='*50 + '\n\n'
             f.write(content)
@@ -117,11 +131,17 @@ def generate_natural_language_summary(data):
     for stock in data:
         info = stock.get('info', {})
         summary = f"{info.get('longName', 'N/A')}(티커: {info.get('symbol', 'N/A')})은 "
-        summary += f"{info.get('sector', 'N/A')} 섹터, {info.get('industry', 'N/A')} 산업에 속하는 주식입니다.\n"
-        if info.get('category', 'N/A') != 'N/A':
-            summary += f"카테고리: {info.get('category', 'N/A')}\n"
-        summary += f"시가총액: {info.get('marketCap', 'N/A')}\n"
-        summary += f"이 주식에 대한 설명은 다음과 같습니다.\n{info.get('longBusinessSummary', 'N/A')}\n\n"
+        if info.get('sector'):
+            summary += f"{info.get('sector')} 섹터"
+        if info.get('industry'):
+            summary += f", {info.get('industry')} 산업"
+        summary += "에 속하는 주식입니다.\n"
+        if info.get('category'):
+            summary += f"카테고리: {info.get('category')}\n"
+        summary += "\n재무제표 정보 (최근 1년):\n"
+        for key, value in info.get('financials', {}).items():
+            summary += f"{key}: {value}\n"
+        summary += f"\n이 주식에 대한 설명은 다음과 같습니다.\n{info.get('longBusinessSummary', 'N/A')[:1000]}\n\n"
         
         summaries.append(summary)
         summaries.append('=' * 50)  # 50개의 '=' 문자로 구분선 추가
