@@ -51,28 +51,34 @@ def get_financial_data(ticker):
     try:
         income_stmt = ticker.financials
         balance_sheet = ticker.balance_sheet
+        cash_flow = ticker.cashflow
         
-        if not income_stmt.empty and not balance_sheet.empty:
+        if not income_stmt.empty and not balance_sheet.empty and not cash_flow.empty:
             latest_income = income_stmt.iloc[:, 0]
             latest_balance = balance_sheet.iloc[:, 0]
-            
-            items = ["매출액", "영업이익", "순이익", "총자산", "총부채", "총자본"]
-            values = [
-                safe_get(latest_income, "Total Revenue", 0),
-                safe_get(latest_income, "Operating Income", 0),
-                safe_get(latest_income, "Net Income", 0),
-                safe_get(latest_balance, "Total Assets", 0),
-                safe_get(latest_balance, "Total Liabilities Net Minority Interest", 0),
-                safe_get(latest_balance, "Total Stockholder Equity", 0)
-            ]
+            latest_cash_flow = cash_flow.iloc[:, 0]
             
             return {
-                "항목": items,
-                "값": values
+                "매출액": safe_get(latest_income, "Total Revenue", 0),
+                "영업이익": safe_get(latest_income, "Operating Income", 0),
+                "순이익": safe_get(latest_income, "Net Income", 0),
+                "EBITDA": safe_get(latest_income, "EBITDA", 0),
+                "총자산": safe_get(latest_balance, "Total Assets", 0),
+                "총부채": safe_get(latest_balance, "Total Liabilities Net Minority Interest", 0),
+                "총자본": safe_get(latest_balance, "Total Stockholder Equity", 0),
+                "유동자산": safe_get(latest_balance, "Current Assets", 0),
+                "유동부채": safe_get(latest_balance, "Current Liabilities", 0),
+                "영업활동현금흐름": safe_get(latest_cash_flow, "Operating Cash Flow", 0),
+                "투자활동현금흐름": safe_get(latest_cash_flow, "Investing Cash Flow", 0),
+                "재무활동현금흐름": safe_get(latest_cash_flow, "Financing Cash Flow", 0),
+                "잉여현금흐름": safe_get(latest_cash_flow, "Free Cash Flow", 0),
+                "현금및현금성자산": safe_get(latest_balance, "Cash And Cash Equivalents", 0),
+                "부채비율": safe_get(latest_balance, "Total Liabilities Net Minority Interest", 0) / safe_get(latest_balance, "Total Assets", 1) * 100,
+                "유동비율": safe_get(latest_balance, "Current Assets", 0) / safe_get(latest_balance, "Current Liabilities", 1) * 100,
             }
     except Exception as e:
         logging.error(f"Error in get_financial_data: {str(e)}")
-    return {"항목": [], "값": []}
+    return {}
 
 def get_stock_data(symbol, max_retries=3):
     for attempt in range(max_retries):
@@ -93,7 +99,7 @@ def get_stock_data(symbol, max_retries=3):
                     "industry": safe_get(info, "industry"),
                     "category": safe_get(info, "industry"),  # Using industry as category if not available
                     "longBusinessSummary": translated_summary,
-                    "financials": financials
+                    "financials": {k: f"{v:,.2f}" for k, v in financials.items() if v != 0}
                 }
             }
         except Exception as e:
@@ -114,16 +120,16 @@ def save_all_text(data, filename):
             content += f"산업: {info.get('industry', '')}\n"
             content += f"카테고리: {info.get('category', '')}\n"
             content += "\n재무제표 정보 (최근 1년):\n"
-            financials = info.get('financials', {"항목": [], "값": []})
-            for item, value in zip(financials["항목"], financials["값"]):
-                content += f"{item}: {value:,.0f}\n"
+            financials = info.get('financials', {})
+            for key, value in financials.items():
+                content += f"{key}: {value}\n"
             content += f"\n설명:\n{truncate_to_last_sentence(info.get('longBusinessSummary', ''))}\n\n"
             content += '\n' + '='*50 + '\n\n'
             f.write(content)
 
-def save_progress(processed_stocks, filename='progress.json'):
+def save_progress(processed_etfs, filename='progress.json'):
     with open(filename, 'w') as f:
-        json.dump(processed_stocks, f)
+        json.dump(processed_etfs, f)
 
 def load_progress(filename='progress.json'):
     if os.path.exists(filename):
@@ -131,11 +137,19 @@ def load_progress(filename='progress.json'):
             return json.load(f)
     return {}
 
-def process_stock(symbol, processed_stocks):
+def process_stock(symbol, processed_etfs):
+    if symbol in processed_etfs:
+        print(f"Skipping already processed STOCK: {symbol}")
+        return processed_etfs[symbol]
+
+    print(f"Fetching data for {symbol}...")
     data = get_stock_data(symbol)
+    
     if data:
-        processed_stocks[symbol] = data
-        save_progress(processed_stocks)
+        processed_etfs[symbol] = data
+        save_progress(processed_etfs)
+    
+    print(f"Completed processing {symbol}\n")
     return data
 
 def generate_natural_language_summary(data):
@@ -151,9 +165,8 @@ def generate_natural_language_summary(data):
         if info.get('category'):
             summary += f"카테고리: {info.get('category')}\n"
         summary += "\n재무제표 정보 (최근 1년):\n"
-        financials = info.get('financials', {"항목": [], "값": []})
-        for item, value in zip(financials["항목"], financials["값"]):
-            summary += f"{item}: {value:,.0f}\n"
+        for key, value in info.get('financials', {}).items():
+            summary += f"{key}: {value}\n"
         summary += f"\n이 주식에 대한 설명은 다음과 같습니다.\n{truncate_to_last_sentence(info.get('longBusinessSummary', ''))}\n\n"
         summaries.append(summary)
         summaries.append('=' * 50)
