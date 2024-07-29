@@ -6,6 +6,15 @@ from datetime import datetime
 def get_krx_tickers():
     # KRX 상장 종목 전체 가져오기
     df_krx = fdr.StockListing('KRX')
+    # 열 이름 확인 및 필요한 경우 매핑
+    if 'Symbol' not in df_krx.columns:
+        if 'Code' in df_krx.columns:
+            df_krx = df_krx.rename(columns={'Code': 'Symbol'})
+        else:
+            print("Warning: 'Symbol' or 'Code' column not found in KRX listing.")
+            print("Available columns:", df_krx.columns)
+    if 'Name' not in df_krx.columns and 'Name(Korean)' in df_krx.columns:
+        df_krx = df_krx.rename(columns={'Name(Korean)': 'Name'})
     return df_krx
 
 def get_financial_data(ticker):
@@ -67,6 +76,10 @@ def main():
     
     # 각 종목에 대해 데이터 가져오기 및 분석
     for index, row in krx_tickers.iterrows():
+        if 'Symbol' not in row or 'Name' not in row:
+            print(f"Warning: Required columns not found in row. Skipping. Row data: {row}")
+            continue
+        
         ticker = row['Symbol']
         name = row['Name']
         
