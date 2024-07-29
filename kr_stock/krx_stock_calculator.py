@@ -13,19 +13,53 @@ def get_krx_tickers():
 
 def get_financial_data(ticker):
     try:
-        # 주가 데이터만 가져오기
+        # 주가 데이터 가져오기
         df = fdr.DataReader(ticker)
         current_price = df.iloc[-1]['Close']
-        return current_price
+
+        # 재무제표 데이터 가져오기
+        fs = fdr.DataReader(ticker, 'fs')
+        fr = fdr.DataReader(ticker, 'fr')
+        
+        return current_price, fs, fr
     except Exception as e:
         print(f"Error retrieving data for {ticker}: {str(e)}")
-        return None
+        return None, None, None
 
-def calculate_metrics(current_price):
-    # 간단한 지표만 계산
-    return {
-        'Current Price': current_price,
-    }
+def calculate_metrics(current_price, fs, fr):
+    try:
+        # 재무제표에서 필요한 데이터 추출
+        bps = fs.loc['BPS', 'Annual'].iloc[-1]
+        eps = fs.loc['EPS', 'Annual'].iloc[-1]
+        dps = fs.loc['DPS', 'Annual'].iloc[-1]
+        roe = fr.loc['ROE', 'Annual'].iloc[-1] / 100
+        dividend_yield = fr.loc['Dividend Yield', 'Annual'].iloc[-1] / 100
+
+        # 지표 계산
+        per = current_price / eps if eps != 0 else np.nan
+        pbr = current_price / bps if bps != 0 else np.nan
+        
+        r = 0.1  # 요구수익률 (예시)
+        fair_value = round((roe/r) * bps, -1) if r != 0 and bps != 0 else np.nan
+        parity = current_price / fair_value if fair_value != 0 else np.nan
+        expected_return = (fair_value - current_price) / current_price if current_price != 0 else np.nan
+
+        return {
+            'Current Price': current_price,
+            'BPS': bps,
+            'EPS': eps,
+            'DPS': dps,
+            'ROE': roe,
+            'Dividend Yield': dividend_yield,
+            'PER': per,
+            'PBR': pbr,
+            'Fair Value': fair_value,
+            'Parity': parity,
+            'Expected Return': expected_return
+        }
+    except Exception as e:
+        print(f"Error calculating metrics: {str(e)}")
+        return None
 
 def main():
     krx_tickers = get_krx_tickers()
@@ -45,14 +79,17 @@ def main():
 
         print(f"Processing {name} ({ticker}) - {processed_stocks + 1}/{total_stocks}")
         
-        current_price = get_financial_data(ticker)
-        if current_price is not None:
-            metrics = calculate_metrics(current_price)
-            metrics['Symbol'] = ticker
-            metrics['Name'] = name
-            results.append(metrics)
-            processed_stocks += 1
-            print(f"Successfully analyzed {name} ({ticker})")
+        current_price, fs, fr = get_financial_data(ticker)
+        if current_price is not None and fs is not None and fr is not None:
+            metrics = calculate_metrics(current_price, fs, fr)
+            if metrics is not None:
+                metrics['Symbol'] = ticker
+                metrics['Name'] = name
+                results.append(metrics)
+                processed_stocks += 1
+                print(f"Successfully analyzed {name} ({ticker})")
+            else:
+                error_stocks += 1
         else:
             error_stocks += 1
         
