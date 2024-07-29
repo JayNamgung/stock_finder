@@ -9,7 +9,16 @@ def check_section_lengths(file_path, delimiter='================================
         if section:  # 빈 섹션 무시
             length = len(section)
             status = "초과" if length > min_length else "미만"
-            print(f"섹션 {i}: {length}자 ({status})")
+            
+            # 티커 정보 찾기
+            ticker = "N/A"
+            for line in section.split('\n'):
+                if line.startswith("티커:"):
+                    ticker = line.split(":", 1)[1].strip()
+                    break
+            
+            print(f"섹션 {i}: 길이 {length}자 ({status}), 티커: {ticker}")
+
 
 
 file_path = 'us_stock/data/stock_data_korean_translated_240726.txt'
