@@ -1,4 +1,4 @@
-def check_section_lengths(file_path, delimiter='==================================================', min_length=1000):
+def check_section_lengths(file_path, delimiter='==================================================', ma_length=1000):
     with open(file_path, 'r', encoding='utf-8') as file:
         content = file.read()
     
